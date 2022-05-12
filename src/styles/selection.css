@@ -20,6 +20,11 @@
   padding: 12px 0;
 }
 
+.textContainerLeft,
+.textContainerRight h3 {
+  font-size: 15px;
+}
+
 .selectionContainer {
   display: flex;
   justify-content: space-between;
@@ -48,5 +53,21 @@
 @media screen and (min-width: 1020px) {
   .componentContainer {
     width: 70%;
+    margin: 2% auto;
+    height: 300px;
+  }
+
+  .selectionContainer img {
+    height: 150px;
+    margin-left: 40px;
+  }
+
+  .cocktailTitle {
+    font-size: 28px;
+  }
+
+  .textContainerLeft,
+  .textContainerRight h3 {
+    font-size: 20px;
   }
 }
