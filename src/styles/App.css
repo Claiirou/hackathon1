@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Kodchasan:wght@200&family=Raleway:wght@200&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("../assets/feuille.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+html {
+  height: 100vh;
+}
