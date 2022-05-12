@@ -1,13 +1,7 @@
-import React from 'react';
-import { Route, Routes } from 'react-router-dom';
+import React from "react";
+
 const Accueil = () => {
-    return (
-        <div className="routesContainer">
-            <Routes>
-                <Route path='/' element={<Accueil/>} />
-            </Routes>
-        </div>
-    );
+  return <div></div>;
 };
 
 export default Accueil;
