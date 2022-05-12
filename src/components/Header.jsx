@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import "../styles/header.css";
 import header_wood from "../assets/header_wood.png";
 import { useLocation } from "react-router-dom";
+import logo from "../assets/logo2.png";
 
 export default function Header() {
   let location = useLocation();
@@ -13,7 +14,11 @@ export default function Header() {
 
   return (
     <div className="header" style={headerbackground}>
-      {location.pathname === "/" ? <div> Accueil </div> : <div>Calcul </div>}
+      {location.pathname === "/" ? (
+        ""
+      ) : (
+        <img src={logo} alt="logo" className="logoHeader"></img>
+      )}
       <Link to="/">
         <h1 className="titleHeader">Cou-a-bou-ar</h1>
       </Link>

@@ -1,7 +1,7 @@
 .header {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-around;
   width: 100vw;
   height: 100px;
   text-transform: uppercase;
@@ -10,8 +10,13 @@
   background-size: cover;
 }
 
+.logoHeader {
+  height: 40px;
+  width: 40px;
+}
+
 .titleHeader {
-  font-size: 3rem;
+  font-size: 2.4em;
   color: white;
   font-family: "Kodchasan", sans-serif;
 }
