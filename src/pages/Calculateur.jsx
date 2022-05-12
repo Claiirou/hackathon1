@@ -13,9 +13,9 @@ function Calculateur() {
   console.log(saucisson)
   return (
     <div className="calculateurContent">
-      <div className="titleCalculateur">
+      <h1 className="titleCalculateur">
         Alors, quoi de prévu pour l'apéro ?
-      </div>
+      </h1>
       <div className="selectBottle">
         <img src={brewery} alt="brewery" className="breweryImg" />
         <div className="bottleContent">Est-ce qu'il y a de la place ?</div>
