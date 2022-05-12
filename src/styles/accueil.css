@@ -53,3 +53,23 @@
   left: 260px;
   font-style: bold;
 }
+
+@media screen and (min-width: 1020px) {
+  .logoHome {
+    width: 20%;
+    display: block;
+    margin: 0 auto;
+  }
+
+  .text1 {
+    top: 160px;
+    right: 700px;
+    width: 400px;
+  }
+
+  .text2 {
+    top: 160px;
+    left: 700px;
+    width: 400px;
+  }
+}
