@@ -1,0 +1,17 @@
+.logoImageFooter {
+  width: 15px;
+  height: 40px;
+  padding-top: 15px;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  bottom: 0;
+}
+
+.footerText {
+  padding-top: 20px;
+  color: white;
+  font-family: "Kodchasan", sans-serif;
+}
