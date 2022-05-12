@@ -6,12 +6,12 @@ import Selection from "../pages/Selection";
 
 export default function Main() {
   return (
-    <div className="mainContainer">
+    <main className="mainContainer">
       <Routes>
         <Route path="/" element={<Accueil />} />
         <Route path="/calculateur" element={<Calculateur />} />
         <Route path="/selection" element={<Selection />} />
       </Routes>
-    </div>
+    </main>
   );
 }

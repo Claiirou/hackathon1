@@ -5,13 +5,15 @@
   width: 100vw;
   height: 100px;
   text-transform: uppercase;
+  margin-bottom: 15px;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .titleHeader {
-  font-size: 3rem;
+  font-size: 40px;
   color: white;
+  font-family: "Kodchasan", sans-serif;
 }
 
 a {
