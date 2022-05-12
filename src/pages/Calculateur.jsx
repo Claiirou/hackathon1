@@ -7,10 +7,10 @@ import apero from '../assets/apero.json';
 import bieres from '../assets/bieres.json';
 import softs from '../assets/softs.json';
 import saucisson from '../assets/saucissonOlive.json';
-
+import bottle from '../assets/bottle.png';
 
 function Calculateur() {
-  console.log(saucisson)
+  
   return (
     <div className="calculateurContent">
       <div className="titleCalculateur">
@@ -18,8 +18,10 @@ function Calculateur() {
       </div>
       <div className="selectBottle">
         <img src={brewery} alt="brewery" className="breweryImg" />
-        <div className="bottleContent">Est-ce qu'il y a de la place ?</div>
-      </div>
+        <div className="bottleContent">
+        {alcool.map((bot) => (<div className="drinks"><img className="bottle-image" src={bottle} alt={bot.nom_francais}/> <p>{bot.nom_francais}</p></div>))}
+        </div>
+        </div>
       <div className="selectAperitif">
         <img src={aperitif} alt="aperitif" className="aperitifImg" />
         <div className="aperitifContent">

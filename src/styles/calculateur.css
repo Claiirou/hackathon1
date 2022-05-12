@@ -7,9 +7,11 @@
   border-radius: 10px;
   box-shadow: 2px 2px 2px black;
   display: flex;
+  flex-direction: row;
   justify-content: center;
   position: relative;
 }
+
 .selectAperitif {
   background-color: rgba(196, 196, 196, 0.47);
   width: 95%;
@@ -22,7 +24,10 @@
   justify-content: center;
   position: relative;
 }
-
+.drinks {
+  margin: 1rem;
+  padding: .5rem;
+}
 .breweryImg {
   width: 100px;
   height: 100px;
@@ -30,7 +35,10 @@
   position: absolute;
   top: -80px;
 }
-
+.bottle-image {
+  height: 2rem;
+  width: 1.5rem;
+}
 .aperitifImg {
   width: 100px;
   height: 100px;
@@ -62,6 +70,8 @@
 .bottleContent {
   margin: 20px;
   color: white;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .aperitifContent {
