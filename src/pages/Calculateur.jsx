@@ -2,6 +2,7 @@ import React from "react";
 import brewery from "../assets/brewery.png";
 import aperitif from "../assets/aperitif.png";
 import "../styles/calculateur.css";
+import Resultat from "../components/Resultat";
 
 function Calculateur() {
   return (
@@ -22,6 +23,7 @@ function Calculateur() {
       <button type="submit" className="calculBtn">
         Calcul
       </button>
+      <Resultat resultat={0.5} />
     </div>
   );
 }
