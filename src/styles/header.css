@@ -1,13 +1,17 @@
+.headerContainer {
+  width: 100vw;
+  height: 110px;
+  padding-top: 10px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .header {
   display: flex;
   align-items: center;
   justify-content: space-around;
-  width: 100vw;
-  height: 100px;
   text-transform: uppercase;
   margin-bottom: 15px;
-  background-repeat: no-repeat;
-  background-size: cover;
 }
 
 .logoHeader {
