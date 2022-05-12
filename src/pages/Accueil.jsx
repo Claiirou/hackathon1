@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import React from 'react';
 import AppelData from '../components/AppelData';
 const Accueil = () => {
