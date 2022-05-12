@@ -1,0 +1,17 @@
+.title {
+    color: white;
+    text-align: center;
+    margin-top: 24px;
+}
+
+.selectionComponent {
+  background-color: rgba(196, 196, 196, 0.47);
+  width: 95%;
+  min-height: 50px;
+  margin: 2.5%;
+  margin-bottom: 20%;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px black;
+  display: flex;
+  justify-content: center;
+}
