@@ -1,7 +1,10 @@
 import React from 'react';
+import AppelData from '../components/AppelData';
 const Accueil = () => {
     return (
-        <div> </div>
+        <div>
+            <AppelData />
+        </div>
     );
 };
 
