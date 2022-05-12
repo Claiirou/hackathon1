@@ -35,7 +35,7 @@ const Accueil = () => {
       </div>
       <h2 className="titleHome">Le guide de l'apéro écoresponsable</h2>
       <div className="buttonDiv">
-        <Link to="/">
+        <Link to="/Calculateur">
           {" "}
           <button type="button" className="buttonHome" onClick={handleClick}>
             Let's Drink !
