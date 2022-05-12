@@ -18,13 +18,11 @@ function Calculateur() {
   };
 
   const [loading, setLoading] = React.useState(false);
-  const initTime = 5;
-  const [timer, setTimer] = React.useState(initTime);
 
   const handleClick = () => {
     start();
     setLoading(true);
-    setTimer(initTime);
+    setTimeout(() => setLoading(false), 4000);
   };
 
   return (
