@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import brewery from "../assets/brewery.png";
 import aperitif from "../assets/aperitif.png";
 import "../styles/calculateur.css";
@@ -10,7 +10,15 @@ import saucisson from '../assets/saucissonOlive.json';
 import bottle from '../assets/bottle.png';
 
 function Calculateur() {
-  
+  const [isChosen, setIsChosen] = useState('');
+  const [usersChoice] = useState([]);
+
+function pickOne (value) {
+  usersChoice.push(value);
+  setIsChosen(value);
+}
+console.log(isChosen);
+
   return (
     <div className="calculateurContent">
       <div className="titleCalculateur">
@@ -19,8 +27,33 @@ function Calculateur() {
       <div className="selectBottle">
         <img src={brewery} alt="brewery" className="breweryImg" />
         <div className="bottleContent">
-        {alcool.map((bot) => (<div className="drinks"><img className="bottle-image" src={bottle} alt={bot.nom_francais}/> <p>{bot.nom_francais}</p></div>))}
-        </div>
+        
+        <select 
+          className="beer-input"
+          value={isChosen} 
+          onChange={(e) => pickOne(e.target.value)}>
+            <option key={''} 
+            value={''}>-- Boissons --</option>
+          {bieres.map((bot) => 
+        (<option 
+          key={bot.ciqual_AGB} 
+          value={bot.nom_francais}>{bot.nom_francais}</option>))}
+          {alcool.map((bot) => 
+        (<option 
+          key={bot.ciqual_AGB} 
+          value={bot.nom_francais}>{bot.nom_francais}</option>))}
+          {softs.map((bot) => 
+        (<option 
+          key={bot.ciqual_AGB} 
+          value={bot.nom_francais}>{bot.nom_francais}</option>))}
+          </select>
+          
+          {usersChoice.map((u) => (
+            <div className="drinks-added">
+              <img src={bottle} alt={u}/>
+              <p>{u}</p></div>
+          ))}
+          </div>
         </div>
       <div className="selectAperitif">
         <img src={aperitif} alt="aperitif" className="aperitifImg" />

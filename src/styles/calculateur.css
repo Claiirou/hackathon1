@@ -24,9 +24,34 @@
   justify-content: center;
   position: relative;
 }
-.drinks {
-  margin: 1rem;
-  padding: .5rem;
+.soft-input {
+  width: 90vw;
+  margin: 0 auto;
+  margin-bottom: 2rem;
+}
+.alcool-input {
+  width: 90vw;
+  margin: 0 auto;
+  margin-bottom: 2rem;
+}
+.beer-input {
+  width: 90vw;
+  margin: 0 auto;
+  margin-bottom: 2rem;
+}
+.drinks-added img {
+  height: 5rem;
+  width: 1.5rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.drinks-added {
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  width: 20%;
+  text-align: center;
 }
 .breweryImg {
   width: 100px;
@@ -36,7 +61,7 @@
   top: -80px;
 }
 .bottle-image {
-  height: 2rem;
+  height: 5rem;
   width: 1.5rem;
 }
 .aperitifImg {
