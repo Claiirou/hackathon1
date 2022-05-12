@@ -35,9 +35,7 @@ function Calculateur() {
     usersChoiceFood.forEach(ouestcequonva => syntheseFood.push(ouestcequonva.impact_environnemental['Changement climatique'].synthese / 10));
 const summedArray = [...syntheseAlcool, ...syntheseFood];
 const totalScore =  summedArray.reduce((previousValue, currentValue) => previousValue + currentValue, 0) / (250 / 52);
-console.log(totalScore);
-console.log(syntheseAlcool);
-console.log(syntheseFood);
+return totalScore;
 }
 
   return (
@@ -103,7 +101,7 @@ console.log(syntheseFood);
       <button type="submit" className="calculBtn" onClick={addItAllUp}>
         Calcul
       </button>
-      <Resultat resultat={0.5} />
+      <Resultat resultat={addItAllUp()} />
     </div>
   );
 }
