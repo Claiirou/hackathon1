@@ -7,5 +7,7 @@
 }
 
 body {
-  background-image: url("./assets/feuille.jpg");
+  background-image: url("../assets/feuille.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
