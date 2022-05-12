@@ -12,6 +12,6 @@ body {
   background-size: cover;
 }
 
-html {
-  height: 100vh;
+main {
+  min-height: 80vh;
 }

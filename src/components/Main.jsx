@@ -5,11 +5,11 @@ import Calculateur from "../pages/Calculateur";
 
 export default function Main() {
   return (
-    <div className="mainContainer">
+    <main className="mainContainer">
       <Routes>
         <Route path="/" element={<Accueil />} />
         <Route path="/calculateur" element={<Calculateur />} />
       </Routes>
-    </div>
+    </main>
   );
 }

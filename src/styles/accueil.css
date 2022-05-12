@@ -39,19 +39,21 @@
 
 .text1 {
   position: absolute;
-  width: 160px;
+  width: 140px;
   top: 245px;
-  right: 260px;
+  left: 15px;
   text-align: center;
+  font-size: 12px;
 }
 
 .text2 {
   position: absolute;
   text-align: center;
-  width: 160px;
-  top: 280px;
-  left: 260px;
+  width: 140px;
+  top: 260px;
+  right: 15px;
   font-style: bold;
+  font-size: 12px;
 }
 
 @media screen and (min-width: 1020px) {
