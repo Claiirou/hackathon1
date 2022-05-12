@@ -1,0 +1,52 @@
+.logoHome {
+  width: 100%;
+}
+
+.buttonDiv {
+  text-align: center;
+}
+
+.buttonHome {
+  width: 240px;
+  height: 45px;
+  border-radius: 25px;
+  margin-top: 20px;
+  font-family: "Kodchasan", sans-serif;
+  font-style: bold;
+  color: white;
+  font-size: 24px;
+  background-color: rgb(178, 216, 177, 0.49);
+  background-blend-mode: lighten;
+}
+
+.titleHome {
+  font-family: "Kodchasan", sans-serif;
+  font-size: 28px;
+  color: white;
+  text-align: center;
+  font-style: bold;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.textImgHome {
+  color: white;
+  font-family: "Kodchasan", sans-serif;
+  position: relative;
+}
+
+.text1 {
+  position: absolute;
+  width: 160px;
+  top: 245px;
+  right: 260px;
+  text-align: center;
+}
+
+.text2 {
+  position: absolute;
+  text-align: center;
+  width: 160px;
+  top: 280px;
+  left: 260px;
+}
