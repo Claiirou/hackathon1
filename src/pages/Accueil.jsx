@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from 'react';
 import AppelData from '../components/AppelData';
 const Accueil = () => {
@@ -5,7 +6,6 @@ const Accueil = () => {
         <div>
             <AppelData />
         </div>
-    );
-};
+)};
 
 export default Accueil;
