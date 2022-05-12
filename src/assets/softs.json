@@ -1,0 +1,3080 @@
+[
+  {
+    "nom_francais": "Jus multifruit, pur jus, multivitaminé",
+    "LCI_name": "Mixed fruits juice, pure juice, multivitamin",
+    "ciqual_AGB": "2002",
+    "ciqual_code": "2002",
+    "groupe": "boissons",
+    "sous_groupe": "boissons sans alcool",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "HPDE",
+    "Livraison": "Glacé",
+    "Preparation": "Réfrigéré chez le consommateur",
+    "DQR": {
+      "overall": "3.11",
+      "P": "2.54",
+      "TiR": "3.97",
+      "GR": "2.68",
+      "TeR": "3.25"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.14687612,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0.08590882100000001,
+          "Transformation": 0.0056288216,
+          "Emballage": 0.014792145999999999,
+          "Transport": 0.029304117999999997,
+          "Supermarché et distribution": 0.0088128735,
+          "Consommation": 0.0024293397
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.024658976,
+          "Orange": 0.053210252000000006,
+          "Ananas": 0.017806423999999998,
+          "Pomme de table": 0.011385884,
+          "Autres étapes": 0.039814585
+        }
+      },
+      "Changement climatique": {
+        "synthese": 0.80120163,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.22282021,
+          "Transformation": 0.036217,
+          "Emballage": 0.17256359,
+          "Transport": 0.33586911,
+          "Supermarché et distribution": 0.028932423,
+          "Consommation": 0.0047993021
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.097754872,
+          "Orange": 0.16539452,
+          "Ananas": 0.11192019,
+          "Pomme de table": 0.039121836,
+          "Autres étapes": 0.38701021
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.12806489,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.021923271,
+          "Transformation": 0.00337269,
+          "Emballage": 0.0059762428999999995,
+          "Transport": 0.078262519,
+          "Supermarché et distribution": 0.014391775,
+          "Consommation": 0.0041383883
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.013639168,
+          "Orange": 0.020453012,
+          "Ananas": 0.014760812,
+          "Pomme de table": 0.0092375453,
+          "Autres étapes": 0.06997434799999999
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.30931729,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.019191602,
+          "Transformation": 0.0014513242,
+          "Emballage": 0.051120304,
+          "Transport": 0.024306863,
+          "Supermarché et distribution": 0.16540805,
+          "Consommation": 0.047839148
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.0076543321,
+          "Orange": 0.012444283,
+          "Ananas": 0.0070318173,
+          "Pomme de table": 0.0065792174,
+          "Autres étapes": 0.27560764
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 3.8426171,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.1957175,
+          "Transformation": 0.15870468000000001,
+          "Emballage": 0.51928306,
+          "Transport": 1.9049360000000002,
+          "Supermarché et distribution": 0.04985858,
+          "Consommation": 0.014117292
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.7117838299999999,
+          "Orange": 0.91954563,
+          "Ananas": 0.74479934,
+          "Pomme de table": 0.28103366,
+          "Autres étapes": 1.1854546000000001
+        }
+      },
+      "Particules": {
+        "synthese": 0.050270298000000005,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0.022691377999999998,
+          "Transformation": 0.0047819790000000004,
+          "Emballage": 0.0048674231,
+          "Transport": 0.016484597,
+          "Supermarché et distribution": 0.0011227005,
+          "Consommation": 0.0003222193
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.0086750137,
+          "Orange": 0.017225037,
+          "Ananas": 0.0067116731,
+          "Pomme de table": 0.0022687048,
+          "Autres étapes": 0.015389868999999999
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.0074335332,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.0032322178,
+          "Transformation": 0.00073944222,
+          "Emballage": 0.00056405051,
+          "Transport": 0.0027412591,
+          "Supermarché et distribution": 0.00012177022,
+          "Consommation": 0.000034793328
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.0015526806,
+          "Orange": 0.0025758166,
+          "Ananas": 0.0015663166,
+          "Pomme de table": 0.00037177686,
+          "Autres étapes": 0.0013669425
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.023893109,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.012506448,
+          "Transformation": 0.0032001365,
+          "Emballage": 0.0011287245,
+          "Transport": 0.0067493399,
+          "Supermarché et distribution": 0.00023996011,
+          "Consommation": 0.000068499657
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.0050463138,
+          "Orange": 0.0096398084,
+          "Ananas": 0.0043703762,
+          "Pomme de table": 0.0013982301,
+          "Autres étapes": 0.0034383802
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.15819308999999998,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.077626355,
+          "Transformation": 0.014317875,
+          "Emballage": 0.019522184,
+          "Transport": 0.032651082,
+          "Supermarché et distribution": 0.010940642,
+          "Consommation": 0.0031349554
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.027894815,
+          "Orange": 0.044626273,
+          "Ananas": 0.027407437,
+          "Pomme de table": 0.0098114916,
+          "Autres étapes": 0.048453076
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 2.1740323999999998,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.3510616,
+          "Transformation": 0.076701894,
+          "Emballage": 0.10339123,
+          "Transport": 0.6076614300000001,
+          "Supermarché et distribution": 0.027417063000000002,
+          "Consommation": 0.0077991547
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.46208077999999997,
+          "Orange": 0.59539438,
+          "Ananas": 0.64205267,
+          "Pomme de table": 0.15244557,
+          "Autres étapes": 0.322059
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 24.709147,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 22.019358,
+          "Transformation": 0.18872555,
+          "Emballage": 0.13823819,
+          "Transport": 2.2563263,
+          "Supermarché et distribution": 0.08277785,
+          "Consommation": 0.023721083
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 6.1541666,
+          "Orange": 10.594826,
+          "Ananas": 5.795279,
+          "Pomme de table": 0.69218768,
+          "Autres étapes": 1.4726878
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 28.078945,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 20.088233,
+          "Transformation": 2.9489681,
+          "Emballage": 0.51670582,
+          "Transport": 3.3991851,
+          "Supermarché et distribution": 0.8750349,
+          "Consommation": 0.25081812
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 4.0366599,
+          "Orange": 6.6606631,
+          "Ananas": 9.8390515,
+          "Pomme de table": 4.099076,
+          "Autres étapes": 3.4434942
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 6.5797565,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 6.4459061,
+          "Transformation": 0.0058006947,
+          "Emballage": 0.043631104,
+          "Transport": 0.032218121,
+          "Supermarché et distribution": 0.042443419,
+          "Consommation": 0.0097571262
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 1.503845,
+          "Orange": 4.0903196,
+          "Ananas": 0.18511282,
+          "Pomme de table": 0.68814853,
+          "Autres étapes": 0.11233063
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 16.809013,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 2.4882702,
+          "Transformation": 0.26858744,
+          "Emballage": 4.8558824,
+          "Transport": 4.6865626,
+          "Supermarché et distribution": 3.5006774,
+          "Consommation": 1.0090332
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 1.2345231,
+          "Orange": 1.9161634,
+          "Ananas": 1.2742936,
+          "Pomme de table": 0.62356859,
+          "Autres étapes": 11.760465
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 2.5867623,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.3760713,
+          "Transformation": 0.025660216,
+          "Emballage": 0.06890471899999999,
+          "Transport": 0.9252569199999999,
+          "Supermarché et distribution": 0.14815562,
+          "Consommation": 0.042713564
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.28688581999999996,
+          "Orange": 0.56900892,
+          "Ananas": 0.35842617,
+          "Pomme de table": 0.44340343,
+          "Autres étapes": 0.929038
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Cocktail sans alcool (à base de jus de fruits et de sirop)",
+    "LCI_name": "Cocktail, alcohol-free (juices and syrup-based cocktail)",
+    "ciqual_AGB": "2008",
+    "ciqual_code": "2008",
+    "groupe": "boissons",
+    "sous_groupe": "boisson alcoolisées",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "Verre",
+    "Livraison": "Glacé",
+    "Preparation": "Réfrigéré chez le consommateur",
+    "DQR": {
+      "overall": "2.29",
+      "P": "1.75",
+      "TiR": "2.82",
+      "GR": "2.36",
+      "TeR": "2.22"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.13190048,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0.042662150999999995,
+          "Transformation": 0.0035429768999999996,
+          "Emballage": 0.051649676000000005,
+          "Transport": 0.022803467999999997,
+          "Supermarché et distribution": 0.0088128735,
+          "Consommation": 0.0024293397
+        },
+        "ingredients": {
+          "Cassonade": 0.011142855,
+          "Jus de citron": 0.037792093,
+          "Autres étapes": 0.08296553631
+        }
+      },
+      "Changement climatique": {
+        "synthese": 0.95026221,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.10921637,
+          "Transformation": 0.017807258,
+          "Emballage": 0.49690685,
+          "Transport": 0.2926,
+          "Supermarché et distribution": 0.028932423,
+          "Consommation": 0.0047993021
+        },
+        "ingredients": {
+          "Cassonade": 0.040465639,
+          "Jus de citron": 0.11943221,
+          "Autres étapes": 0.79036436023
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.17329986,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.0072255753,
+          "Transformation": 0.0023978425,
+          "Emballage": 0.072623762,
+          "Transport": 0.072522513,
+          "Supermarché et distribution": 0.014391775,
+          "Consommation": 0.0041383883
+        },
+        "ingredients": {
+          "Cassonade": 0.0015776268999999998,
+          "Jus de citron": 0.015296015999999999,
+          "Autres étapes": 0.15642621463499998
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.30183105,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.0065544721,
+          "Transformation": 0.0097502503,
+          "Emballage": 0.053489378,
+          "Transport": 0.018789746,
+          "Supermarché et distribution": 0.16540805,
+          "Consommation": 0.047839148
+        },
+        "ingredients": {
+          "Cassonade": 0.0011557246,
+          "Jus de citron": 0.017686933,
+          "Autres étapes": 0.28298838792
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 3.7632429999999997,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.52277081,
+          "Transformation": 0.074111466,
+          "Emballage": 2.0425077000000003,
+          "Transport": 1.0598771999999999,
+          "Supermarché et distribution": 0.04985858,
+          "Consommation": 0.014117292
+        },
+        "ingredients": {
+          "Cassonade": 0.13832256,
+          "Jus de citron": 0.65207709,
+          "Autres étapes": 2.97284342366
+        }
+      },
+      "Particules": {
+        "synthese": 0.098075577,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0.018352581,
+          "Transformation": 0.0021107376000000003,
+          "Emballage": 0.061298028000000004,
+          "Transport": 0.01486931,
+          "Supermarché et distribution": 0.0011227005,
+          "Consommation": 0.0003222193
+        },
+        "ingredients": {
+          "Cassonade": 0.0098439759,
+          "Jus de citron": 0.012415296999999999,
+          "Autres étapes": 0.075816304704
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.0081449199,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.0017503896,
+          "Transformation": 0.0003204315,
+          "Emballage": 0.0046828017,
+          "Transport": 0.0012347336,
+          "Supermarché et distribution": 0.00012177022,
+          "Consommation": 0.000034793328
+        },
+        "ingredients": {
+          "Cassonade": 0.00052032508,
+          "Jus de citron": 0.001854693,
+          "Autres étapes": 0.0057699017833
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.020145762,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.0070862681,
+          "Transformation": 0.0013503004,
+          "Emballage": 0.0078500547,
+          "Transport": 0.0035506788,
+          "Supermarché et distribution": 0.00023996011,
+          "Consommation": 0.000068499657
+        },
+        "ingredients": {
+          "Cassonade": 0.0021373559,
+          "Jus de citron": 0.0069697665,
+          "Autres étapes": 0.011038639438600001
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.17357531,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.031930994,
+          "Transformation": 0.0070365926,
+          "Emballage": 0.095903725,
+          "Transport": 0.024628398,
+          "Supermarché et distribution": 0.010940642,
+          "Consommation": 0.0031349554
+        },
+        "ingredients": {
+          "Cassonade": 0.0090561066,
+          "Jus de citron": 0.03299959,
+          "Autres étapes": 0.13151961386
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 1.6082386000000002,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.53905337,
+          "Transformation": 0.034801055,
+          "Emballage": 0.6752250599999999,
+          "Transport": 0.3239429,
+          "Supermarché et distribution": 0.027417063000000002,
+          "Consommation": 0.0077991547
+        },
+        "ingredients": {
+          "Cassonade": 0.21700041,
+          "Jus de citron": 0.41687094,
+          "Autres étapes": 0.97436723953
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 17.822836,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 10.087616,
+          "Transformation": 0.087250101,
+          "Emballage": 5.50476,
+          "Transport": 2.0367107,
+          "Supermarché et distribution": 0.08277785,
+          "Consommation": 0.023721083
+        },
+        "ingredients": {
+          "Cassonade": 3.2117943,
+          "Jus de citron": 7.231124,
+          "Autres étapes": 7.3799173295000005
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 20.492976,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 6.4501412,
+          "Transformation": 1.453181,
+          "Emballage": 8.5288162,
+          "Transport": 2.934985,
+          "Supermarché et distribution": 0.8750349,
+          "Consommation": 0.25081812
+        },
+        "ingredients": {
+          "Cassonade": 3.1265319,
+          "Jus de citron": 5.1202509,
+          "Autres étapes": 12.2461938646
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 3.4355307,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 3.1569197,
+          "Transformation": 0.076047213,
+          "Emballage": 0.12327471,
+          "Transport": 0.027088531,
+          "Supermarché et distribution": 0.042443419,
+          "Consommation": 0.0097571262
+        },
+        "ingredients": {
+          "Cassonade": 0.38236303,
+          "Jus de citron": 2.8204383,
+          "Autres étapes": 0.232729335
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 16.989047,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 0.94597739,
+          "Transformation": 0.3289129,
+          "Emballage": 7.2666296,
+          "Transport": 3.9378163,
+          "Supermarché et distribution": 3.5006774,
+          "Consommation": 1.0090332
+        },
+        "ingredients": {
+          "Cassonade": 0.21866648,
+          "Jus de citron": 1.5484646,
+          "Autres étapes": 15.2219158592
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 2.8465505,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.38795596,
+          "Transformation": 0.019398409000000002,
+          "Emballage": 1.2145978,
+          "Transport": 1.0337292,
+          "Supermarché et distribution": 0.14815562,
+          "Consommation": 0.042713564
+        },
+        "ingredients": {
+          "Cassonade": 0.082544061,
+          "Jus de citron": 0.39783050000000003,
+          "Autres étapes": 2.36617591717
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Jus multifruit - base orange, multivitaminé",
+    "LCI_name": "Mixed fruits juice, orange based, multivitamin",
+    "ciqual_AGB": "2011",
+    "ciqual_code": "2011",
+    "groupe": "boissons",
+    "sous_groupe": "boissons sans alcool",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "HPDE",
+    "Livraison": "Glacé",
+    "Preparation": "Réfrigéré chez le consommateur",
+    "DQR": {
+      "overall": "3.68",
+      "P": "3.67",
+      "TiR": "3.97",
+      "GR": "2.68",
+      "TeR": "4.38"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.14687612,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0.08590882100000001,
+          "Transformation": 0.0056288216,
+          "Emballage": 0.014792145999999999,
+          "Transport": 0.029304117999999997,
+          "Supermarché et distribution": 0.0088128735,
+          "Consommation": 0.0024293397
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.024658976,
+          "Orange": 0.053210252000000006,
+          "Ananas": 0.017806423999999998,
+          "Pomme de table": 0.011385884,
+          "Autres étapes": 0.039814585
+        }
+      },
+      "Changement climatique": {
+        "synthese": 0.80120163,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.22282021,
+          "Transformation": 0.036217,
+          "Emballage": 0.17256359,
+          "Transport": 0.33586911,
+          "Supermarché et distribution": 0.028932423,
+          "Consommation": 0.0047993021
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.097754872,
+          "Orange": 0.16539452,
+          "Ananas": 0.11192019,
+          "Pomme de table": 0.039121836,
+          "Autres étapes": 0.38701021
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.12806489,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.021923271,
+          "Transformation": 0.00337269,
+          "Emballage": 0.0059762428999999995,
+          "Transport": 0.078262519,
+          "Supermarché et distribution": 0.014391775,
+          "Consommation": 0.0041383883
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.013639168,
+          "Orange": 0.020453012,
+          "Ananas": 0.014760812,
+          "Pomme de table": 0.0092375453,
+          "Autres étapes": 0.06997434799999999
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.30931729,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.019191602,
+          "Transformation": 0.0014513242,
+          "Emballage": 0.051120304,
+          "Transport": 0.024306863,
+          "Supermarché et distribution": 0.16540805,
+          "Consommation": 0.047839148
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.0076543321,
+          "Orange": 0.012444283,
+          "Ananas": 0.0070318173,
+          "Pomme de table": 0.0065792174,
+          "Autres étapes": 0.27560764
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 3.8426171,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.1957175,
+          "Transformation": 0.15870468000000001,
+          "Emballage": 0.51928306,
+          "Transport": 1.9049360000000002,
+          "Supermarché et distribution": 0.04985858,
+          "Consommation": 0.014117292
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.7117838299999999,
+          "Orange": 0.91954563,
+          "Ananas": 0.74479934,
+          "Pomme de table": 0.28103366,
+          "Autres étapes": 1.1854546000000001
+        }
+      },
+      "Particules": {
+        "synthese": 0.050270298000000005,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0.022691377999999998,
+          "Transformation": 0.0047819790000000004,
+          "Emballage": 0.0048674231,
+          "Transport": 0.016484597,
+          "Supermarché et distribution": 0.0011227005,
+          "Consommation": 0.0003222193
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.0086750137,
+          "Orange": 0.017225037,
+          "Ananas": 0.0067116731,
+          "Pomme de table": 0.0022687048,
+          "Autres étapes": 0.015389868999999999
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.0074335332,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.0032322178,
+          "Transformation": 0.00073944222,
+          "Emballage": 0.00056405051,
+          "Transport": 0.0027412591,
+          "Supermarché et distribution": 0.00012177022,
+          "Consommation": 0.000034793328
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.0015526806,
+          "Orange": 0.0025758166,
+          "Ananas": 0.0015663166,
+          "Pomme de table": 0.00037177686,
+          "Autres étapes": 0.0013669425
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.023893109,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.012506448,
+          "Transformation": 0.0032001365,
+          "Emballage": 0.0011287245,
+          "Transport": 0.0067493399,
+          "Supermarché et distribution": 0.00023996011,
+          "Consommation": 0.000068499657
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.0050463138,
+          "Orange": 0.0096398084,
+          "Orange": 0.0096398084,
+          "Ananas": 0.0043703762,
+          "Pomme de table": 0.0013982301,
+          "Autres étapes": 0.0034383802
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.15819308999999998,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.077626355,
+          "Transformation": 0.014317875,
+          "Emballage": 0.019522184,
+          "Transport": 0.032651082,
+          "Supermarché et distribution": 0.010940642,
+          "Consommation": 0.0031349554
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.027894815,
+          "Orange": 0.044626273,
+          "Ananas": 0.027407437,
+          "Pomme de table": 0.0098114916,
+          "Autres étapes": 0.048453076
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 2.1740323999999998,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.3510616,
+          "Transformation": 0.076701894,
+          "Emballage": 0.10339123,
+          "Transport": 0.6076614300000001,
+          "Supermarché et distribution": 0.027417063000000002,
+          "Consommation": 0.0077991547
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.46208077999999997,
+          "Orange": 0.59539438,
+          "Ananas": 0.64205267,
+          "Pomme de table": 0.15244557,
+          "Autres étapes": 0.322059
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 24.709147,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 22.019358,
+          "Transformation": 0.18872555,
+          "Emballage": 0.13823819,
+          "Transport": 2.2563263,
+          "Supermarché et distribution": 0.08277785,
+          "Consommation": 0.023721083
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 6.1541666,
+          "Orange": 10.594826,
+          "Ananas": 5.795279,
+          "Pomme de table": 0.69218768,
+          "Autres étapes": 1.4726878
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 28.078945,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 20.088233,
+          "Transformation": 2.9489681,
+          "Emballage": 0.51670582,
+          "Transport": 3.3991851,
+          "Supermarché et distribution": 0.8750349,
+          "Consommation": 0.25081812
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 4.0366599,
+          "Orange": 6.6606631,
+          "Ananas": 9.8390515,
+          "Pomme de table": 4.099076,
+          "Autres étapes": 3.4434942
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 6.5797565,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 6.4459061,
+          "Transformation": 0.0058006947,
+          "Emballage": 0.043631104,
+          "Transport": 0.032218121,
+          "Supermarché et distribution": 0.042443419,
+          "Consommation": 0.0097571262
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 1.503845,
+          "Orange": 4.0903196,
+          "Ananas": 0.18511282,
+          "Pomme de table": 0.68814853,
+          "Autres étapes": 0.11233063
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 16.809013,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 2.4882702,
+          "Transformation": 0.26858744,
+          "Emballage": 4.8558824,
+          "Transport": 4.6865626,
+          "Supermarché et distribution": 3.5006774,
+          "Consommation": 1.0090332
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 1.2345231,
+          "Orange": 1.9161634,
+          "Ananas": 1.2742936,
+          "Pomme de table": 0.62356859,
+          "Autres étapes": 11.760465
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 2.5867623,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.3760713,
+          "Transformation": 0.025660216,
+          "Emballage": 0.06890471899999999,
+          "Transport": 0.9252569199999999,
+          "Supermarché et distribution": 0.14815562,
+          "Consommation": 0.042713564
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.28688581999999996,
+          "Orange": 0.56900892,
+          "Ananas": 0.35842617,
+          "Pomme de table": 0.44340343,
+          "Autres étapes": 0.929038
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Jus d'orange, maison",
+    "LCI_name": "Orange juice, home-made",
+    "ciqual_AGB": "2013",
+    "ciqual_code": "2013",
+    "groupe": "boissons",
+    "sous_groupe": "boissons sans alcool",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "Carton",
+    "Livraison": "Glacé",
+    "Preparation": "Pas de préparation",
+    "DQR": {
+      "overall": "2.27",
+      "P": "1.42",
+      "TiR": "3.12",
+      "GR": "2.41",
+      "TeR": "2.13"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.26561763,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0.18761485,
+          "Transformation": 0.019422825,
+          "Emballage": 0.014974093,
+          "Transport": 0.032363646999999995,
+          "Supermarché et distribution": 0.0088128735,
+          "Consommation": 0.0024293397
+        }
+      },
+      "Changement climatique": {
+        "synthese": 1.0328872,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.40923055,
+          "Transformation": 0.10433272,
+          "Emballage": 0.098786634,
+          "Transport": 0.38680556,
+          "Supermarché et distribution": 0.028932423,
+          "Consommation": 0.0047993021
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.1698943,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.03361874,
+          "Transformation": 0.014130641999999999,
+          "Emballage": 0.012650653000000001,
+          "Transport": 0.090964102,
+          "Supermarché et distribution": 0.014391775,
+          "Consommation": 0.0041383883
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.34213066,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.032135402,
+          "Transformation": 0.057444657,
+          "Emballage": 0.011818166,
+          "Transport": 0.027485234,
+          "Supermarché et distribution": 0.16540805,
+          "Consommation": 0.047839148
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 4.9298056,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 2.2883825,
+          "Transformation": 0.43549609,
+          "Emballage": 0.35297650999999997,
+          "Transport": 1.7889746,
+          "Supermarché et distribution": 0.04985858,
+          "Consommation": 0.014117292
+        }
+      },
+      "Particules": {
+        "synthese": 0.092760604,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0.05064646,
+          "Transformation": 0.012470713999999999,
+          "Emballage": 0.0078953426,
+          "Transport": 0.020303168,
+          "Supermarché et distribution": 0.0011227005,
+          "Consommation": 0.0003222193
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.012377109,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.0073218125,
+          "Transformation": 0.001895659,
+          "Emballage": 0.00050301616,
+          "Transport": 0.0025000573,
+          "Supermarché et distribution": 0.00012177022,
+          "Consommation": 0.000034793328
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.045482781,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.029457811,
+          "Transformation": 0.0080115888,
+          "Emballage": 0.001589245,
+          "Transport": 0.006115677,
+          "Supermarché et distribution": 0.00023996011,
+          "Consommation": 0.000068499657
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.27333579,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.13616004,
+          "Transformation": 0.040600765999999996,
+          "Emballage": 0.047259957,
+          "Transport": 0.035239431,
+          "Supermarché et distribution": 0.010940642,
+          "Consommation": 0.0031349554
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 2.9117683,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.9169819,
+          "Transformation": 0.20525670000000001,
+          "Emballage": 0.20281961,
+          "Transport": 0.55149392,
+          "Supermarché et distribution": 0.027417063000000002,
+          "Consommation": 0.0077991547
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 48.84761,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 40.927509,
+          "Transformation": 0.51167543,
+          "Emballage": 4.4108204,
+          "Transport": 2.8911061,
+          "Supermarché et distribution": 0.08277785,
+          "Consommation": 0.023721083
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 46.395653,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 19.783389,
+          "Transformation": 8.6201436,
+          "Emballage": 12.903892,
+          "Transport": 3.9623751,
+          "Supermarché et distribution": 0.8750349,
+          "Consommation": 0.25081812
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 16.881259,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 16.515218,
+          "Transformation": 0.25295284,
+          "Emballage": 0.02343553,
+          "Transport": 0.037451696,
+          "Supermarché et distribution": 0.042443419,
+          "Consommation": 0.0097571262
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 17.642073,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 4.3292316,
+          "Transformation": 1.92928,
+          "Emballage": 1.4042274,
+          "Transport": 5.4696232,
+          "Supermarché et distribution": 3.5006774,
+          "Consommation": 1.0090332
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 3.4529837,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.817928,
+          "Transformation": 0.11063924,
+          "Emballage": 0.19251903,
+          "Transport": 1.1410282,
+          "Supermarché et distribution": 0.14815562,
+          "Consommation": 0.042713564
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Jus multifruit, pur jus, standard",
+    "LCI_name": "Mixed fruits juice, pure juice",
+    "ciqual_AGB": "2035",
+    "ciqual_code": "2035",
+    "groupe": "boissons",
+    "sous_groupe": "boissons sans alcool",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "HPDE",
+    "Livraison": "Glacé",
+    "Preparation": "Réfrigéré chez le consommateur",
+    "DQR": {
+      "overall": "3.11",
+      "P": "2.54",
+      "TiR": "3.97",
+      "GR": "2.68",
+      "TeR": "3.25"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.14687612,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0.08590882100000001,
+          "Transformation": 0.0056288216,
+          "Emballage": 0.014792145999999999,
+          "Transport": 0.029304117999999997,
+          "Supermarché et distribution": 0.0088128735,
+          "Consommation": 0.0024293397
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.024658976,
+          "Orange": 0.053210252000000006,
+          "Ananas": 0.017806423999999998,
+          "Pomme de table": 0.011385884,
+          "Autres étapes": 0.039814585
+        }
+      },
+      "Changement climatique": {
+        "synthese": 0.80120163,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.22282021,
+          "Transformation": 0.036217,
+          "Emballage": 0.17256359,
+          "Transport": 0.33586911,
+          "Supermarché et distribution": 0.028932423,
+          "Consommation": 0.0047993021
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.097754872,
+          "Orange": 0.16539452,
+          "Ananas": 0.11192019,
+          "Pomme de table": 0.039121836,
+          "Autres étapes": 0.38701021
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.12806489,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.021923271,
+          "Transformation": 0.00337269,
+          "Emballage": 0.0059762428999999995,
+          "Transport": 0.078262519,
+          "Supermarché et distribution": 0.014391775,
+          "Consommation": 0.0041383883
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.013639168,
+          "Orange": 0.020453012,
+          "Ananas": 0.014760812,
+          "Pomme de table": 0.0092375453,
+          "Autres étapes": 0.06997434799999999
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.30931729,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.019191602,
+          "Transformation": 0.0014513242,
+          "Emballage": 0.051120304,
+          "Transport": 0.024306863,
+          "Supermarché et distribution": 0.16540805,
+          "Consommation": 0.047839148
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.0076543321,
+          "Orange": 0.012444283,
+          "Ananas": 0.0070318173,
+          "Pomme de table": 0.0065792174,
+          "Autres étapes": 0.27560764
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 3.8426171,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.1957175,
+          "Transformation": 0.15870468000000001,
+          "Emballage": 0.51928306,
+          "Transport": 1.9049360000000002,
+          "Supermarché et distribution": 0.04985858,
+          "Consommation": 0.014117292
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.7117838299999999,
+          "Orange": 0.91954563,
+          "Ananas": 0.74479934,
+          "Pomme de table": 0.28103366,
+          "Autres étapes": 1.1854546000000001
+        }
+      },
+      "Particules": {
+        "synthese": 0.050270298000000005,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0.022691377999999998,
+          "Transformation": 0.0047819790000000004,
+          "Emballage": 0.0048674231,
+          "Transport": 0.016484597,
+          "Supermarché et distribution": 0.0011227005,
+          "Consommation": 0.0003222193
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.0086750137,
+          "Orange": 0.017225037,
+          "Ananas": 0.0067116731,
+          "Pomme de table": 0.0022687048,
+          "Autres étapes": 0.015389868999999999
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.0074335332,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.0032322178,
+          "Transformation": 0.00073944222,
+          "Emballage": 0.00056405051,
+          "Transport": 0.0027412591,
+          "Supermarché et distribution": 0.00012177022,
+          "Consommation": 0.000034793328
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.0015526806,
+          "Orange": 0.0025758166,
+          "Ananas": 0.0015663166,
+          "Pomme de table": 0.00037177686,
+          "Autres étapes": 0.0013669425
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.023893109,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.012506448,
+          "Transformation": 0.0032001365,
+          "Emballage": 0.0011287245,
+          "Transport": 0.0067493399,
+          "Supermarché et distribution": 0.00023996011,
+          "Consommation": 0.000068499657
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.0050463138,
+          "Orange": 0.0096398084,
+          "Ananas": 0.0043703762,
+          "Pomme de table": 0.0013982301,
+          "Autres étapes": 0.0034383802
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.15819308999999998,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.077626355,
+          "Transformation": 0.014317875,
+          "Emballage": 0.019522184,
+          "Transport": 0.032651082,
+          "Supermarché et distribution": 0.010940642,
+          "Consommation": 0.0031349554
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.027894815,
+          "Orange": 0.044626273,
+          "Ananas": 0.027407437,
+          "Pomme de table": 0.0098114916,
+          "Autres étapes": 0.048453076
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 2.1740323999999998,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.3510616,
+          "Transformation": 0.076701894,
+          "Emballage": 0.10339123,
+          "Transport": 0.6076614300000001,
+          "Supermarché et distribution": 0.027417063000000002,
+          "Consommation": 0.0077991547
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.46208077999999997,
+          "Orange": 0.59539438,
+          "Ananas": 0.64205267,
+          "Pomme de table": 0.15244557,
+          "Autres étapes": 0.322059
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 24.709147,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 22.019358,
+          "Transformation": 0.18872555,
+          "Emballage": 0.13823819,
+          "Transport": 2.2563263,
+          "Supermarché et distribution": 0.08277785,
+          "Consommation": 0.023721083
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 6.1541666,
+          "Orange": 10.594826,
+          "Ananas": 5.795279,
+          "Pomme de table": 0.69218768,
+          "Autres étapes": 1.4726878
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 28.078945,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 20.088233,
+          "Transformation": 2.9489681,
+          "Emballage": 0.51670582,
+          "Transport": 3.3991851,
+          "Supermarché et distribution": 0.8750349,
+          "Consommation": 0.25081812
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 4.0366599,
+          "Orange": 6.6606631,
+          "Ananas": 9.8390515,
+          "Pomme de table": 4.099076,
+          "Autres étapes": 3.4434942
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 6.5797565,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 6.4459061,
+          "Transformation": 0.0058006947,
+          "Emballage": 0.043631104,
+          "Transport": 0.032218121,
+          "Supermarché et distribution": 0.042443419,
+          "Consommation": 0.0097571262
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 1.503845,
+          "Orange": 4.0903196,
+          "Ananas": 0.18511282,
+          "Pomme de table": 0.68814853,
+          "Autres étapes": 0.11233063
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 16.809013,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 2.4882702,
+          "Transformation": 0.26858744,
+          "Emballage": 4.8558824,
+          "Transport": 4.6865626,
+          "Supermarché et distribution": 3.5006774,
+          "Consommation": 1.0090332
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 1.2345231,
+          "Orange": 1.9161634,
+          "Ananas": 1.2742936,
+          "Pomme de table": 0.62356859,
+          "Autres étapes": 11.760465
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 2.5867623,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.3760713,
+          "Transformation": 0.025660216,
+          "Emballage": 0.06890471899999999,
+          "Transport": 0.9252569199999999,
+          "Supermarché et distribution": 0.14815562,
+          "Consommation": 0.042713564
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.28688581999999996,
+          "Orange": 0.56900892,
+          "Ananas": 0.35842617,
+          "Pomme de table": 0.44340343,
+          "Autres étapes": 0.929038
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Nectar multifruit, multivitaminé",
+    "LCI_name": "Mixed fruits nectar, multivitamin",
+    "ciqual_AGB": "2060",
+    "ciqual_code": "2060",
+    "groupe": "boissons",
+    "sous_groupe": "boissons sans alcool",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "HPDE",
+    "Livraison": "Glacé",
+    "Preparation": "Réfrigéré chez le consommateur",
+    "DQR": {
+      "overall": "3.68",
+      "P": "3.67",
+      "TiR": "3.97",
+      "GR": "2.68",
+      "TeR": "4.38"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.14687612,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0.08590882100000001,
+          "Transformation": 0.0056288216,
+          "Emballage": 0.014792145999999999,
+          "Transport": 0.029304117999999997,
+          "Supermarché et distribution": 0.0088128735,
+          "Consommation": 0.0024293397
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.024658976,
+          "Orange": 0.053210252000000006,
+          "Ananas": 0.017806423999999998,
+          "Pomme de table": 0.011385884,
+          "Autres étapes": 0.039814585
+        }
+      },
+      "Changement climatique": {
+        "synthese": 0.80120163,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.22282021,
+          "Transformation": 0.036217,
+          "Emballage": 0.17256359,
+          "Transport": 0.33586911,
+          "Supermarché et distribution": 0.028932423,
+          "Consommation": 0.0047993021
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.097754872,
+          "Orange": 0.16539452,
+          "Ananas": 0.11192019,
+          "Pomme de table": 0.039121836,
+          "Autres étapes": 0.38701021
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.12806489,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.021923271,
+          "Transformation": 0.00337269,
+          "Emballage": 0.0059762428999999995,
+          "Transport": 0.078262519,
+          "Supermarché et distribution": 0.014391775,
+          "Consommation": 0.0041383883
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.013639168,
+          "Orange": 0.020453012,
+          "Ananas": 0.014760812,
+          "Pomme de table": 0.0092375453,
+          "Autres étapes": 0.06997434799999999
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.30931729,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.019191602,
+          "Transformation": 0.0014513242,
+          "Emballage": 0.051120304,
+          "Transport": 0.024306863,
+          "Supermarché et distribution": 0.16540805,
+          "Consommation": 0.047839148
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.0076543321,
+          "Orange": 0.012444283,
+          "Ananas": 0.0070318173,
+          "Pomme de table": 0.0065792174,
+          "Autres étapes": 0.27560764
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 3.8426171,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.1957175,
+          "Transformation": 0.15870468000000001,
+          "Emballage": 0.51928306,
+          "Transport": 1.9049360000000002,
+          "Supermarché et distribution": 0.04985858,
+          "Consommation": 0.014117292
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.7117838299999999,
+          "Orange": 0.91954563,
+          "Ananas": 0.74479934,
+          "Pomme de table": 0.28103366,
+          "Autres étapes": 1.1854546000000001
+        }
+      },
+      "Particules": {
+        "synthese": 0.050270298000000005,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0.022691377999999998,
+          "Transformation": 0.0047819790000000004,
+          "Emballage": 0.0048674231,
+          "Transport": 0.016484597,
+          "Supermarché et distribution": 0.0011227005,
+          "Consommation": 0.0003222193
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.0086750137,
+          "Orange": 0.017225037,
+          "Ananas": 0.0067116731,
+          "Pomme de table": 0.0022687048,
+          "Autres étapes": 0.015389868999999999
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.0074335332,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.0032322178,
+          "Transformation": 0.00073944222,
+          "Emballage": 0.00056405051,
+          "Transport": 0.0027412591,
+          "Supermarché et distribution": 0.00012177022,
+          "Consommation": 0.000034793328
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.0015526806,
+          "Orange": 0.0025758166,
+          "Ananas": 0.0015663166,
+          "Pomme de table": 0.00037177686,
+          "Autres étapes": 0.0013669425
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.023893109,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.012506448,
+          "Transformation": 0.0032001365,
+          "Emballage": 0.0011287245,
+          "Transport": 0.0067493399,
+          "Supermarché et distribution": 0.00023996011,
+          "Consommation": 0.000068499657
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.0050463138,
+          "Orange": 0.0096398084,
+          "Ananas": 0.0043703762,
+          "Pomme de table": 0.0013982301,
+          "Autres étapes": 0.0034383802
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.15819308999999998,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.077626355,
+          "Transformation": 0.014317875,
+          "Emballage": 0.019522184,
+          "Transport": 0.032651082,
+          "Supermarché et distribution": 0.010940642,
+          "Consommation": 0.0031349554
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.027894815,
+          "Orange": 0.044626273,
+          "Ananas": 0.027407437,
+          "Pomme de table": 0.0098114916,
+          "Autres étapes": 0.048453076
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 2.1740323999999998,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.3510616,
+          "Transformation": 0.076701894,
+          "Emballage": 0.10339123,
+          "Transport": 0.6076614300000001,
+          "Supermarché et distribution": 0.027417063000000002,
+          "Consommation": 0.0077991547
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.46208077999999997,
+          "Orange": 0.59539438,
+          "Ananas": 0.64205267,
+          "Pomme de table": 0.15244557,
+          "Autres étapes": 0.322059
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 24.709147,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 22.019358,
+          "Transformation": 0.18872555,
+          "Emballage": 0.13823819,
+          "Transport": 2.2563263,
+          "Supermarché et distribution": 0.08277785,
+          "Consommation": 0.023721083
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 6.1541666,
+          "Orange": 10.594826,
+          "Ananas": 5.795279,
+          "Pomme de table": 0.69218768,
+          "Autres étapes": 1.4726878
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 28.078945,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 20.088233,
+          "Transformation": 2.9489681,
+          "Emballage": 0.51670582,
+          "Transport": 3.3991851,
+          "Supermarché et distribution": 0.8750349,
+          "Consommation": 0.25081812
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 4.0366599,
+          "Orange": 6.6606631,
+          "Ananas": 9.8390515,
+          "Pomme de table": 4.099076,
+          "Autres étapes": 3.4434942
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 6.5797565,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 6.4459061,
+          "Transformation": 0.0058006947,
+          "Emballage": 0.043631104,
+          "Transport": 0.032218121,
+          "Supermarché et distribution": 0.042443419,
+          "Consommation": 0.0097571262
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 1.503845,
+          "Orange": 4.0903196,
+          "Ananas": 0.18511282,
+          "Pomme de table": 0.68814853,
+          "Autres étapes": 0.11233063
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 16.809013,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 2.4882702,
+          "Transformation": 0.26858744,
+          "Emballage": 4.8558824,
+          "Transport": 4.6865626,
+          "Supermarché et distribution": 3.5006774,
+          "Consommation": 1.0090332
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 1.2345231,
+          "Orange": 1.9161634,
+          "Ananas": 1.2742936,
+          "Pomme de table": 0.62356859,
+          "Autres étapes": 11.760465
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 2.5867623,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.3760713,
+          "Transformation": 0.025660216,
+          "Emballage": 0.06890471899999999,
+          "Transport": 0.9252569199999999,
+          "Supermarché et distribution": 0.14815562,
+          "Consommation": 0.042713564
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.28688581999999996,
+          "Orange": 0.56900892,
+          "Ananas": 0.35842617,
+          "Pomme de table": 0.44340343,
+          "Autres étapes": 0.929038
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Nectar multifruit, standard",
+    "LCI_name": "Mixed fruits nectar",
+    "ciqual_AGB": "2061",
+    "ciqual_code": "2061",
+    "groupe": "boissons",
+    "sous_groupe": "boissons sans alcool",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "HPDE",
+    "Livraison": "Glacé",
+    "Preparation": "Réfrigéré chez le consommateur",
+    "DQR": {
+      "overall": "3.68",
+      "P": "3.67",
+      "TiR": "3.97",
+      "GR": "2.68",
+      "TeR": "4.38"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.14687612,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0.08590882100000001,
+          "Transformation": 0.0056288216,
+          "Emballage": 0.014792145999999999,
+          "Transport": 0.029304117999999997,
+          "Supermarché et distribution": 0.0088128735,
+          "Consommation": 0.0024293397
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.024658976,
+          "Orange": 0.053210252000000006,
+          "Ananas": 0.017806423999999998,
+          "Pomme de table": 0.011385884,
+          "Autres étapes": 0.039814585
+        }
+      },
+      "Changement climatique": {
+        "synthese": 0.80120163,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.22282021,
+          "Transformation": 0.036217,
+          "Emballage": 0.17256359,
+          "Transport": 0.33586911,
+          "Supermarché et distribution": 0.028932423,
+          "Consommation": 0.0047993021
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.097754872,
+          "Orange": 0.16539452,
+          "Ananas": 0.11192019,
+          "Pomme de table": 0.039121836,
+          "Autres étapes": 0.38701021
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.12806489,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.021923271,
+          "Transformation": 0.00337269,
+          "Emballage": 0.0059762428999999995,
+          "Transport": 0.078262519,
+          "Supermarché et distribution": 0.014391775,
+          "Consommation": 0.0041383883
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.013639168,
+          "Orange": 0.020453012,
+          "Ananas": 0.014760812,
+          "Pomme de table": 0.0092375453,
+          "Autres étapes": 0.06997434799999999
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.30931729,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.019191602,
+          "Transformation": 0.0014513242,
+          "Emballage": 0.051120304,
+          "Transport": 0.024306863,
+          "Supermarché et distribution": 0.16540805,
+          "Consommation": 0.047839148
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.0076543321,
+          "Orange": 0.012444283,
+          "Ananas": 0.0070318173,
+          "Pomme de table": 0.0065792174,
+          "Autres étapes": 0.27560764
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 3.8426171,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.1957175,
+          "Transformation": 0.15870468000000001,
+          "Emballage": 0.51928306,
+          "Transport": 1.9049360000000002,
+          "Supermarché et distribution": 0.04985858,
+          "Consommation": 0.014117292
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.7117838299999999,
+          "Orange": 0.91954563,
+          "Ananas": 0.74479934,
+          "Pomme de table": 0.28103366,
+          "Autres étapes": 1.1854546000000001
+        }
+      },
+      "Particules": {
+        "synthese": 0.050270298000000005,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0.022691377999999998,
+          "Transformation": 0.0047819790000000004,
+          "Emballage": 0.0048674231,
+          "Transport": 0.016484597,
+          "Supermarché et distribution": 0.0011227005,
+          "Consommation": 0.0003222193
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.0086750137,
+          "Orange": 0.017225037,
+          "Ananas": 0.0067116731,
+          "Pomme de table": 0.0022687048,
+          "Autres étapes": 0.015389868999999999
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.0074335332,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.0032322178,
+          "Transformation": 0.00073944222,
+          "Emballage": 0.00056405051,
+          "Transport": 0.0027412591,
+          "Supermarché et distribution": 0.00012177022,
+          "Consommation": 0.000034793328
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.0015526806,
+          "Orange": 0.0025758166,
+          "Ananas": 0.0015663166,
+          "Pomme de table": 0.00037177686,
+          "Autres étapes": 0.0013669425
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.023893109,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.012506448,
+          "Transformation": 0.0032001365,
+          "Emballage": 0.0011287245,
+          "Transport": 0.0067493399,
+          "Supermarché et distribution": 0.00023996011,
+          "Consommation": 0.000068499657
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.0050463138,
+          "Orange": 0.0096398084,
+          "Ananas": 0.0043703762,
+          "Pomme de table": 0.0013982301,
+          "Autres étapes": 0.0034383802
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.15819308999999998,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.077626355,
+          "Transformation": 0.014317875,
+          "Emballage": 0.019522184,
+          "Transport": 0.032651082,
+          "Supermarché et distribution": 0.010940642,
+          "Consommation": 0.0031349554
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.027894815,
+          "Orange": 0.044626273,
+          "Ananas": 0.027407437,
+          "Pomme de table": 0.0098114916,
+          "Autres étapes": 0.048453076
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 2.1740323999999998,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.3510616,
+          "Transformation": 0.076701894,
+          "Emballage": 0.10339123,
+          "Transport": 0.6076614300000001,
+          "Supermarché et distribution": 0.027417063000000002,
+          "Consommation": 0.0077991547
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.46208077999999997,
+          "Orange": 0.59539438,
+          "Ananas": 0.64205267,
+          "Pomme de table": 0.15244557,
+          "Autres étapes": 0.322059
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 24.709147,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 22.019358,
+          "Transformation": 0.18872555,
+          "Emballage": 0.13823819,
+          "Transport": 2.2563263,
+          "Supermarché et distribution": 0.08277785,
+          "Consommation": 0.023721083
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 6.1541666,
+          "Orange": 10.594826,
+          "Ananas": 5.795279,
+          "Pomme de table": 0.69218768,
+          "Autres étapes": 1.4726878
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 28.078945,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 20.088233,
+          "Transformation": 2.9489681,
+          "Emballage": 0.51670582,
+          "Transport": 3.3991851,
+          "Supermarché et distribution": 0.8750349,
+          "Consommation": 0.25081812
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 4.0366599,
+          "Orange": 6.6606631,
+          "Ananas": 9.8390515,
+          "Pomme de table": 4.099076,
+          "Autres étapes": 3.4434942
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 6.5797565,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 6.4459061,
+          "Transformation": 0.0058006947,
+          "Emballage": 0.043631104,
+          "Transport": 0.032218121,
+          "Supermarché et distribution": 0.042443419,
+          "Consommation": 0.0097571262
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 1.503845,
+          "Orange": 4.0903196,
+          "Ananas": 0.18511282,
+          "Pomme de table": 0.68814853,
+          "Autres étapes": 0.11233063
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 16.809013,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 2.4882702,
+          "Transformation": 0.26858744,
+          "Emballage": 4.8558824,
+          "Transport": 4.6865626,
+          "Supermarché et distribution": 3.5006774,
+          "Consommation": 1.0090332
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 1.2345231,
+          "Orange": 1.9161634,
+          "Ananas": 1.2742936,
+          "Pomme de table": 0.62356859,
+          "Autres étapes": 11.760465
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 2.5867623,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.3760713,
+          "Transformation": 0.025660216,
+          "Emballage": 0.06890471899999999,
+          "Transport": 0.9252569199999999,
+          "Supermarché et distribution": 0.14815562,
+          "Consommation": 0.042713564
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.28688581999999996,
+          "Orange": 0.56900892,
+          "Ananas": 0.35842617,
+          "Pomme de table": 0.44340343,
+          "Autres étapes": 0.929038
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Jus multifruit, à base de concentré, standard",
+    "LCI_name": "Mixed fruits juice, reconstituted from a concentrate, multivitamin",
+    "ciqual_AGB": "2069",
+    "ciqual_code": "2069",
+    "groupe": "boissons",
+    "sous_groupe": "boissons sans alcool",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "HPDE",
+    "Livraison": "Glacé",
+    "Preparation": "Réfrigéré chez le consommateur",
+    "DQR": {
+      "overall": "3.11",
+      "P": "2.54",
+      "TiR": "3.97",
+      "GR": "2.68",
+      "TeR": "3.25"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.14687612,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0.08590882100000001,
+          "Transformation": 0.0056288216,
+          "Emballage": 0.014792145999999999,
+          "Transport": 0.029304117999999997,
+          "Supermarché et distribution": 0.0088128735,
+          "Consommation": 0.0024293397
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.024658976,
+          "Orange": 0.053210252000000006,
+          "Ananas": 0.017806423999999998,
+          "Pomme de table": 0.011385884,
+          "Autres étapes": 0.039814585
+        }
+      },
+      "Changement climatique": {
+        "synthese": 0.80120163,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.22282021,
+          "Transformation": 0.036217,
+          "Emballage": 0.17256359,
+          "Transport": 0.33586911,
+          "Supermarché et distribution": 0.028932423,
+          "Consommation": 0.0047993021
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.097754872,
+          "Orange": 0.16539452,
+          "Ananas": 0.11192019,
+          "Pomme de table": 0.039121836,
+          "Autres étapes": 0.38701021
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.12806489,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.021923271,
+          "Transformation": 0.00337269,
+          "Emballage": 0.0059762428999999995,
+          "Transport": 0.078262519,
+          "Supermarché et distribution": 0.014391775,
+          "Consommation": 0.0041383883
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.013639168,
+          "Orange": 0.020453012,
+          "Ananas": 0.014760812,
+          "Pomme de table": 0.0092375453,
+          "Autres étapes": 0.06997434799999999
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.30931729,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.019191602,
+          "Transformation": 0.0014513242,
+          "Emballage": 0.051120304,
+          "Transport": 0.024306863,
+          "Supermarché et distribution": 0.16540805,
+          "Consommation": 0.047839148
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.0076543321,
+          "Orange": 0.012444283,
+          "Ananas": 0.0070318173,
+          "Pomme de table": 0.0065792174,
+          "Autres étapes": 0.27560764
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 3.8426171,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.1957175,
+          "Transformation": 0.15870468000000001,
+          "Emballage": 0.51928306,
+          "Transport": 1.9049360000000002,
+          "Supermarché et distribution": 0.04985858,
+          "Consommation": 0.014117292
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.7117838299999999,
+          "Orange": 0.91954563,
+          "Ananas": 0.74479934,
+          "Pomme de table": 0.28103366,
+          "Autres étapes": 1.1854546000000001
+        }
+      },
+      "Particules": {
+        "synthese": 0.050270298000000005,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0.022691377999999998,
+          "Transformation": 0.0047819790000000004,
+          "Emballage": 0.0048674231,
+          "Transport": 0.016484597,
+          "Supermarché et distribution": 0.0011227005,
+          "Consommation": 0.0003222193
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.0086750137,
+          "Orange": 0.017225037,
+          "Ananas": 0.0067116731,
+          "Pomme de table": 0.0022687048,
+          "Autres étapes": 0.015389868999999999
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.0074335332,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.0032322178,
+          "Transformation": 0.00073944222,
+          "Emballage": 0.00056405051,
+          "Transport": 0.0027412591,
+          "Supermarché et distribution": 0.00012177022,
+          "Consommation": 0.000034793328
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.0015526806,
+          "Orange": 0.0025758166,
+          "Ananas": 0.0015663166,
+          "Pomme de table": 0.00037177686,
+          "Autres étapes": 0.0013669425
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.023893109,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.012506448,
+          "Transformation": 0.0032001365,
+          "Emballage": 0.0011287245,
+          "Transport": 0.0067493399,
+          "Supermarché et distribution": 0.00023996011,
+          "Consommation": 0.000068499657
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.0050463138,
+          "Orange": 0.0096398084,
+          "Ananas": 0.0043703762,
+          "Pomme de table": 0.0013982301,
+          "Autres étapes": 0.0034383802
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.15819308999999998,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.077626355,
+          "Transformation": 0.014317875,
+          "Emballage": 0.019522184,
+          "Transport": 0.032651082,
+          "Supermarché et distribution": 0.010940642,
+          "Consommation": 0.0031349554
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.027894815,
+          "Orange": 0.044626273,
+          "Ananas": 0.027407437,
+          "Pomme de table": 0.0098114916,
+          "Autres étapes": 0.048453076
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 2.1740323999999998,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.3510616,
+          "Transformation": 0.076701894,
+          "Emballage": 0.10339123,
+          "Transport": 0.6076614300000001,
+          "Supermarché et distribution": 0.027417063000000002,
+          "Consommation": 0.0077991547
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.46208077999999997,
+          "Orange": 0.59539438,
+          "Ananas": 0.64205267,
+          "Pomme de table": 0.15244557,
+          "Autres étapes": 0.322059
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 24.709147,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 22.019358,
+          "Transformation": 0.18872555,
+          "Emballage": 0.13823819,
+          "Transport": 2.2563263,
+          "Supermarché et distribution": 0.08277785,
+          "Consommation": 0.023721083
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 6.1541666,
+          "Orange": 10.594826,
+          "Ananas": 5.795279,
+          "Pomme de table": 0.69218768,
+          "Autres étapes": 1.4726878
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 28.078945,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 20.088233,
+          "Transformation": 2.9489681,
+          "Emballage": 0.51670582,
+          "Transport": 3.3991851,
+          "Supermarché et distribution": 0.8750349,
+          "Consommation": 0.25081812
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 4.0366599,
+          "Orange": 6.6606631,
+          "Ananas": 9.8390515,
+          "Pomme de table": 4.099076,
+          "Autres étapes": 3.4434942
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 6.5797565,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 6.4459061,
+          "Transformation": 0.0058006947,
+          "Emballage": 0.043631104,
+          "Transport": 0.032218121,
+          "Supermarché et distribution": 0.042443419,
+          "Consommation": 0.0097571262
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 1.503845,
+          "Orange": 4.0903196,
+          "Ananas": 0.18511282,
+          "Pomme de table": 0.68814853,
+          "Autres étapes": 0.11233063
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 16.809013,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 2.4882702,
+          "Transformation": 0.26858744,
+          "Emballage": 4.8558824,
+          "Transport": 4.6865626,
+          "Supermarché et distribution": 3.5006774,
+          "Consommation": 1.0090332
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 1.2345231,
+          "Orange": 1.9161634,
+          "Ananas": 1.2742936,
+          "Pomme de table": 0.62356859,
+          "Autres étapes": 11.760465
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 2.5867623,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.3760713,
+          "Transformation": 0.025660216,
+          "Emballage": 0.06890471899999999,
+          "Transport": 0.9252569199999999,
+          "Supermarché et distribution": 0.14815562,
+          "Consommation": 0.042713564
+        },
+        "ingredients": {
+          "Pamplemousse/pomelos ": 0.28688581999999996,
+          "Orange": 0.56900892,
+          "Ananas": 0.35842617,
+          "Pomme de table": 0.44340343,
+          "Autres étapes": 0.929038
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Jus de pomme, pur jus",
+    "LCI_name": "Apple juice, pure juice",
+    "ciqual_AGB": "2074",
+    "ciqual_code": "2074",
+    "groupe": "boissons",
+    "sous_groupe": "boissons sans alcool",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "Carton",
+    "Livraison": "Ambiant (moyenne)",
+    "Preparation": "Pas de préparation",
+    "DQR": {
+      "overall": "2.38",
+      "P": "1.42",
+      "TiR": "3.12",
+      "GR": "2.41",
+      "TeR": "2.58"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.081474397,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0.043020758,
+          "Transformation": 0.007647129700000001,
+          "Emballage": 0.014974093,
+          "Transport": 0.011412934999999999,
+          "Supermarché et distribution": 0.0044194823,
+          "Consommation": 0
+        }
+      },
+      "Changement climatique": {
+        "synthese": 0.41236842,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.11886622,
+          "Transformation": 0.035780592,
+          "Emballage": 0.098786634,
+          "Transport": 0.14657044,
+          "Supermarché et distribution": 0.012364537,
+          "Consommation": 0
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.088231464,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.028856357,
+          "Transformation": 0.0059516504,
+          "Emballage": 0.012650653000000001,
+          "Transport": 0.033527114000000004,
+          "Supermarché et distribution": 0.0072456904,
+          "Consommation": 0
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.15885163,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.023714824,
+          "Transformation": 0.033446753,
+          "Emballage": 0.011818166,
+          "Transport": 0.011082704,
+          "Supermarché et distribution": 0.078789182,
+          "Consommation": 0
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 1.9130125,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.0334363000000002,
+          "Transformation": 0.14417221,
+          "Emballage": 0.35297650999999997,
+          "Transport": 0.35436905,
+          "Supermarché et distribution": 0.028058467,
+          "Consommation": 0
+        }
+      },
+      "Particules": {
+        "synthese": 0.028210599000000003,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0.0064510317,
+          "Transformation": 0.0039111885,
+          "Emballage": 0.0078953426,
+          "Transport": 0.0093901241,
+          "Supermarché et distribution": 0.00056291189,
+          "Consommation": 0
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.0029224073,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.0013391096,
+          "Transformation": 0.00058341288,
+          "Emballage": 0.00050301616,
+          "Transport": 0.00043332454,
+          "Supermarché et distribution": 0.00006354403,
+          "Consommation": 0
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.010236013,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.0051699004,
+          "Transformation": 0.0023962703,
+          "Emballage": 0.001589245,
+          "Transport": 0.00095480012,
+          "Supermarché et distribution": 0.00012579701,
+          "Consommation": 0
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.11423761,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.035279474000000005,
+          "Transformation": 0.013707956,
+          "Emballage": 0.047259957,
+          "Transport": 0.012488089999999999,
+          "Supermarché et distribution": 0.0055021285999999996,
+          "Consommation": 0
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 0.95906163,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.59034992,
+          "Transformation": 0.06600059000000001,
+          "Emballage": 0.20281961,
+          "Transport": 0.08576091300000001,
+          "Supermarché et distribution": 0.014130594,
+          "Consommation": 0
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 8.5635561,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 2.4148697,
+          "Transformation": 0.1677364,
+          "Emballage": 4.4108204,
+          "Transport": 1.5280173,
+          "Supermarché et distribution": 0.04211235,
+          "Consommation": 0
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 34.379333,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 16.080994,
+          "Transformation": 3.3643159,
+          "Emballage": 12.903892,
+          "Transport": 1.5898876,
+          "Supermarché et distribution": 0.44024315,
+          "Consommation": 0
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 3.0291126,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 2.8031205,
+          "Transformation": 0.14709284,
+          "Emballage": 0.02343553,
+          "Transport": 0.015474438,
+          "Supermarché et distribution": 0.039989272,
+          "Consommation": 0
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 8.2688283,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 1.9444395,
+          "Transformation": 0.95904244,
+          "Emballage": 1.4042274,
+          "Transport": 2.2382177,
+          "Supermarché et distribution": 1.7229013,
+          "Consommation": 0
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 2.4515573,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.6949788000000001,
+          "Transformation": 0.050825460999999995,
+          "Emballage": 0.19251903,
+          "Transport": 0.44098135,
+          "Supermarché et distribution": 0.07225273,
+          "Consommation": 0
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Sirop à diluer, sucré",
+    "LCI_name": "Syrup, with sugar (to be diluted)",
+    "ciqual_AGB": "18017",
+    "ciqual_code": "18017",
+    "groupe": "boissons",
+    "sous_groupe": "boissons sans alcool",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "Verre",
+    "Livraison": "Ambiant (moyenne)",
+    "Preparation": "Pas de préparation",
+    "DQR": {
+      "overall": "2.63",
+      "P": "2.64",
+      "TiR": "2.73",
+      "GR": "1.77",
+      "TeR": "3.37"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.15658401,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0.075640577,
+          "Transformation": 0.011074586,
+          "Emballage": 0.051649676000000005,
+          "Transport": 0.013799686,
+          "Supermarché et distribution": 0.0044194823,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Grenade": 0.017901015000000003,
+          "Sucre blanc": 0.071047713,
+          "Autres étapes": 0.06763528
+        }
+      },
+      "Changement climatique": {
+        "synthese": 1.0603974,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.24482922,
+          "Transformation": 0.13224734,
+          "Emballage": 0.49690685,
+          "Transport": 0.17404943,
+          "Supermarché et distribution": 0.012364537,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Grenade": 0.064218917,
+          "Sucre blanc": 0.33769579,
+          "Autres étapes": 0.65848267
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.15474514,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.02606794,
+          "Transformation": 0.0099326202,
+          "Emballage": 0.072623762,
+          "Transport": 0.038875123,
+          "Supermarché et distribution": 0.0072456904,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Grenade": 0.014331551,
+          "Sucre blanc": 0.026264794,
+          "Autres étapes": 0.11414879
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.17479154,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.017313576,
+          "Transformation": 0.012358859,
+          "Emballage": 0.053489378,
+          "Transport": 0.012840548,
+          "Supermarché et distribution": 0.078789182,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Grenade": 0.010054558,
+          "Sucre blanc": 0.021378208,
+          "Autres étapes": 0.14335878
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 4.1501584000000005,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.2893036,
+          "Transformation": 0.31699974999999997,
+          "Emballage": 2.0425077000000003,
+          "Transport": 0.47328896,
+          "Supermarché et distribution": 0.028058467,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Grenade": 0.44502033,
+          "Sucre blanc": 1.2845762,
+          "Autres étapes": 2.4205619
+        }
+      },
+      "Particules": {
+        "synthese": 0.14526707,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0.067574187,
+          "Transformation": 0.004852965,
+          "Emballage": 0.061298028000000004,
+          "Transport": 0.010978976,
+          "Supermarché et distribution": 0.00056291189,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Grenade": 0.0041549124,
+          "Sucre blanc": 0.069690592,
+          "Autres étapes": 0.07142156300000001
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.015933967,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.0099547976,
+          "Transformation": 0.00067400367,
+          "Emballage": 0.0046828017,
+          "Transport": 0.00055882051,
+          "Supermarché et distribution": 0.00006354403,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Grenade": 0.00067377431,
+          "Sucre blanc": 0.010082767,
+          "Autres étapes": 0.0051774265
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.054300944,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.043278174,
+          "Transformation": 0.0017281895,
+          "Emballage": 0.0078500547,
+          "Transport": 0.0013187281,
+          "Supermarché et distribution": 0.00012579701,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Grenade": 0.0026013572,
+          "Sucre blanc": 0.042798734,
+          "Autres étapes": 0.0089008524
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.23185461000000002,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.060940741,
+          "Transformation": 0.052956652,
+          "Emballage": 0.095903725,
+          "Transport": 0.01655136,
+          "Supermarché et distribution": 0.0055021285999999996,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Grenade": 0.016946635,
+          "Sucre blanc": 0.10135279,
+          "Autres étapes": 0.11355519
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 4.198114400000001,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 3.1744028,
+          "Transformation": 0.21518388000000002,
+          "Emballage": 0.6752250599999999,
+          "Transport": 0.11917197,
+          "Supermarché et distribution": 0.014130594,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Grenade": 0.23989151,
+          "Sucre blanc": 3.1856543,
+          "Autres étapes": 0.77256853
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 27.475731,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 19.802478,
+          "Transformation": 0.28004136,
+          "Emballage": 5.50476,
+          "Transport": 1.8463389,
+          "Supermarché et distribution": 0.04211235,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Grenade": 1.0636109,
+          "Sucre blanc": 19.308612,
+          "Autres étapes": 7.1035084
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 31.998937,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 17.359918,
+          "Transformation": 3.700868,
+          "Emballage": 8.5288162,
+          "Transport": 1.9690922,
+          "Supermarché et distribution": 0.44024315,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Grenade": 6.5928116,
+          "Sucre blanc": 14.823208,
+          "Autres étapes": 10.582918
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 2.5369664,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 2.3915287,
+          "Transformation": -0.036539635,
+          "Emballage": 0.12327471,
+          "Transport": 0.018713348,
+          "Supermarché et distribution": 0.039989272,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Grenade": 1.0281951,
+          "Sucre blanc": 1.3299004,
+          "Autres étapes": 0.1788709
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 15.649924,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 2.2449075,
+          "Transformation": 1.7877472,
+          "Emballage": 7.2666296,
+          "Transport": 2.6277379,
+          "Supermarché et distribution": 1.7229013,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Grenade": 0.97400626,
+          "Sucre blanc": 3.4071612,
+          "Autres étapes": 11.268756
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 3.1946031,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.2469102,
+          "Transformation": 0.10293638000000001,
+          "Emballage": 1.2145978,
+          "Transport": 0.55790605,
+          "Supermarché et distribution": 0.07225273,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Grenade": 0.6660317099999999,
+          "Sucre blanc": 0.7900742500000001,
+          "Autres étapes": 1.7384971
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Cola, sucré",
+    "LCI_name": "Cola, with sugar",
+    "ciqual_AGB": "18018",
+    "ciqual_code": "18018",
+    "groupe": "boissons",
+    "sous_groupe": "boissons sans alcool",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "Bouteille PETE",
+    "Livraison": "Glacé",
+    "Preparation": "Pas de préparation",
+    "DQR": {
+      "overall": "2.6",
+      "P": "2.3",
+      "TiR": "2.82",
+      "GR": "2.35",
+      "TeR": "2.93"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.08443881399999999,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0.031722623000000005,
+          "Transformation": 0.004068711,
+          "Emballage": 0.021199983000000002,
+          "Transport": 0.016205283999999997,
+          "Supermarché et distribution": 0.0088128735,
+          "Consommation": 0.0024293397
+        },
+        "ingredients": {
+          "Jus de citron": 0.028569023,
+          "Sucre blanc": 0.0093648888,
+          "Autres étapes": 0.04650490265
+        }
+      },
+      "Changement climatique": {
+        "synthese": 0.57218393,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.078511019,
+          "Transformation": 0.030061611,
+          "Emballage": 0.22265825,
+          "Transport": 0.20722133,
+          "Supermarché et distribution": 0.028932423,
+          "Consommation": 0.0047993021
+        },
+        "ingredients": {
+          "Jus de citron": 0.090285062,
+          "Sucre blanc": 0.044512108,
+          "Autres étapes": 0.43738676329
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.093785786,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.0063139851,
+          "Transformation": 0.0030439145999999998,
+          "Emballage": 0.014738514,
+          "Transport": 0.051159209,
+          "Supermarché et distribution": 0.014391775,
+          "Consommation": 0.0041383883
+        },
+        "ingredients": {
+          "Jus de citron": 0.01156306,
+          "Sucre blanc": 0.0034619957,
+          "Autres étapes": 0.078760730296
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.30414357,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.0052196359,
+          "Transformation": 0.0089888039,
+          "Emballage": 0.063367414,
+          "Transport": 0.013320518,
+          "Supermarché et distribution": 0.16540805,
+          "Consommation": 0.047839148
+        },
+        "ingredients": {
+          "Jus de citron": 0.013370479,
+          "Sucre blanc": 0.0028178886,
+          "Autres étapes": 0.28795520056
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 1.9172718,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.41073022,
+          "Transformation": 0.094095256,
+          "Emballage": 0.58788261,
+          "Transport": 0.7605878,
+          "Supermarché et distribution": 0.04985858,
+          "Consommation": 0.014117292
+        },
+        "ingredients": {
+          "Jus de citron": 0.49293923,
+          "Sucre blanc": 0.16932161,
+          "Autres étapes": 1.25501092064
+        }
+      },
+      "Particules": {
+        "synthese": 0.037455611,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0.015028027999999999,
+          "Transformation": 0.0021201285,
+          "Emballage": 0.0083459881,
+          "Transport": 0.010516547000000001,
+          "Supermarché et distribution": 0.0011227005,
+          "Consommation": 0.0003222193
+        },
+        "ingredients": {
+          "Jus de citron": 0.009385373,
+          "Sucre blanc": 0.009186005,
+          "Autres étapes": 0.018884233678
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.0045171723,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.002177444,
+          "Transformation": 0.00031314776,
+          "Emballage": 0.00098121993,
+          "Transport": 0.00088879711,
+          "Supermarché et distribution": 0.00012177022,
+          "Consommation": 0.000034793328
+        },
+        "ingredients": {
+          "Jus de citron": 0.0014020596,
+          "Sucre blanc": 0.0013290222,
+          "Autres étapes": 0.0017860904624
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.015200896,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.0091963663,
+          "Transformation": 0.0011699387,
+          "Emballage": 0.0019766804,
+          "Transport": 0.0025494508,
+          "Supermarché et distribution": 0.00023996011,
+          "Consommation": 0.000068499657
+        },
+        "ingredients": {
+          "Jus de citron": 0.0052688116,
+          "Sucre blanc": 0.0056413552,
+          "Autres étapes": 0.004290729012800001
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.13791729,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.023623593,
+          "Transformation": 0.011997517,
+          "Emballage": 0.07046322299999999,
+          "Transport": 0.017757361,
+          "Supermarché et distribution": 0.010940642,
+          "Consommation": 0.0031349554
+        },
+        "ingredients": {
+          "Jus de citron": 0.024946118,
+          "Sucre blanc": 0.013359438999999999,
+          "Autres étapes": 0.09961173536000001
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 1.1495902999999998,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.6334082,
+          "Transformation": 0.052841296999999995,
+          "Emballage": 0.19556204000000002,
+          "Transport": 0.23256257000000002,
+          "Supermarché et distribution": 0.027417063000000002,
+          "Consommation": 0.0077991547
+        },
+        "ingredients": {
+          "Jus de citron": 0.31513458,
+          "Sucre blanc": 0.41990512,
+          "Autres étapes": 0.41455062231
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 9.9655804,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 7.6915225,
+          "Transformation": 0.098494222,
+          "Emballage": 0.61835262,
+          "Transport": 1.4507122,
+          "Supermarché et distribution": 0.08277785,
+          "Consommation": 0.023721083
+        },
+        "ingredients": {
+          "Jus de citron": 5.4663854,
+          "Sucre blanc": 2.5450925,
+          "Autres étapes": 1.9541026140000002
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 11.41318,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 4.0251919,
+          "Transformation": 1.5141527,
+          "Emballage": 2.6568174,
+          "Transport": 2.0911646,
+          "Supermarché et distribution": 0.8750349,
+          "Consommation": 0.25081812
+        },
+        "ingredients": {
+          "Jus de citron": 3.8706659,
+          "Sucre blanc": 1.9538658,
+          "Autres étapes": 5.588647872899999
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 2.5011593,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 2.2774783,
+          "Transformation": 0.061019525,
+          "Emballage": 0.091191478,
+          "Transport": 0.019269466,
+          "Supermarché et distribution": 0.042443419,
+          "Consommation": 0.0097571262
+        },
+        "ingredients": {
+          "Jus de citron": 2.1321171,
+          "Sucre blanc": 0.17529585,
+          "Autres étapes": 0.193746355
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 13.552147,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 0.75194287,
+          "Transformation": 0.47881013,
+          "Emballage": 5.0230599,
+          "Transport": 2.7886236,
+          "Supermarché et distribution": 3.5006774,
+          "Consommation": 1.0090332
+        },
+        "ingredients": {
+          "Jus de citron": 1.1705655,
+          "Sucre blanc": 0.44910222,
+          "Autres étapes": 11.932479326900001
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 2.1215478,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.31349065000000004,
+          "Transformation": 0.027798489,
+          "Emballage": 0.85571453,
+          "Transport": 0.73367493,
+          "Supermarché et distribution": 0.14815562,
+          "Consommation": 0.042713564
+        },
+        "ingredients": {
+          "Jus de citron": 0.30074091,
+          "Sucre blanc": 0.10414069000000001,
+          "Autres étapes": 1.71666617095
+        }
+      }
+    }
+  }
+]

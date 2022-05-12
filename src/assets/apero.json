@@ -1,0 +1,5049 @@
+[
+  {
+    "nom_francais": "Chips de pommes de terre, standard",
+    "LCI_name": "Potato crisps",
+    "ciqual_AGB": "4004",
+    "ciqual_code": "4004",
+    "groupe": "fruits, légumes, légumineuses et oléagineux",
+    "sous_groupe": "pommes de terre et autres tubercules",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "LPDE",
+    "Livraison": "Ambiant (long)",
+    "Preparation": "Pas de préparation",
+    "DQR": {
+      "overall": "2.45",
+      "P": "2.2",
+      "TiR": "2.4",
+      "GR": "3.1",
+      "TeR": "2.09"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.29200268999999995,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0.18214682000000001,
+          "Transformation": 0.057508389,
+          "Emballage": 0.021558384,
+          "Transport": 0.020894186999999998,
+          "Supermarché et distribution": 0.0098990521,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.021215504000000003,
+          "Sel": 0.00039501479,
+          "Huile de tournesol": 0.19731958000000002,
+          "Autres étapes": 0.073072592
+        }
+      },
+      "Changement climatique": {
+        "synthese": 2.2443641,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.2992636,
+          "Transformation": 0.39294234,
+          "Emballage": 0.28581962,
+          "Transport": 0.23728203,
+          "Supermarché et distribution": 0.029120657,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.093047836,
+          "Sel": 0.0031416217,
+          "Huile de tournesol": 1.5784969,
+          "Autres étapes": 0.56967777
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.26154692,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.082863418,
+          "Transformation": 0.10285879,
+          "Emballage": 0.0063144719,
+          "Transport": 0.053675339,
+          "Supermarché et distribution": 0.01584915,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.014579185,
+          "Sel": 0.00023892553000000002,
+          "Huile de tournesol": 0.14818804,
+          "Autres étapes": 0.098540767
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.77991792,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.034580786,
+          "Transformation": 0.53168589,
+          "Emballage": 0.023659301,
+          "Transport": 0.018380585,
+          "Supermarché et distribution": 0.1716454,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.013252058,
+          "Sel": 0.0003580351,
+          "Huile de tournesol": 0.092625503,
+          "Autres étapes": 0.67368233
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 7.3702645,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 4.1806897,
+          "Transformation": 1.1970604999999999,
+          "Emballage": 0.74835379,
+          "Transport": 1.1708443,
+          "Supermarché et distribution": 0.07329388099999999,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.4800155,
+          "Sel": 0.011998428,
+          "Huile de tournesol": 5.4560729,
+          "Autres étapes": 1.42217775
+        }
+      },
+      "Particules": {
+        "synthese": 0.12758041,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0.086532662,
+          "Transformation": 0.015591619,
+          "Emballage": 0.0079099869,
+          "Transport": 0.016133615,
+          "Supermarché et distribution": 0.0014106608,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.009886968199999999,
+          "Sel": 0.00018891093,
+          "Huile de tournesol": 0.09229706800000001,
+          "Autres étapes": 0.0252074656
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.018638087,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.013728528,
+          "Transformation": 0.0023308494,
+          "Emballage": 0.00097945898,
+          "Transport": 0.0014415148,
+          "Supermarché et distribution": 0.00015813469,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.0014058081,
+          "Sel": 0.000022894051,
+          "Huile de tournesol": 0.014560874,
+          "Autres étapes": 0.0026485107
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.071623139,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.058918632,
+          "Transformation": 0.0064510026,
+          "Emballage": 0.0019463858,
+          "Transport": 0.0039574974,
+          "Supermarché et distribution": 0.00035001351,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.005827508,
+          "Sel": 0.000047280117,
+          "Huile de tournesol": 0.058384743,
+          "Autres étapes": 0.0073636074
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.48321698,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.27399076,
+          "Transformation": 0.12673546,
+          "Emballage": 0.047147668000000004,
+          "Transport": 0.021528444,
+          "Supermarché et distribution": 0.013823075,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.025107902999999997,
+          "Sel": 0.0022487553,
+          "Huile de tournesol": 0.35211615,
+          "Autres étapes": 0.10374417600000001
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 19.403128,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 17.763909,
+          "Transformation": 1.0723797000000002,
+          "Emballage": 0.17467837,
+          "Transport": 0.35651416,
+          "Supermarché et distribution": 0.035633074,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.83839262,
+          "Sel": 0.0052502949,
+          "Huile de tournesol": 17.369369,
+          "Autres étapes": 1.19011628
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 191.28223,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 183.57823,
+          "Transformation": 3.9772864,
+          "Emballage": 1.1647357,
+          "Transport": 2.4602982,
+          "Supermarché et distribution": 0.10125032,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 15.256608,
+          "Sel": 0.020967666,
+          "Huile de tournesol": 170.67472,
+          "Autres étapes": 5.3299387
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 78.813636,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 66.768773,
+          "Transformation": 7.5599453,
+          "Emballage": 0.8443703,
+          "Transport": 2.554324,
+          "Supermarché et distribution": 1.086366,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 8.99402,
+          "Sel": 0.10479817,
+          "Huile de tournesol": 63.482604,
+          "Autres étapes": 6.2322136
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 1.152872,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 0.70093215,
+          "Transformation": 0.14045053,
+          "Emballage": 0.1973729,
+          "Transport": 0.025157343,
+          "Supermarché et distribution": 0.088994323,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.52609832,
+          "Sel": 0.0016947933,
+          "Huile de tournesol": 0.18136544,
+          "Autres étapes": 0.44371346
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 33.020277,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 5.0935317,
+          "Transformation": 15.134224,
+          "Emballage": 5.4257277,
+          "Transport": 3.6130815,
+          "Supermarché et distribution": 3.7549895,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 1.1423517,
+          "Sel": 0.038331886,
+          "Huile de tournesol": 9.9555477,
+          "Autres étapes": 21.884045999999998
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 7.1945758,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 2.8481825,
+          "Transformation": 3.4398908,
+          "Emballage": 0.12010422000000001,
+          "Transport": 0.62759017,
+          "Supermarché et distribution": 0.15865937000000002,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.4357129,
+          "Sel": 0.052465982,
+          "Huile de tournesol": 5.8158178,
+          "Autres étapes": 0.89057914
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Chips de pommes de terre, à l'ancienne",
+    "LCI_name": "Potato crisps, \"à l'ancienne\" (old-fashioned style)",
+    "ciqual_AGB": "4037",
+    "ciqual_code": "4037",
+    "groupe": "fruits, légumes, légumineuses et oléagineux",
+    "sous_groupe": "pommes de terre et autres tubercules",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "LPDE",
+    "Livraison": "Ambiant (long)",
+    "Preparation": "Pas de préparation",
+    "DQR": {
+      "overall": "2.45",
+      "P": "2.2",
+      "TiR": "2.4",
+      "GR": "3.1",
+      "TeR": "2.09"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.29200268999999995,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0.18214682000000001,
+          "Transformation": 0.057508389,
+          "Emballage": 0.021558384,
+          "Transport": 0.020894186999999998,
+          "Supermarché et distribution": 0.0098990521,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.021215504000000003,
+          "Sel": 0.00039501479,
+          "Huile de tournesol": 0.19731958000000002,
+          "Autres étapes": 0.073072592
+        }
+      },
+      "Changement climatique": {
+        "synthese": 2.2443641,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.2992636,
+          "Transformation": 0.39294234,
+          "Emballage": 0.28581962,
+          "Transport": 0.23728203,
+          "Supermarché et distribution": 0.029120657,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.093047836,
+          "Sel": 0.0031416217,
+          "Huile de tournesol": 1.5784969,
+          "Autres étapes": 0.56967777
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.26154692,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.082863418,
+          "Transformation": 0.10285879,
+          "Emballage": 0.0063144719,
+          "Transport": 0.053675339,
+          "Supermarché et distribution": 0.01584915,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.014579185,
+          "Sel": 0.00023892553000000002,
+          "Huile de tournesol": 0.14818804,
+          "Autres étapes": 0.098540767
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.77991792,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.034580786,
+          "Transformation": 0.53168589,
+          "Emballage": 0.023659301,
+          "Transport": 0.018380585,
+          "Supermarché et distribution": 0.1716454,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.013252058,
+          "Sel": 0.0003580351,
+          "Huile de tournesol": 0.092625503,
+          "Autres étapes": 0.67368233
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 7.3702645,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 4.1806897,
+          "Transformation": 1.1970604999999999,
+          "Emballage": 0.74835379,
+          "Transport": 1.1708443,
+          "Supermarché et distribution": 0.07329388099999999,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.4800155,
+          "Sel": 0.011998428,
+          "Huile de tournesol": 5.4560729,
+          "Autres étapes": 1.42217775
+        }
+      },
+      "Particules": {
+        "synthese": 0.12758041,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0.086532662,
+          "Transformation": 0.015591619,
+          "Emballage": 0.0079099869,
+          "Transport": 0.016133615,
+          "Supermarché et distribution": 0.0014106608,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.009886968199999999,
+          "Sel": 0.00018891093,
+          "Huile de tournesol": 0.09229706800000001,
+          "Autres étapes": 0.0252074656
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.018638087,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.013728528,
+          "Transformation": 0.0023308494,
+          "Emballage": 0.00097945898,
+          "Transport": 0.0014415148,
+          "Supermarché et distribution": 0.00015813469,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.0014058081,
+          "Sel": 0.000022894051,
+          "Huile de tournesol": 0.014560874,
+          "Autres étapes": 0.0026485107
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.071623139,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.058918632,
+          "Transformation": 0.0064510026,
+          "Emballage": 0.0019463858,
+          "Transport": 0.0039574974,
+          "Supermarché et distribution": 0.00035001351,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.005827508,
+          "Sel": 0.000047280117,
+          "Huile de tournesol": 0.058384743,
+          "Autres étapes": 0.0073636074
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.48321698,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.27399076,
+          "Transformation": 0.12673546,
+          "Emballage": 0.047147668000000004,
+          "Transport": 0.021528444,
+          "Supermarché et distribution": 0.013823075,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.025107902999999997,
+          "Sel": 0.0022487553,
+          "Huile de tournesol": 0.35211615,
+          "Autres étapes": 0.10374417600000001
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 19.403128,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 17.763909,
+          "Transformation": 1.0723797000000002,
+          "Emballage": 0.17467837,
+          "Transport": 0.35651416,
+          "Supermarché et distribution": 0.035633074,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.83839262,
+          "Sel": 0.0052502949,
+          "Huile de tournesol": 17.369369,
+          "Autres étapes": 1.19011628
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 191.28223,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 183.57823,
+          "Transformation": 3.9772864,
+          "Emballage": 1.1647357,
+          "Transport": 2.4602982,
+          "Supermarché et distribution": 0.10125032,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 15.256608,
+          "Sel": 0.020967666,
+          "Huile de tournesol": 170.67472,
+          "Autres étapes": 5.3299387
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 78.813636,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 66.768773,
+          "Transformation": 7.5599453,
+          "Emballage": 0.8443703,
+          "Transport": 2.554324,
+          "Supermarché et distribution": 1.086366,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 8.99402,
+          "Sel": 0.10479817,
+          "Huile de tournesol": 63.482604,
+          "Autres étapes": 6.2322136
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 1.152872,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 0.70093215,
+          "Transformation": 0.14045053,
+          "Emballage": 0.1973729,
+          "Transport": 0.025157343,
+          "Supermarché et distribution": 0.088994323,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.52609832,
+          "Sel": 0.0016947933,
+          "Huile de tournesol": 0.18136544,
+          "Autres étapes": 0.44371346
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 33.020277,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 5.0935317,
+          "Transformation": 15.134224,
+          "Emballage": 5.4257277,
+          "Transport": 3.6130815,
+          "Supermarché et distribution": 3.7549895,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 1.1423517,
+          "Sel": 0.038331886,
+          "Huile de tournesol": 9.9555477,
+          "Autres étapes": 21.884045999999998
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 7.1945758,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 2.8481825,
+          "Transformation": 3.4398908,
+          "Emballage": 0.12010422000000001,
+          "Transport": 0.62759017,
+          "Supermarché et distribution": 0.15865937000000002,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.4357129,
+          "Sel": 0.052465982,
+          "Huile de tournesol": 5.8158178,
+          "Autres étapes": 0.89057914
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Chips de pommes de terre et assimilés, allégées en matière grasse",
+    "LCI_name": "Potato crisps and related, reduced fat",
+    "ciqual_AGB": "4038",
+    "ciqual_code": "4038",
+    "groupe": "fruits, légumes, légumineuses et oléagineux",
+    "sous_groupe": "pommes de terre et autres tubercules",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "LPDE",
+    "Livraison": "Ambiant (long)",
+    "Preparation": "Pas de préparation",
+    "DQR": {
+      "overall": "2.45",
+      "P": "2.2",
+      "TiR": "2.4",
+      "GR": "3.1",
+      "TeR": "2.09"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.29200268999999995,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0.18214682000000001,
+          "Transformation": 0.057508389,
+          "Emballage": 0.021558384,
+          "Transport": 0.020894186999999998,
+          "Supermarché et distribution": 0.0098990521,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.021215504000000003,
+          "Sel": 0.00039501479,
+          "Huile de tournesol": 0.19731958000000002,
+          "Autres étapes": 0.073072592
+        }
+      },
+      "Changement climatique": {
+        "synthese": 2.2443641,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.2992636,
+          "Transformation": 0.39294234,
+          "Emballage": 0.28581962,
+          "Transport": 0.23728203,
+          "Supermarché et distribution": 0.029120657,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.093047836,
+          "Sel": 0.0031416217,
+          "Huile de tournesol": 1.5784969,
+          "Autres étapes": 0.56967777
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.26154692,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.082863418,
+          "Transformation": 0.10285879,
+          "Emballage": 0.0063144719,
+          "Transport": 0.053675339,
+          "Supermarché et distribution": 0.01584915,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.014579185,
+          "Sel": 0.00023892553000000002,
+          "Huile de tournesol": 0.14818804,
+          "Autres étapes": 0.098540767
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.77991792,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.034580786,
+          "Transformation": 0.53168589,
+          "Emballage": 0.023659301,
+          "Transport": 0.018380585,
+          "Supermarché et distribution": 0.1716454,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.013252058,
+          "Sel": 0.0003580351,
+          "Huile de tournesol": 0.092625503,
+          "Autres étapes": 0.67368233
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 7.3702645,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 4.1806897,
+          "Transformation": 1.1970604999999999,
+          "Emballage": 0.74835379,
+          "Transport": 1.1708443,
+          "Supermarché et distribution": 0.07329388099999999,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.4800155,
+          "Sel": 0.011998428,
+          "Huile de tournesol": 5.4560729,
+          "Autres étapes": 1.42217775
+        }
+      },
+      "Particules": {
+        "synthese": 0.12758041,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0.086532662,
+          "Transformation": 0.015591619,
+          "Emballage": 0.0079099869,
+          "Transport": 0.016133615,
+          "Supermarché et distribution": 0.0014106608,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.009886968199999999,
+          "Sel": 0.00018891093,
+          "Huile de tournesol": 0.09229706800000001,
+          "Autres étapes": 0.0252074656
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.018638087,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.013728528,
+          "Transformation": 0.0023308494,
+          "Emballage": 0.00097945898,
+          "Transport": 0.0014415148,
+          "Supermarché et distribution": 0.00015813469,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.0014058081,
+          "Sel": 0.000022894051,
+          "Huile de tournesol": 0.014560874,
+          "Autres étapes": 0.0026485107
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.071623139,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.058918632,
+          "Transformation": 0.0064510026,
+          "Emballage": 0.0019463858,
+          "Transport": 0.0039574974,
+          "Supermarché et distribution": 0.00035001351,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.005827508,
+          "Sel": 0.000047280117,
+          "Huile de tournesol": 0.058384743,
+          "Autres étapes": 0.0073636074
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.48321698,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.27399076,
+          "Transformation": 0.12673546,
+          "Emballage": 0.047147668000000004,
+          "Transport": 0.021528444,
+          "Supermarché et distribution": 0.013823075,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.025107902999999997,
+          "Sel": 0.0022487553,
+          "Huile de tournesol": 0.35211615,
+          "Autres étapes": 0.10374417600000001
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 19.403128,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 17.763909,
+          "Transformation": 1.0723797000000002,
+          "Emballage": 0.17467837,
+          "Transport": 0.35651416,
+          "Supermarché et distribution": 0.035633074,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.83839262,
+          "Sel": 0.0052502949,
+          "Huile de tournesol": 17.369369,
+          "Autres étapes": 1.19011628
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 191.28223,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 183.57823,
+          "Transformation": 3.9772864,
+          "Emballage": 1.1647357,
+          "Transport": 2.4602982,
+          "Supermarché et distribution": 0.10125032,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 15.256608,
+          "Sel": 0.020967666,
+          "Huile de tournesol": 170.67472,
+          "Autres étapes": 5.3299387
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 78.813636,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 66.768773,
+          "Transformation": 7.5599453,
+          "Emballage": 0.8443703,
+          "Transport": 2.554324,
+          "Supermarché et distribution": 1.086366,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 8.99402,
+          "Sel": 0.10479817,
+          "Huile de tournesol": 63.482604,
+          "Autres étapes": 6.2322136
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 1.152872,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 0.70093215,
+          "Transformation": 0.14045053,
+          "Emballage": 0.1973729,
+          "Transport": 0.025157343,
+          "Supermarché et distribution": 0.088994323,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.52609832,
+          "Sel": 0.0016947933,
+          "Huile de tournesol": 0.18136544,
+          "Autres étapes": 0.44371346
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 33.020277,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 5.0935317,
+          "Transformation": 15.134224,
+          "Emballage": 5.4257277,
+          "Transport": 3.6130815,
+          "Supermarché et distribution": 3.7549895,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 1.1423517,
+          "Sel": 0.038331886,
+          "Huile de tournesol": 9.9555477,
+          "Autres étapes": 21.884045999999998
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 7.1945758,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 2.8481825,
+          "Transformation": 3.4398908,
+          "Emballage": 0.12010422000000001,
+          "Transport": 0.62759017,
+          "Supermarché et distribution": 0.15865937000000002,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.4357129,
+          "Sel": 0.052465982,
+          "Huile de tournesol": 5.8158178,
+          "Autres étapes": 0.89057914
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Chips de crevette",
+    "LCI_name": "Prawn crackers",
+    "ciqual_AGB": "38104",
+    "ciqual_code": "38104",
+    "groupe": "produits céréaliers",
+    "sous_groupe": "céréales de petit-déjeuner et biscuits",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "LPDE",
+    "Livraison": "Ambiant (long)",
+    "Preparation": "Pas de préparation ",
+    "DQR": {
+      "overall": "2.58",
+      "P": "2.49",
+      "TiR": "2.28",
+      "GR": "2.33",
+      "TeR": "3.22"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.4157355,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0.27012453,
+          "Transformation": 0.068869754,
+          "Emballage": 0.021558384,
+          "Transport": 0.04528776,
+          "Supermarché et distribution": 0.0098990521,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Manioc": 0.053349005,
+          "Crevette": 0.091045609,
+          "Huile de tournesol": 0.18977501,
+          "Sucre blanc": 0.0084932837,
+          "Autres étapes": 0.073072592
+        }
+      },
+      "Changement climatique": {
+        "synthese": 3.2241701,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.9174325,
+          "Transformation": 0.5060649,
+          "Emballage": 0.28581962,
+          "Transport": 0.48579414,
+          "Supermarché et distribution": 0.029120657,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Manioc": 0.35062856,
+          "Crevette": 0.74535194,
+          "Huile de tournesol": 1.5181426,
+          "Sucre blanc": 0.040369296,
+          "Autres étapes": 0.56967777
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.36395241,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.1286352,
+          "Transformation": 0.10649034,
+          "Emballage": 0.0063144719,
+          "Transport": 0.10667695,
+          "Supermarché et distribution": 0.01584915,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Manioc": 0.049305773000000004,
+          "Crevette": 0.070444061,
+          "Huile de tournesol": 0.14252203,
+          "Sucre blanc": 0.0031397822,
+          "Autres étapes": 0.098540767
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.83423186,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.061253076,
+          "Transformation": 0.53893086,
+          "Emballage": 0.023659301,
+          "Transport": 0.038775967,
+          "Supermarché et distribution": 0.1716454,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Manioc": 0.02241653,
+          "Crevette": 0.046493441,
+          "Huile de tournesol": 0.08908394,
+          "Sucre blanc": 0.0025556232,
+          "Autres étapes": 0.67368233
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 12.621189,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 7.0991179,
+          "Transformation": 1.5823553,
+          "Emballage": 0.74835379,
+          "Transport": 3.1180466,
+          "Supermarché et distribution": 0.07329388099999999,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Manioc": 2.3714497000000003,
+          "Crevette": 3.4265406,
+          "Huile de tournesol": 5.2474583,
+          "Sucre blanc": 0.15356258,
+          "Autres étapes": 1.42217775
+        }
+      },
+      "Particules": {
+        "synthese": 0.21370472999999998,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0.15424147,
+          "Transformation": 0.02185117,
+          "Emballage": 0.0079099869,
+          "Transport": 0.028289650000000003,
+          "Supermarché et distribution": 0.0014106608,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Manioc": 0.034786875,
+          "Crevette": 0.056611283,
+          "Huile de tournesol": 0.08876806200000001,
+          "Sucre blanc": 0.008331048899999999,
+          "Autres étapes": 0.0252074656
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.031086184,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.022171657,
+          "Transformation": 0.0031537388,
+          "Emballage": 0.00097945898,
+          "Transport": 0.0046235778,
+          "Supermarché et distribution": 0.00015813469,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Manioc": 0.0065590789,
+          "Crevette": 0.0066691316,
+          "Huile de tournesol": 0.014004134,
+          "Sucre blanc": 0.001205328,
+          "Autres étapes": 0.0026485107
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.10948204,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.087323752,
+          "Transformation": 0.0088807588,
+          "Emballage": 0.0019463858,
+          "Transport": 0.010981508,
+          "Supermarché et distribution": 0.00035001351,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Manioc": 0.021910574,
+          "Crevette": 0.018939169,
+          "Huile de tournesol": 0.056152385,
+          "Sucre blanc": 0.0051163053,
+          "Autres étapes": 0.0073636074
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.817426,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.53675429,
+          "Transformation": 0.17087041,
+          "Emballage": 0.047147668000000004,
+          "Transport": 0.048838653,
+          "Supermarché et distribution": 0.013823075,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Manioc": 0.084376533,
+          "Crevette": 0.27853636,
+          "Huile de tournesol": 0.33865288,
+          "Sucre blanc": 0.012116054999999999,
+          "Autres étapes": 0.10374417600000001
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 22.779932,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 20.372689,
+          "Transformation": 1.2128858,
+          "Emballage": 0.17467837,
+          "Transport": 0.98403295,
+          "Supermarché et distribution": 0.035633074,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Manioc": 1.9765111999999998,
+          "Crevette": 2.5272345,
+          "Huile de tournesol": 16.705246,
+          "Sucre blanc": 0.38082388,
+          "Autres étapes": 1.19011628
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 213.94519,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 204.18075,
+          "Transformation": 4.3456377,
+          "Emballage": 1.1647357,
+          "Transport": 4.1524004,
+          "Supermarché et distribution": 0.10125032,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Manioc": 14.541133,
+          "Crevette": 27.616981,
+          "Huile de tournesol": 164.14892,
+          "Sucre blanc": 2.3082167,
+          "Autres étapes": 5.3299387
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 111.56547,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 94.26549,
+          "Transformation": 10.239259,
+          "Emballage": 0.8443703,
+          "Transport": 5.1301229,
+          "Supermarché et distribution": 1.086366,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Manioc": 10.972036,
+          "Crevette": 31.533876,
+          "Huile de tournesol": 61.055328,
+          "Sucre blanc": 1.7720164,
+          "Autres étapes": 6.2322136
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 2.1022172,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 1.5809005,
+          "Transformation": 0.18482835,
+          "Emballage": 0.1973729,
+          "Transport": 0.050154947,
+          "Supermarché et distribution": 0.088994323,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Manioc": 0.71587144,
+          "Crevette": 0.6092206,
+          "Huile de tournesol": 0.17443087,
+          "Sucre blanc": 0.15898079,
+          "Autres étapes": 0.44371346
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 44.612443,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 10.934838,
+          "Transformation": 17.203712,
+          "Emballage": 5.4257277,
+          "Transport": 7.2944035,
+          "Supermarché et distribution": 3.7549895,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Manioc": 4.2389893,
+          "Crevette": 8.5072092,
+          "Huile de tournesol": 9.5748944,
+          "Sucre blanc": 0.40730356,
+          "Autres étapes": 21.884045999999998
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 9.8435932,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 4.9255517,
+          "Transformation": 3.5654643,
+          "Emballage": 0.12010422000000001,
+          "Transport": 1.0736704,
+          "Supermarché et distribution": 0.15865937000000002,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Manioc": 0.7262594600000001,
+          "Crevette": 2.5388581,
+          "Huile de tournesol": 5.5934483,
+          "Sucre blanc": 0.094448146,
+          "Autres étapes": 0.89057914
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Chips de maïs ou tortilla chips",
+    "LCI_name": "Corn chips or tortilla chips",
+    "ciqual_AGB": "38105",
+    "ciqual_code": "38105",
+    "groupe": "produits céréaliers",
+    "sous_groupe": "céréales de petit-déjeuner et biscuits",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "LPDE",
+    "Livraison": "Ambiant (long)",
+    "Preparation": "Pas de préparation ",
+    "DQR": {
+      "overall": "2.93",
+      "P": "3.36",
+      "TiR": "2.28",
+      "GR": "2.33",
+      "TeR": "3.76"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.29200268999999995,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0.18214682000000001,
+          "Transformation": 0.057508389,
+          "Emballage": 0.021558384,
+          "Transport": 0.020894186999999998,
+          "Supermarché et distribution": 0.0098990521,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.021215504000000003,
+          "Sel": 0.00039501479,
+          "Huile de tournesol": 0.19731958000000002,
+          "Autres étapes": 0.073072592
+        }
+      },
+      "Changement climatique": {
+        "synthese": 2.2443641,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.2992636,
+          "Transformation": 0.39294234,
+          "Emballage": 0.28581962,
+          "Transport": 0.23728203,
+          "Supermarché et distribution": 0.029120657,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.093047836,
+          "Sel": 0.0031416217,
+          "Huile de tournesol": 1.5784969,
+          "Autres étapes": 0.56967777
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.26154692,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.082863418,
+          "Transformation": 0.10285879,
+          "Emballage": 0.0063144719,
+          "Transport": 0.053675339,
+          "Supermarché et distribution": 0.01584915,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.014579185,
+          "Sel": 0.00023892553000000002,
+          "Huile de tournesol": 0.14818804,
+          "Autres étapes": 0.098540767
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.77991792,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.034580786,
+          "Transformation": 0.53168589,
+          "Emballage": 0.023659301,
+          "Transport": 0.018380585,
+          "Supermarché et distribution": 0.1716454,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.013252058,
+          "Sel": 0.0003580351,
+          "Huile de tournesol": 0.092625503,
+          "Autres étapes": 0.67368233
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 7.3702645,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 4.1806897,
+          "Transformation": 1.1970604999999999,
+          "Emballage": 0.74835379,
+          "Transport": 1.1708443,
+          "Supermarché et distribution": 0.07329388099999999,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.4800155,
+          "Sel": 0.011998428,
+          "Huile de tournesol": 5.4560729,
+          "Autres étapes": 1.42217775
+        }
+      },
+      "Particules": {
+        "synthese": 0.12758041,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0.086532662,
+          "Transformation": 0.015591619,
+          "Emballage": 0.0079099869,
+          "Transport": 0.016133615,
+          "Supermarché et distribution": 0.0014106608,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.009886968199999999,
+          "Sel": 0.00018891093,
+          "Huile de tournesol": 0.09229706800000001,
+          "Autres étapes": 0.0252074656
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.018638087,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.013728528,
+          "Transformation": 0.0023308494,
+          "Emballage": 0.00097945898,
+          "Transport": 0.0014415148,
+          "Supermarché et distribution": 0.00015813469,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.0014058081,
+          "Sel": 0.000022894051,
+          "Huile de tournesol": 0.014560874,
+          "Autres étapes": 0.0026485107
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.071623139,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.058918632,
+          "Transformation": 0.0064510026,
+          "Emballage": 0.0019463858,
+          "Transport": 0.0039574974,
+          "Supermarché et distribution": 0.00035001351,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.005827508,
+          "Sel": 0.000047280117,
+          "Huile de tournesol": 0.058384743,
+          "Autres étapes": 0.0073636074
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.48321698,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.27399076,
+          "Transformation": 0.12673546,
+          "Emballage": 0.047147668000000004,
+          "Transport": 0.021528444,
+          "Supermarché et distribution": 0.013823075,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.025107902999999997,
+          "Sel": 0.0022487553,
+          "Huile de tournesol": 0.35211615,
+          "Autres étapes": 0.10374417600000001
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 19.403128,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 17.763909,
+          "Transformation": 1.0723797000000002,
+          "Emballage": 0.17467837,
+          "Transport": 0.35651416,
+          "Supermarché et distribution": 0.035633074,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.83839262,
+          "Sel": 0.0052502949,
+          "Huile de tournesol": 17.369369,
+          "Autres étapes": 1.19011628
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 191.28223,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 183.57823,
+          "Transformation": 3.9772864,
+          "Emballage": 1.1647357,
+          "Transport": 2.4602982,
+          "Supermarché et distribution": 0.10125032,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 15.256608,
+          "Sel": 0.020967666,
+          "Huile de tournesol": 170.67472,
+          "Autres étapes": 5.3299387
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 78.813636,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 66.768773,
+          "Transformation": 7.5599453,
+          "Emballage": 0.8443703,
+          "Transport": 2.554324,
+          "Supermarché et distribution": 1.086366,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 8.99402,
+          "Sel": 0.10479817,
+          "Huile de tournesol": 63.482604,
+          "Autres étapes": 6.2322136
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 1.152872,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 0.70093215,
+          "Transformation": 0.14045053,
+          "Emballage": 0.1973729,
+          "Transport": 0.025157343,
+          "Supermarché et distribution": 0.088994323,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.52609832,
+          "Sel": 0.0016947933,
+          "Huile de tournesol": 0.18136544,
+          "Autres étapes": 0.44371346
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 33.020277,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 5.0935317,
+          "Transformation": 15.134224,
+          "Emballage": 5.4257277,
+          "Transport": 3.6130815,
+          "Supermarché et distribution": 3.7549895,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 1.1423517,
+          "Sel": 0.038331886,
+          "Huile de tournesol": 9.9555477,
+          "Autres étapes": 21.884045999999998
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 7.1945758,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 2.8481825,
+          "Transformation": 3.4398908,
+          "Emballage": 0.12010422000000001,
+          "Transport": 0.62759017,
+          "Supermarché et distribution": 0.15865937000000002,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Pommes de terre": 0.4357129,
+          "Sel": 0.052465982,
+          "Huile de tournesol": 5.8158178,
+          "Autres étapes": 0.89057914
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Biscuit apéritif soufflé, à base de pomme de terre",
+    "LCI_name": "Puffed salty snacks, made from potato",
+    "ciqual_AGB": "38106",
+    "ciqual_code": "38106",
+    "groupe": "produits céréaliers",
+    "sous_groupe": "céréales de petit-déjeuner et biscuits",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "LPDE",
+    "Livraison": "Ambiant (long)",
+    "Preparation": "Pas de préparation ",
+    "DQR": {
+      "overall": "2.68",
+      "P": "2.92",
+      "TiR": "1.78",
+      "GR": "3.26",
+      "TeR": "2.75"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.25847155,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0.15602536,
+          "Transformation": 0.054753277,
+          "Emballage": 0.021572323,
+          "Transport": 0.016224129,
+          "Supermarché et distribution": 0.0098990521,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.009409744500000001,
+          "Sel": 0.00039106465,
+          "Huile de tournesol": 0.11490964,
+          "Farine de blé": 0.057147696,
+          "Sucre blanc": 0.0035329205,
+          "Autres étapes": 0.07308049000000001
+        }
+      },
+      "Changement climatique": {
+        "synthese": 1.8689845,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.0203258,
+          "Transformation": 0.34487873,
+          "Emballage": 0.28596322,
+          "Transport": 0.18873101,
+          "Supermarché et distribution": 0.029120657,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.069126758,
+          "Sel": 0.0031102054,
+          "Huile de tournesol": 0.91924228,
+          "Farine de blé": 0.29102736,
+          "Sucre blanc": 0.01679227,
+          "Autres étapes": 0.56968565
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.21886766000000002,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.065053897,
+          "Transformation": 0.088981376,
+          "Emballage": 0.0063188022,
+          "Transport": 0.042672991,
+          "Supermarché et distribution": 0.01584915,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.0059613604,
+          "Sel": 0.00023653628000000002,
+          "Huile de tournesol": 0.08629774000000001,
+          "Farine de blé": 0.026524534000000002,
+          "Sucre blanc": 0.0013060438999999999,
+          "Autres étapes": 0.09854144100000001
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.78783704,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.026290799,
+          "Transformation": 0.55196468,
+          "Emballage": 0.023669289,
+          "Transport": 0.014297729,
+          "Supermarché et distribution": 0.1716454,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.010428393,
+          "Sel": 0.00035445475,
+          "Huile de tournesol": 0.053940734,
+          "Farine de blé": 0.048365278,
+          "Sucre blanc": 0.0010630533,
+          "Autres étapes": 0.67368514
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 6.1593401,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 3.5305253000000003,
+          "Transformation": 0.97017077,
+          "Emballage": 0.74891699,
+          "Transport": 0.83641341,
+          "Supermarché et distribution": 0.07329388099999999,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.20544125,
+          "Sel": 0.011878444,
+          "Huile de tournesol": 3.1773601,
+          "Farine de blé": 1.278579,
+          "Sucre blanc": 0.063876872,
+          "Autres étapes": 1.4222044999999999
+        }
+      },
+      "Particules": {
+        "synthese": 0.12949374,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0.092867753,
+          "Transformation": 0.014697606,
+          "Emballage": 0.007917370699999999,
+          "Transport": 0.012599046999999999,
+          "Supermarché et distribution": 0.0014106608,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.0047035482,
+          "Sel": 0.00018702182,
+          "Huile de tournesol": 0.053749469,
+          "Farine de blé": 0.042180357,
+          "Sucre blanc": 0.0034654363000000002,
+          "Autres étapes": 0.0252079073
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.018900844,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.014578247,
+          "Transformation": 0.0021704752,
+          "Emballage": 0.00098013225,
+          "Transport": 0.0010140653,
+          "Supermarché et distribution": 0.00015813469,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.00070151629,
+          "Sel": 0.00002266511,
+          "Huile de tournesol": 0.0084795676,
+          "Farine de blé": 0.006547153,
+          "Sucre blanc": 0.00050137593,
+          "Autres étapes": 0.0026485659999999998
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.074799147,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.063429479,
+          "Transformation": 0.006304123,
+          "Emballage": 0.0019477267,
+          "Transport": 0.002768008,
+          "Supermarché et distribution": 0.00035001351,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.0024960108,
+          "Sel": 0.000046807316,
+          "Huile de tournesol": 0.034000527,
+          "Farine de blé": 0.02876386,
+          "Sucre blanc": 0.002128211,
+          "Autres étapes": 0.0073637302
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.45512571,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.25613064999999996,
+          "Transformation": 0.12112443,
+          "Emballage": 0.047173189000000004,
+          "Transport": 0.016879433,
+          "Supermarché et distribution": 0.013823075,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.035850521,
+          "Sel": 0.0022262677,
+          "Huile de tournesol": 0.20505586999999997,
+          "Farine de blé": 0.10320291,
+          "Sucre blanc": 0.0050398715,
+          "Autres étapes": 0.10375026100000001
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 16.707072,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 15.146092,
+          "Transformation": 1.1007551,
+          "Emballage": 0.17479875,
+          "Transport": 0.24978737,
+          "Supermarché et distribution": 0.035633074,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.65500041,
+          "Sel": 0.0051977920000000006,
+          "Huile de tournesol": 10.115103,
+          "Farine de blé": 4.583235500000001,
+          "Sucre blanc": 0.15840993,
+          "Autres étapes": 1.19012525
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 170.65952,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 163.35209,
+          "Transformation": 4.1212518,
+          "Emballage": 1.1674343,
+          "Transport": 1.9172516,
+          "Supermarché et distribution": 0.10125032,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 4.6741187,
+          "Sel": 0.020757989,
+          "Huile de tournesol": 99.392924,
+          "Farine de blé": 60.281606,
+          "Sucre blanc": 0.96014055,
+          "Autres étapes": 5.3299751
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 61.320673,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 50.387431,
+          "Transformation": 6.9568874,
+          "Emballage": 0.84517043,
+          "Transport": 2.0449182,
+          "Supermarché et distribution": 1.086366,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 1.1857998,
+          "Sel": 0.10375018,
+          "Huile de tournesol": 36.969281,
+          "Farine de blé": 16.092388,
+          "Sucre blanc": 0.73709926,
+          "Autres étapes": 6.232354600000001
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 0.84384286,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 0.33718484,
+          "Transformation": 0.20033107,
+          "Emballage": 0.19747464,
+          "Transport": 0.0198805,
+          "Supermarché et distribution": 0.088994323,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.055450655,
+          "Sel": 0.0016778454,
+          "Huile de tournesol": 0.10561869,
+          "Farine de blé": 0.17030498,
+          "Sucre blanc": 0.066130665,
+          "Autres étapes": 0.44466002
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 31.320827,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 4.2981451,
+          "Transformation": 14.973249,
+          "Emballage": 5.4296822,
+          "Transport": 2.8656989,
+          "Supermarché et distribution": 3.7549895,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.86215089,
+          "Sel": 0.037948567,
+          "Huile de tournesol": 5.7976425,
+          "Farine de blé": 2.5694791,
+          "Sucre blanc": 0.16942459,
+          "Autres étapes": 21.884182
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 5.5140606,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 2.0464797999999997,
+          "Transformation": 2.6503477,
+          "Emballage": 0.12019126999999999,
+          "Transport": 0.53821828,
+          "Supermarché et distribution": 0.15865937000000002,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.5774583,
+          "Sel": 0.051941322,
+          "Huile de tournesol": 3.3868586,
+          "Farine de blé": 0.56791308,
+          "Sucre blanc": 0.039287254,
+          "Autres étapes": 0.89060202
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Biscuit apéritif, mini bretzel ou sticks",
+    "LCI_name": "Salty snacks, mini pretzels or sticks",
+    "ciqual_AGB": "38107",
+    "ciqual_code": "38107",
+    "groupe": "produits céréaliers",
+    "sous_groupe": "céréales de petit-déjeuner et biscuits",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "LPDE",
+    "Livraison": "Ambiant (long)",
+    "Preparation": "Pas de préparation ",
+    "DQR": {
+      "overall": "2.68",
+      "P": "2.92",
+      "TiR": "1.78",
+      "GR": "3.26",
+      "TeR": "2.75"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.25847155,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0.15602536,
+          "Transformation": 0.054753277,
+          "Emballage": 0.021572323,
+          "Transport": 0.016224129,
+          "Supermarché et distribution": 0.0098990521,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.009409744500000001,
+          "Sel": 0.00039106465,
+          "Huile de tournesol": 0.11490964,
+          "Farine de blé": 0.057147696,
+          "Sucre blanc": 0.0035329205,
+          "Autres étapes": 0.07308049000000001
+        }
+      },
+      "Changement climatique": {
+        "synthese": 1.8689845,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.0203258,
+          "Transformation": 0.34487873,
+          "Emballage": 0.28596322,
+          "Transport": 0.18873101,
+          "Supermarché et distribution": 0.029120657,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.069126758,
+          "Sel": 0.0031102054,
+          "Huile de tournesol": 0.91924228,
+          "Farine de blé": 0.29102736,
+          "Sucre blanc": 0.01679227,
+          "Autres étapes": 0.56968565
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.21886766000000002,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.065053897,
+          "Transformation": 0.088981376,
+          "Emballage": 0.0063188022,
+          "Transport": 0.042672991,
+          "Supermarché et distribution": 0.01584915,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.0059613604,
+          "Sel": 0.00023653628000000002,
+          "Huile de tournesol": 0.08629774000000001,
+          "Farine de blé": 0.026524534000000002,
+          "Sucre blanc": 0.0013060438999999999,
+          "Autres étapes": 0.09854144100000001
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.78783704,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.026290799,
+          "Transformation": 0.55196468,
+          "Emballage": 0.023669289,
+          "Transport": 0.014297729,
+          "Supermarché et distribution": 0.1716454,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.010428393,
+          "Sel": 0.00035445475,
+          "Huile de tournesol": 0.053940734,
+          "Farine de blé": 0.048365278,
+          "Sucre blanc": 0.0010630533,
+          "Autres étapes": 0.67368514
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 6.1593401,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 3.5305253000000003,
+          "Transformation": 0.97017077,
+          "Emballage": 0.74891699,
+          "Transport": 0.83641341,
+          "Supermarché et distribution": 0.07329388099999999,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.20544125,
+          "Sel": 0.011878444,
+          "Huile de tournesol": 3.1773601,
+          "Farine de blé": 1.278579,
+          "Sucre blanc": 0.063876872,
+          "Autres étapes": 1.4222044999999999
+        }
+      },
+      "Particules": {
+        "synthese": 0.12949374,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0.092867753,
+          "Transformation": 0.014697606,
+          "Emballage": 0.007917370699999999,
+          "Transport": 0.012599046999999999,
+          "Supermarché et distribution": 0.0014106608,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.0047035482,
+          "Sel": 0.00018702182,
+          "Huile de tournesol": 0.053749469,
+          "Farine de blé": 0.042180357,
+          "Sucre blanc": 0.0034654363000000002,
+          "Autres étapes": 0.0252079073
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.018900844,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.014578247,
+          "Transformation": 0.0021704752,
+          "Emballage": 0.00098013225,
+          "Transport": 0.0010140653,
+          "Supermarché et distribution": 0.00015813469,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.00070151629,
+          "Sel": 0.00002266511,
+          "Huile de tournesol": 0.0084795676,
+          "Farine de blé": 0.006547153,
+          "Sucre blanc": 0.00050137593,
+          "Autres étapes": 0.0026485659999999998
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.074799147,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.063429479,
+          "Transformation": 0.006304123,
+          "Emballage": 0.0019477267,
+          "Transport": 0.002768008,
+          "Supermarché et distribution": 0.00035001351,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.0024960108,
+          "Sel": 0.000046807316,
+          "Huile de tournesol": 0.034000527,
+          "Farine de blé": 0.02876386,
+          "Sucre blanc": 0.002128211,
+          "Autres étapes": 0.0073637302
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.45512571,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.25613064999999996,
+          "Transformation": 0.12112443,
+          "Emballage": 0.047173189000000004,
+          "Transport": 0.016879433,
+          "Supermarché et distribution": 0.013823075,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.035850521,
+          "Sel": 0.0022262677,
+          "Huile de tournesol": 0.20505586999999997,
+          "Farine de blé": 0.10320291,
+          "Sucre blanc": 0.0050398715,
+          "Autres étapes": 0.10375026100000001
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 16.707072,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 15.146092,
+          "Transformation": 1.1007551,
+          "Emballage": 0.17479875,
+          "Transport": 0.24978737,
+          "Supermarché et distribution": 0.035633074,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.65500041,
+          "Sel": 0.0051977920000000006,
+          "Huile de tournesol": 10.115103,
+          "Farine de blé": 4.583235500000001,
+          "Sucre blanc": 0.15840993,
+          "Autres étapes": 1.19012525
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 170.65952,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 163.35209,
+          "Transformation": 4.1212518,
+          "Emballage": 1.1674343,
+          "Transport": 1.9172516,
+          "Supermarché et distribution": 0.10125032,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 4.6741187,
+          "Sel": 0.020757989,
+          "Huile de tournesol": 99.392924,
+          "Farine de blé": 60.281606,
+          "Sucre blanc": 0.96014055,
+          "Autres étapes": 5.3299751
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 61.320673,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 50.387431,
+          "Transformation": 6.9568874,
+          "Emballage": 0.84517043,
+          "Transport": 2.0449182,
+          "Supermarché et distribution": 1.086366,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 1.1857998,
+          "Sel": 0.10375018,
+          "Huile de tournesol": 36.969281,
+          "Farine de blé": 16.092388,
+          "Sucre blanc": 0.73709926,
+          "Autres étapes": 6.232354600000001
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 0.84384286,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 0.33718484,
+          "Transformation": 0.20033107,
+          "Emballage": 0.19747464,
+          "Transport": 0.0198805,
+          "Supermarché et distribution": 0.088994323,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.055450655,
+          "Sel": 0.0016778454,
+          "Huile de tournesol": 0.10561869,
+          "Farine de blé": 0.17030498,
+          "Sucre blanc": 0.066130665,
+          "Autres étapes": 0.44466002
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 31.320827,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 4.2981451,
+          "Transformation": 14.973249,
+          "Emballage": 5.4296822,
+          "Transport": 2.8656989,
+          "Supermarché et distribution": 3.7549895,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.86215089,
+          "Sel": 0.037948567,
+          "Huile de tournesol": 5.7976425,
+          "Farine de blé": 2.5694791,
+          "Sucre blanc": 0.16942459,
+          "Autres étapes": 21.884182
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 5.5140606,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 2.0464797999999997,
+          "Transformation": 2.6503477,
+          "Emballage": 0.12019126999999999,
+          "Transport": 0.53821828,
+          "Supermarché et distribution": 0.15865937000000002,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.5774583,
+          "Sel": 0.051941322,
+          "Huile de tournesol": 3.3868586,
+          "Farine de blé": 0.56791308,
+          "Sucre blanc": 0.039287254,
+          "Autres étapes": 0.89060202
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Biscuit apéritif soufflé, à base de pomme de terre et de soja",
+    "LCI_name": "Puffed salty snacks, made from potato and soy",
+    "ciqual_AGB": "38108",
+    "ciqual_code": "38108",
+    "groupe": "produits céréaliers",
+    "sous_groupe": "céréales de petit-déjeuner et biscuits",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "LPDE",
+    "Livraison": "Ambiant (long)",
+    "Preparation": "Pas de préparation ",
+    "DQR": {
+      "overall": "2.68",
+      "P": "2.92",
+      "TiR": "1.78",
+      "GR": "3.26",
+      "TeR": "2.75"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.25847155,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0.15602536,
+          "Transformation": 0.054753277,
+          "Emballage": 0.021572323,
+          "Transport": 0.016224129,
+          "Supermarché et distribution": 0.0098990521,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.009409744500000001,
+          "Sel": 0.00039106465,
+          "Huile de tournesol": 0.11490964,
+          "Farine de blé": 0.057147696,
+          "Sucre blanc": 0.0035329205,
+          "Autres étapes": 0.07308049000000001
+        }
+      },
+      "Changement climatique": {
+        "synthese": 1.8689845,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.0203258,
+          "Transformation": 0.34487873,
+          "Emballage": 0.28596322,
+          "Transport": 0.18873101,
+          "Supermarché et distribution": 0.029120657,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.069126758,
+          "Sel": 0.0031102054,
+          "Huile de tournesol": 0.91924228,
+          "Farine de blé": 0.29102736,
+          "Sucre blanc": 0.01679227,
+          "Autres étapes": 0.56968565
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.21886766000000002,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.065053897,
+          "Transformation": 0.088981376,
+          "Emballage": 0.0063188022,
+          "Transport": 0.042672991,
+          "Supermarché et distribution": 0.01584915,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.0059613604,
+          "Sel": 0.00023653628000000002,
+          "Huile de tournesol": 0.08629774000000001,
+          "Farine de blé": 0.026524534000000002,
+          "Sucre blanc": 0.0013060438999999999,
+          "Autres étapes": 0.09854144100000001
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.78783704,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.026290799,
+          "Transformation": 0.55196468,
+          "Emballage": 0.023669289,
+          "Transport": 0.014297729,
+          "Supermarché et distribution": 0.1716454,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.010428393,
+          "Sel": 0.00035445475,
+          "Huile de tournesol": 0.053940734,
+          "Farine de blé": 0.048365278,
+          "Sucre blanc": 0.0010630533,
+          "Autres étapes": 0.67368514
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 6.1593401,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 3.5305253000000003,
+          "Transformation": 0.97017077,
+          "Emballage": 0.74891699,
+          "Transport": 0.83641341,
+          "Supermarché et distribution": 0.07329388099999999,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.20544125,
+          "Sel": 0.011878444,
+          "Huile de tournesol": 3.1773601,
+          "Farine de blé": 1.278579,
+          "Sucre blanc": 0.063876872,
+          "Autres étapes": 1.4222044999999999
+        }
+      },
+      "Particules": {
+        "synthese": 0.12949374,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0.092867753,
+          "Transformation": 0.014697606,
+          "Emballage": 0.007917370699999999,
+          "Transport": 0.012599046999999999,
+          "Supermarché et distribution": 0.0014106608,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.0047035482,
+          "Sel": 0.00018702182,
+          "Huile de tournesol": 0.053749469,
+          "Farine de blé": 0.042180357,
+          "Sucre blanc": 0.0034654363000000002,
+          "Autres étapes": 0.0252079073
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.018900844,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.014578247,
+          "Transformation": 0.0021704752,
+          "Emballage": 0.00098013225,
+          "Transport": 0.0010140653,
+          "Supermarché et distribution": 0.00015813469,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.00070151629,
+          "Sel": 0.00002266511,
+          "Huile de tournesol": 0.0084795676,
+          "Farine de blé": 0.006547153,
+          "Sucre blanc": 0.00050137593,
+          "Autres étapes": 0.0026485659999999998
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.074799147,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.063429479,
+          "Transformation": 0.006304123,
+          "Emballage": 0.0019477267,
+          "Transport": 0.002768008,
+          "Supermarché et distribution": 0.00035001351,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.0024960108,
+          "Sel": 0.000046807316,
+          "Huile de tournesol": 0.034000527,
+          "Farine de blé": 0.02876386,
+          "Sucre blanc": 0.002128211,
+          "Autres étapes": 0.0073637302
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.45512571,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.25613064999999996,
+          "Transformation": 0.12112443,
+          "Emballage": 0.047173189000000004,
+          "Transport": 0.016879433,
+          "Supermarché et distribution": 0.013823075,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.035850521,
+          "Sel": 0.0022262677,
+          "Huile de tournesol": 0.20505586999999997,
+          "Farine de blé": 0.10320291,
+          "Sucre blanc": 0.0050398715,
+          "Autres étapes": 0.10375026100000001
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 16.707072,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 15.146092,
+          "Transformation": 1.1007551,
+          "Emballage": 0.17479875,
+          "Transport": 0.24978737,
+          "Supermarché et distribution": 0.035633074,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.65500041,
+          "Sel": 0.0051977920000000006,
+          "Huile de tournesol": 10.115103,
+          "Farine de blé": 4.583235500000001,
+          "Sucre blanc": 0.15840993,
+          "Autres étapes": 1.19012525
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 170.65952,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 163.35209,
+          "Transformation": 4.1212518,
+          "Emballage": 1.1674343,
+          "Transport": 1.9172516,
+          "Supermarché et distribution": 0.10125032,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 4.6741187,
+          "Sel": 0.020757989,
+          "Huile de tournesol": 99.392924,
+          "Farine de blé": 60.281606,
+          "Sucre blanc": 0.96014055,
+          "Autres étapes": 5.3299751
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 61.320673,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 50.387431,
+          "Transformation": 6.9568874,
+          "Emballage": 0.84517043,
+          "Transport": 2.0449182,
+          "Supermarché et distribution": 1.086366,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 1.1857998,
+          "Sel": 0.10375018,
+          "Huile de tournesol": 36.969281,
+          "Farine de blé": 16.092388,
+          "Sucre blanc": 0.73709926,
+          "Autres étapes": 6.232354600000001
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 0.84384286,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 0.33718484,
+          "Transformation": 0.20033107,
+          "Emballage": 0.19747464,
+          "Transport": 0.0198805,
+          "Supermarché et distribution": 0.088994323,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.055450655,
+          "Sel": 0.0016778454,
+          "Huile de tournesol": 0.10561869,
+          "Farine de blé": 0.17030498,
+          "Sucre blanc": 0.066130665,
+          "Autres étapes": 0.44466002
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 31.320827,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 4.2981451,
+          "Transformation": 14.973249,
+          "Emballage": 5.4296822,
+          "Transport": 2.8656989,
+          "Supermarché et distribution": 3.7549895,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.86215089,
+          "Sel": 0.037948567,
+          "Huile de tournesol": 5.7976425,
+          "Farine de blé": 2.5694791,
+          "Sucre blanc": 0.16942459,
+          "Autres étapes": 21.884182
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 5.5140606,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 2.0464797999999997,
+          "Transformation": 2.6503477,
+          "Emballage": 0.12019126999999999,
+          "Transport": 0.53821828,
+          "Supermarché et distribution": 0.15865937000000002,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.5774583,
+          "Sel": 0.051941322,
+          "Huile de tournesol": 3.3868586,
+          "Farine de blé": 0.56791308,
+          "Sucre blanc": 0.039287254,
+          "Autres étapes": 0.89060202
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Biscuit apéritif soufflé, à base de maïs, sans cacahuète",
+    "LCI_name": "Puffed salty snacks, made from maize/corn, without peanuts",
+    "ciqual_AGB": "38400",
+    "ciqual_code": "38400",
+    "groupe": "produits céréaliers",
+    "sous_groupe": "céréales de petit-déjeuner et biscuits",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "LPDE",
+    "Livraison": "Ambiant (long)",
+    "Preparation": "Pas de préparation ",
+    "DQR": {
+      "overall": "2.68",
+      "P": "2.92",
+      "TiR": "1.78",
+      "GR": "3.26",
+      "TeR": "2.75"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.25847155,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0.15602536,
+          "Transformation": 0.054753277,
+          "Emballage": 0.021572323,
+          "Transport": 0.016224129,
+          "Supermarché et distribution": 0.0098990521,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.009409744500000001,
+          "Sel": 0.00039106465,
+          "Huile de tournesol": 0.11490964,
+          "Farine de blé": 0.057147696,
+          "Sucre blanc": 0.0035329205,
+          "Autres étapes": 0.07308049000000001
+        }
+      },
+      "Changement climatique": {
+        "synthese": 1.8689845,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.0203258,
+          "Transformation": 0.34487873,
+          "Emballage": 0.28596322,
+          "Transport": 0.18873101,
+          "Supermarché et distribution": 0.029120657,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.069126758,
+          "Sel": 0.0031102054,
+          "Huile de tournesol": 0.91924228,
+          "Farine de blé": 0.29102736,
+          "Sucre blanc": 0.01679227,
+          "Autres étapes": 0.56968565
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.21886766000000002,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.065053897,
+          "Transformation": 0.088981376,
+          "Emballage": 0.0063188022,
+          "Transport": 0.042672991,
+          "Supermarché et distribution": 0.01584915,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.0059613604,
+          "Sel": 0.00023653628000000002,
+          "Huile de tournesol": 0.08629774000000001,
+          "Farine de blé": 0.026524534000000002,
+          "Sucre blanc": 0.0013060438999999999,
+          "Autres étapes": 0.09854144100000001
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.78783704,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.026290799,
+          "Transformation": 0.55196468,
+          "Emballage": 0.023669289,
+          "Transport": 0.014297729,
+          "Supermarché et distribution": 0.1716454,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.010428393,
+          "Sel": 0.00035445475,
+          "Huile de tournesol": 0.053940734,
+          "Farine de blé": 0.048365278,
+          "Sucre blanc": 0.0010630533,
+          "Autres étapes": 0.67368514
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 6.1593401,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 3.5305253000000003,
+          "Transformation": 0.97017077,
+          "Emballage": 0.74891699,
+          "Transport": 0.83641341,
+          "Supermarché et distribution": 0.07329388099999999,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.20544125,
+          "Sel": 0.011878444,
+          "Huile de tournesol": 3.1773601,
+          "Farine de blé": 1.278579,
+          "Sucre blanc": 0.063876872,
+          "Autres étapes": 1.4222044999999999
+        }
+      },
+      "Particules": {
+        "synthese": 0.12949374,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0.092867753,
+          "Transformation": 0.014697606,
+          "Emballage": 0.007917370699999999,
+          "Transport": 0.012599046999999999,
+          "Supermarché et distribution": 0.0014106608,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.0047035482,
+          "Sel": 0.00018702182,
+          "Huile de tournesol": 0.053749469,
+          "Farine de blé": 0.042180357,
+          "Sucre blanc": 0.0034654363000000002,
+          "Autres étapes": 0.0252079073
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.018900844,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.014578247,
+          "Transformation": 0.0021704752,
+          "Emballage": 0.00098013225,
+          "Transport": 0.0010140653,
+          "Supermarché et distribution": 0.00015813469,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.00070151629,
+          "Sel": 0.00002266511,
+          "Huile de tournesol": 0.0084795676,
+          "Farine de blé": 0.006547153,
+          "Sucre blanc": 0.00050137593,
+          "Autres étapes": 0.0026485659999999998
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.074799147,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.063429479,
+          "Transformation": 0.006304123,
+          "Emballage": 0.0019477267,
+          "Transport": 0.002768008,
+          "Supermarché et distribution": 0.00035001351,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.0024960108,
+          "Sel": 0.000046807316,
+          "Huile de tournesol": 0.034000527,
+          "Farine de blé": 0.02876386,
+          "Sucre blanc": 0.002128211,
+          "Autres étapes": 0.0073637302
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.45512571,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.25613064999999996,
+          "Transformation": 0.12112443,
+          "Emballage": 0.047173189000000004,
+          "Transport": 0.016879433,
+          "Supermarché et distribution": 0.013823075,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.035850521,
+          "Sel": 0.0022262677,
+          "Huile de tournesol": 0.20505586999999997,
+          "Farine de blé": 0.10320291,
+          "Sucre blanc": 0.0050398715,
+          "Autres étapes": 0.10375026100000001
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 16.707072,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 15.146092,
+          "Transformation": 1.1007551,
+          "Emballage": 0.17479875,
+          "Transport": 0.24978737,
+          "Supermarché et distribution": 0.035633074,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.65500041,
+          "Sel": 0.0051977920000000006,
+          "Huile de tournesol": 10.115103,
+          "Farine de blé": 4.583235500000001,
+          "Sucre blanc": 0.15840993,
+          "Autres étapes": 1.19012525
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 170.65952,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 163.35209,
+          "Transformation": 4.1212518,
+          "Emballage": 1.1674343,
+          "Transport": 1.9172516,
+          "Supermarché et distribution": 0.10125032,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 4.6741187,
+          "Sel": 0.020757989,
+          "Huile de tournesol": 99.392924,
+          "Farine de blé": 60.281606,
+          "Sucre blanc": 0.96014055,
+          "Autres étapes": 5.3299751
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 61.320673,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 50.387431,
+          "Transformation": 6.9568874,
+          "Emballage": 0.84517043,
+          "Transport": 2.0449182,
+          "Supermarché et distribution": 1.086366,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 1.1857998,
+          "Sel": 0.10375018,
+          "Huile de tournesol": 36.969281,
+          "Farine de blé": 16.092388,
+          "Sucre blanc": 0.73709926,
+          "Autres étapes": 6.232354600000001
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 0.84384286,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 0.33718484,
+          "Transformation": 0.20033107,
+          "Emballage": 0.19747464,
+          "Transport": 0.0198805,
+          "Supermarché et distribution": 0.088994323,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.055450655,
+          "Sel": 0.0016778454,
+          "Huile de tournesol": 0.10561869,
+          "Farine de blé": 0.17030498,
+          "Sucre blanc": 0.066130665,
+          "Autres étapes": 0.44466002
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 31.320827,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 4.2981451,
+          "Transformation": 14.973249,
+          "Emballage": 5.4296822,
+          "Transport": 2.8656989,
+          "Supermarché et distribution": 3.7549895,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.86215089,
+          "Sel": 0.037948567,
+          "Huile de tournesol": 5.7976425,
+          "Farine de blé": 2.5694791,
+          "Sucre blanc": 0.16942459,
+          "Autres étapes": 21.884182
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 5.5140606,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 2.0464797999999997,
+          "Transformation": 2.6503477,
+          "Emballage": 0.12019126999999999,
+          "Transport": 0.53821828,
+          "Supermarché et distribution": 0.15865937000000002,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.5774583,
+          "Sel": 0.051941322,
+          "Huile de tournesol": 3.3868586,
+          "Farine de blé": 0.56791308,
+          "Sucre blanc": 0.039287254,
+          "Autres étapes": 0.89060202
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Biscuit apéritif, crackers, garni ou fourré, au fromage",
+    "LCI_name": "Salty snacks, crackers, garnished or filled with cheese",
+    "ciqual_AGB": "38401",
+    "ciqual_code": "38401",
+    "groupe": "produits céréaliers",
+    "sous_groupe": "céréales de petit-déjeuner et biscuits",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "LPDE",
+    "Livraison": "Ambiant (long)",
+    "Preparation": "Pas de préparation ",
+    "DQR": {
+      "overall": "2.68",
+      "P": "2.92",
+      "TiR": "1.78",
+      "GR": "3.26",
+      "TeR": "2.75"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.25847155,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0.15602536,
+          "Transformation": 0.054753277,
+          "Emballage": 0.021572323,
+          "Transport": 0.016224129,
+          "Supermarché et distribution": 0.0098990521,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.009409744500000001,
+          "Sel": 0.00039106465,
+          "Huile de tournesol": 0.11490964,
+          "Farine de blé": 0.057147696,
+          "Sucre blanc": 0.0035329205,
+          "Autres étapes": 0.07308049000000001
+        }
+      },
+      "Changement climatique": {
+        "synthese": 1.8689845,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.0203258,
+          "Transformation": 0.34487873,
+          "Emballage": 0.28596322,
+          "Transport": 0.18873101,
+          "Supermarché et distribution": 0.029120657,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.069126758,
+          "Sel": 0.0031102054,
+          "Huile de tournesol": 0.91924228,
+          "Farine de blé": 0.29102736,
+          "Sucre blanc": 0.01679227,
+          "Autres étapes": 0.56968565
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.21886766000000002,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.065053897,
+          "Transformation": 0.088981376,
+          "Emballage": 0.0063188022,
+          "Transport": 0.042672991,
+          "Supermarché et distribution": 0.01584915,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.0059613604,
+          "Sel": 0.00023653628000000002,
+          "Huile de tournesol": 0.08629774000000001,
+          "Farine de blé": 0.026524534000000002,
+          "Sucre blanc": 0.0013060438999999999,
+          "Autres étapes": 0.09854144100000001
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.78783704,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.026290799,
+          "Transformation": 0.55196468,
+          "Emballage": 0.023669289,
+          "Transport": 0.014297729,
+          "Supermarché et distribution": 0.1716454,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.010428393,
+          "Sel": 0.00035445475,
+          "Huile de tournesol": 0.053940734,
+          "Farine de blé": 0.048365278,
+          "Sucre blanc": 0.0010630533,
+          "Autres étapes": 0.67368514
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 6.1593401,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 3.5305253000000003,
+          "Transformation": 0.97017077,
+          "Emballage": 0.74891699,
+          "Transport": 0.83641341,
+          "Supermarché et distribution": 0.07329388099999999,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.20544125,
+          "Sel": 0.011878444,
+          "Huile de tournesol": 3.1773601,
+          "Farine de blé": 1.278579,
+          "Sucre blanc": 0.063876872,
+          "Autres étapes": 1.4222044999999999
+        }
+      },
+      "Particules": {
+        "synthese": 0.12949374,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0.092867753,
+          "Transformation": 0.014697606,
+          "Emballage": 0.007917370699999999,
+          "Transport": 0.012599046999999999,
+          "Supermarché et distribution": 0.0014106608,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.0047035482,
+          "Sel": 0.00018702182,
+          "Huile de tournesol": 0.053749469,
+          "Farine de blé": 0.042180357,
+          "Sucre blanc": 0.0034654363000000002,
+          "Autres étapes": 0.0252079073
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.018900844,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.014578247,
+          "Transformation": 0.0021704752,
+          "Emballage": 0.00098013225,
+          "Transport": 0.0010140653,
+          "Supermarché et distribution": 0.00015813469,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.00070151629,
+          "Sel": 0.00002266511,
+          "Huile de tournesol": 0.0084795676,
+          "Farine de blé": 0.006547153,
+          "Sucre blanc": 0.00050137593,
+          "Autres étapes": 0.0026485659999999998
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.074799147,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.063429479,
+          "Transformation": 0.006304123,
+          "Emballage": 0.0019477267,
+          "Transport": 0.002768008,
+          "Supermarché et distribution": 0.00035001351,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.0024960108,
+          "Sel": 0.000046807316,
+          "Huile de tournesol": 0.034000527,
+          "Farine de blé": 0.02876386,
+          "Sucre blanc": 0.002128211,
+          "Autres étapes": 0.0073637302
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.45512571,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.25613064999999996,
+          "Transformation": 0.12112443,
+          "Emballage": 0.047173189000000004,
+          "Transport": 0.016879433,
+          "Supermarché et distribution": 0.013823075,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.035850521,
+          "Sel": 0.0022262677,
+          "Huile de tournesol": 0.20505586999999997,
+          "Farine de blé": 0.10320291,
+          "Sucre blanc": 0.0050398715,
+          "Autres étapes": 0.10375026100000001
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 16.707072,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 15.146092,
+          "Transformation": 1.1007551,
+          "Emballage": 0.17479875,
+          "Transport": 0.24978737,
+          "Supermarché et distribution": 0.035633074,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.65500041,
+          "Sel": 0.0051977920000000006,
+          "Huile de tournesol": 10.115103,
+          "Farine de blé": 4.583235500000001,
+          "Sucre blanc": 0.15840993,
+          "Autres étapes": 1.19012525
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 170.65952,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 163.35209,
+          "Transformation": 4.1212518,
+          "Emballage": 1.1674343,
+          "Transport": 1.9172516,
+          "Supermarché et distribution": 0.10125032,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 4.6741187,
+          "Sel": 0.020757989,
+          "Huile de tournesol": 99.392924,
+          "Farine de blé": 60.281606,
+          "Sucre blanc": 0.96014055,
+          "Autres étapes": 5.3299751
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 61.320673,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 50.387431,
+          "Transformation": 6.9568874,
+          "Emballage": 0.84517043,
+          "Transport": 2.0449182,
+          "Supermarché et distribution": 1.086366,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 1.1857998,
+          "Sel": 0.10375018,
+          "Huile de tournesol": 36.969281,
+          "Farine de blé": 16.092388,
+          "Sucre blanc": 0.73709926,
+          "Autres étapes": 6.232354600000001
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 0.84384286,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 0.33718484,
+          "Transformation": 0.20033107,
+          "Emballage": 0.19747464,
+          "Transport": 0.0198805,
+          "Supermarché et distribution": 0.088994323,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.055450655,
+          "Sel": 0.0016778454,
+          "Huile de tournesol": 0.10561869,
+          "Farine de blé": 0.17030498,
+          "Sucre blanc": 0.066130665,
+          "Autres étapes": 0.44466002
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 31.320827,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 4.2981451,
+          "Transformation": 14.973249,
+          "Emballage": 5.4296822,
+          "Transport": 2.8656989,
+          "Supermarché et distribution": 3.7549895,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.86215089,
+          "Sel": 0.037948567,
+          "Huile de tournesol": 5.7976425,
+          "Farine de blé": 2.5694791,
+          "Sucre blanc": 0.16942459,
+          "Autres étapes": 21.884182
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 5.5140606,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 2.0464797999999997,
+          "Transformation": 2.6503477,
+          "Emballage": 0.12019126999999999,
+          "Transport": 0.53821828,
+          "Supermarché et distribution": 0.15865937000000002,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.5774583,
+          "Sel": 0.051941322,
+          "Huile de tournesol": 3.3868586,
+          "Farine de blé": 0.56791308,
+          "Sucre blanc": 0.039287254,
+          "Autres étapes": 0.89060202
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Biscuit apéritif, crackers, nature",
+    "LCI_name": "Salty snacks, crackers, plain",
+    "ciqual_AGB": "38402",
+    "ciqual_code": "38402",
+    "groupe": "produits céréaliers",
+    "sous_groupe": "céréales de petit-déjeuner et biscuits",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "LPDE",
+    "Livraison": "Ambiant (long)",
+    "Preparation": "Pas de préparation ",
+    "DQR": {
+      "overall": "2.28",
+      "P": "2.14",
+      "TiR": "1.78",
+      "GR": "3.26",
+      "TeR": "1.97"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.25847155,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0.15602536,
+          "Transformation": 0.054753277,
+          "Emballage": 0.021572323,
+          "Transport": 0.016224129,
+          "Supermarché et distribution": 0.0098990521,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.009409744500000001,
+          "Sel": 0.00039106465,
+          "Huile de tournesol": 0.11490964,
+          "Farine de blé": 0.057147696,
+          "Sucre blanc": 0.0035329205,
+          "Autres étapes": 0.07308049000000001
+        }
+      },
+      "Changement climatique": {
+        "synthese": 1.8689845,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.0203258,
+          "Transformation": 0.34487873,
+          "Emballage": 0.28596322,
+          "Transport": 0.18873101,
+          "Supermarché et distribution": 0.029120657,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.069126758,
+          "Sel": 0.0031102054,
+          "Huile de tournesol": 0.91924228,
+          "Farine de blé": 0.29102736,
+          "Sucre blanc": 0.01679227,
+          "Autres étapes": 0.56968565
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.21886766000000002,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.065053897,
+          "Transformation": 0.088981376,
+          "Emballage": 0.0063188022,
+          "Transport": 0.042672991,
+          "Supermarché et distribution": 0.01584915,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.0059613604,
+          "Sel": 0.00023653628000000002,
+          "Huile de tournesol": 0.08629774000000001,
+          "Farine de blé": 0.026524534000000002,
+          "Sucre blanc": 0.0013060438999999999,
+          "Autres étapes": 0.09854144100000001
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.78783704,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.026290799,
+          "Transformation": 0.55196468,
+          "Emballage": 0.023669289,
+          "Transport": 0.014297729,
+          "Supermarché et distribution": 0.1716454,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.010428393,
+          "Sel": 0.00035445475,
+          "Huile de tournesol": 0.053940734,
+          "Farine de blé": 0.048365278,
+          "Sucre blanc": 0.0010630533,
+          "Autres étapes": 0.67368514
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 6.1593401,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 3.5305253000000003,
+          "Transformation": 0.97017077,
+          "Emballage": 0.74891699,
+          "Transport": 0.83641341,
+          "Supermarché et distribution": 0.07329388099999999,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.20544125,
+          "Sel": 0.011878444,
+          "Huile de tournesol": 3.1773601,
+          "Farine de blé": 1.278579,
+          "Sucre blanc": 0.063876872,
+          "Autres étapes": 1.4222044999999999
+        }
+      },
+      "Particules": {
+        "synthese": 0.12949374,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0.092867753,
+          "Transformation": 0.014697606,
+          "Emballage": 0.007917370699999999,
+          "Transport": 0.012599046999999999,
+          "Supermarché et distribution": 0.0014106608,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.0047035482,
+          "Sel": 0.00018702182,
+          "Huile de tournesol": 0.053749469,
+          "Farine de blé": 0.042180357,
+          "Sucre blanc": 0.0034654363000000002,
+          "Autres étapes": 0.0252079073
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.018900844,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.014578247,
+          "Transformation": 0.0021704752,
+          "Emballage": 0.00098013225,
+          "Transport": 0.0010140653,
+          "Supermarché et distribution": 0.00015813469,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.00070151629,
+          "Sel": 0.00002266511,
+          "Huile de tournesol": 0.0084795676,
+          "Farine de blé": 0.006547153,
+          "Sucre blanc": 0.00050137593,
+          "Autres étapes": 0.0026485659999999998
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.074799147,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.063429479,
+          "Transformation": 0.006304123,
+          "Emballage": 0.0019477267,
+          "Transport": 0.002768008,
+          "Supermarché et distribution": 0.00035001351,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.0024960108,
+          "Sel": 0.000046807316,
+          "Huile de tournesol": 0.034000527,
+          "Farine de blé": 0.02876386,
+          "Sucre blanc": 0.002128211,
+          "Autres étapes": 0.0073637302
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.45512571,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.25613064999999996,
+          "Transformation": 0.12112443,
+          "Emballage": 0.047173189000000004,
+          "Transport": 0.016879433,
+          "Supermarché et distribution": 0.013823075,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.035850521,
+          "Sel": 0.0022262677,
+          "Huile de tournesol": 0.20505586999999997,
+          "Farine de blé": 0.10320291,
+          "Sucre blanc": 0.0050398715,
+          "Autres étapes": 0.10375026100000001
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 16.707072,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 15.146092,
+          "Transformation": 1.1007551,
+          "Emballage": 0.17479875,
+          "Transport": 0.24978737,
+          "Supermarché et distribution": 0.035633074,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.65500041,
+          "Sel": 0.0051977920000000006,
+          "Huile de tournesol": 10.115103,
+          "Farine de blé": 4.583235500000001,
+          "Sucre blanc": 0.15840993,
+          "Autres étapes": 1.19012525
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 170.65952,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 163.35209,
+          "Transformation": 4.1212518,
+          "Emballage": 1.1674343,
+          "Transport": 1.9172516,
+          "Supermarché et distribution": 0.10125032,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 4.6741187,
+          "Sel": 0.020757989,
+          "Huile de tournesol": 99.392924,
+          "Farine de blé": 60.281606,
+          "Sucre blanc": 0.96014055,
+          "Autres étapes": 5.3299751
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 61.320673,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 50.387431,
+          "Transformation": 6.9568874,
+          "Emballage": 0.84517043,
+          "Transport": 2.0449182,
+          "Supermarché et distribution": 1.086366,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 1.1857998,
+          "Sel": 0.10375018,
+          "Huile de tournesol": 36.969281,
+          "Farine de blé": 16.092388,
+          "Sucre blanc": 0.73709926,
+          "Autres étapes": 6.232354600000001
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 0.84384286,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 0.33718484,
+          "Transformation": 0.20033107,
+          "Emballage": 0.19747464,
+          "Transport": 0.0198805,
+          "Supermarché et distribution": 0.088994323,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.055450655,
+          "Sel": 0.0016778454,
+          "Huile de tournesol": 0.10561869,
+          "Farine de blé": 0.17030498,
+          "Sucre blanc": 0.066130665,
+          "Autres étapes": 0.44466002
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 31.320827,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 4.2981451,
+          "Transformation": 14.973249,
+          "Emballage": 5.4296822,
+          "Transport": 2.8656989,
+          "Supermarché et distribution": 3.7549895,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.86215089,
+          "Sel": 0.037948567,
+          "Huile de tournesol": 5.7976425,
+          "Farine de blé": 2.5694791,
+          "Sucre blanc": 0.16942459,
+          "Autres étapes": 21.884182
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 5.5140606,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 2.0464797999999997,
+          "Transformation": 2.6503477,
+          "Emballage": 0.12019126999999999,
+          "Transport": 0.53821828,
+          "Supermarché et distribution": 0.15865937000000002,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.5774583,
+          "Sel": 0.051941322,
+          "Huile de tournesol": 3.3868586,
+          "Farine de blé": 0.56791308,
+          "Sucre blanc": 0.039287254,
+          "Autres étapes": 0.89060202
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Biscuit apéritif, crackers, nature, allégé en matière grasse",
+    "LCI_name": "Salty snacks, crackers, reduced fat",
+    "ciqual_AGB": "38403",
+    "ciqual_code": "38403",
+    "groupe": "produits céréaliers",
+    "sous_groupe": "céréales de petit-déjeuner et biscuits",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "LPDE",
+    "Livraison": "Ambiant (long)",
+    "Preparation": "Pas de préparation ",
+    "DQR": {
+      "overall": "2.68",
+      "P": "2.92",
+      "TiR": "1.78",
+      "GR": "3.26",
+      "TeR": "2.75"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.25847155,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0.15602536,
+          "Transformation": 0.054753277,
+          "Emballage": 0.021572323,
+          "Transport": 0.016224129,
+          "Supermarché et distribution": 0.0098990521,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.009409744500000001,
+          "Sel": 0.00039106465,
+          "Huile de tournesol": 0.11490964,
+          "Farine de blé": 0.057147696,
+          "Sucre blanc": 0.0035329205,
+          "Autres étapes": 0.07308049000000001
+        }
+      },
+      "Changement climatique": {
+        "synthese": 1.8689845,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.0203258,
+          "Transformation": 0.34487873,
+          "Emballage": 0.28596322,
+          "Transport": 0.18873101,
+          "Supermarché et distribution": 0.029120657,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.069126758,
+          "Sel": 0.0031102054,
+          "Huile de tournesol": 0.91924228,
+          "Farine de blé": 0.29102736,
+          "Sucre blanc": 0.01679227,
+          "Autres étapes": 0.56968565
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.21886766000000002,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.065053897,
+          "Transformation": 0.088981376,
+          "Emballage": 0.0063188022,
+          "Transport": 0.042672991,
+          "Supermarché et distribution": 0.01584915,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.0059613604,
+          "Sel": 0.00023653628000000002,
+          "Huile de tournesol": 0.08629774000000001,
+          "Farine de blé": 0.026524534000000002,
+          "Sucre blanc": 0.0013060438999999999,
+          "Autres étapes": 0.09854144100000001
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.78783704,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.026290799,
+          "Transformation": 0.55196468,
+          "Emballage": 0.023669289,
+          "Transport": 0.014297729,
+          "Supermarché et distribution": 0.1716454,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.010428393,
+          "Sel": 0.00035445475,
+          "Huile de tournesol": 0.053940734,
+          "Farine de blé": 0.048365278,
+          "Sucre blanc": 0.0010630533,
+          "Autres étapes": 0.67368514
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 6.1593401,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 3.5305253000000003,
+          "Transformation": 0.97017077,
+          "Emballage": 0.74891699,
+          "Transport": 0.83641341,
+          "Supermarché et distribution": 0.07329388099999999,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.20544125,
+          "Sel": 0.011878444,
+          "Huile de tournesol": 3.1773601,
+          "Farine de blé": 1.278579,
+          "Sucre blanc": 0.063876872,
+          "Autres étapes": 1.4222044999999999
+        }
+      },
+      "Particules": {
+        "synthese": 0.12949374,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0.092867753,
+          "Transformation": 0.014697606,
+          "Emballage": 0.007917370699999999,
+          "Transport": 0.012599046999999999,
+          "Supermarché et distribution": 0.0014106608,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.0047035482,
+          "Sel": 0.00018702182,
+          "Huile de tournesol": 0.053749469,
+          "Farine de blé": 0.042180357,
+          "Sucre blanc": 0.0034654363000000002,
+          "Autres étapes": 0.0252079073
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.018900844,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.014578247,
+          "Transformation": 0.0021704752,
+          "Emballage": 0.00098013225,
+          "Transport": 0.0010140653,
+          "Supermarché et distribution": 0.00015813469,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.00070151629,
+          "Sel": 0.00002266511,
+          "Huile de tournesol": 0.0084795676,
+          "Farine de blé": 0.006547153,
+          "Sucre blanc": 0.00050137593,
+          "Autres étapes": 0.0026485659999999998
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.074799147,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.063429479,
+          "Transformation": 0.006304123,
+          "Emballage": 0.0019477267,
+          "Transport": 0.002768008,
+          "Supermarché et distribution": 0.00035001351,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.0024960108,
+          "Sel": 0.000046807316,
+          "Huile de tournesol": 0.034000527,
+          "Farine de blé": 0.02876386,
+          "Sucre blanc": 0.002128211,
+          "Autres étapes": 0.0073637302
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.45512571,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.25613064999999996,
+          "Transformation": 0.12112443,
+          "Emballage": 0.047173189000000004,
+          "Transport": 0.016879433,
+          "Supermarché et distribution": 0.013823075,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.035850521,
+          "Sel": 0.0022262677,
+          "Huile de tournesol": 0.20505586999999997,
+          "Farine de blé": 0.10320291,
+          "Sucre blanc": 0.0050398715,
+          "Autres étapes": 0.10375026100000001
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 16.707072,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 15.146092,
+          "Transformation": 1.1007551,
+          "Emballage": 0.17479875,
+          "Transport": 0.24978737,
+          "Supermarché et distribution": 0.035633074,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.65500041,
+          "Sel": 0.0051977920000000006,
+          "Huile de tournesol": 10.115103,
+          "Farine de blé": 4.583235500000001,
+          "Sucre blanc": 0.15840993,
+          "Autres étapes": 1.19012525
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 170.65952,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 163.35209,
+          "Transformation": 4.1212518,
+          "Emballage": 1.1674343,
+          "Transport": 1.9172516,
+          "Supermarché et distribution": 0.10125032,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 4.6741187,
+          "Sel": 0.020757989,
+          "Huile de tournesol": 99.392924,
+          "Farine de blé": 60.281606,
+          "Sucre blanc": 0.96014055,
+          "Autres étapes": 5.3299751
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 61.320673,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 50.387431,
+          "Transformation": 6.9568874,
+          "Emballage": 0.84517043,
+          "Transport": 2.0449182,
+          "Supermarché et distribution": 1.086366,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 1.1857998,
+          "Sel": 0.10375018,
+          "Huile de tournesol": 36.969281,
+          "Farine de blé": 16.092388,
+          "Sucre blanc": 0.73709926,
+          "Autres étapes": 6.232354600000001
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 0.84384286,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 0.33718484,
+          "Transformation": 0.20033107,
+          "Emballage": 0.19747464,
+          "Transport": 0.0198805,
+          "Supermarché et distribution": 0.088994323,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.055450655,
+          "Sel": 0.0016778454,
+          "Huile de tournesol": 0.10561869,
+          "Farine de blé": 0.17030498,
+          "Sucre blanc": 0.066130665,
+          "Autres étapes": 0.44466002
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 31.320827,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 4.2981451,
+          "Transformation": 14.973249,
+          "Emballage": 5.4296822,
+          "Transport": 2.8656989,
+          "Supermarché et distribution": 3.7549895,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.86215089,
+          "Sel": 0.037948567,
+          "Huile de tournesol": 5.7976425,
+          "Farine de blé": 2.5694791,
+          "Sucre blanc": 0.16942459,
+          "Autres étapes": 21.884182
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 5.5140606,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 2.0464797999999997,
+          "Transformation": 2.6503477,
+          "Emballage": 0.12019126999999999,
+          "Transport": 0.53821828,
+          "Supermarché et distribution": 0.15865937000000002,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.5774583,
+          "Sel": 0.051941322,
+          "Huile de tournesol": 3.3868586,
+          "Farine de blé": 0.56791308,
+          "Sucre blanc": 0.039287254,
+          "Autres étapes": 0.89060202
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Biscuit apéritif soufflé, à base de maïs, à la cacahuète",
+    "LCI_name": "Puffed salty snacks, made from maize/corn, with peanuts",
+    "ciqual_AGB": "38404",
+    "ciqual_code": "38404",
+    "groupe": "produits céréaliers",
+    "sous_groupe": "céréales de petit-déjeuner et biscuits",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "LPDE",
+    "Livraison": "Ambiant (long)",
+    "Preparation": "Pas de préparation ",
+    "DQR": {
+      "overall": "2.68",
+      "P": "2.92",
+      "TiR": "1.78",
+      "GR": "3.26",
+      "TeR": "2.75"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.25847155,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0.15602536,
+          "Transformation": 0.054753277,
+          "Emballage": 0.021572323,
+          "Transport": 0.016224129,
+          "Supermarché et distribution": 0.0098990521,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.009409744500000001,
+          "Sel": 0.00039106465,
+          "Huile de tournesol": 0.11490964,
+          "Farine de blé": 0.057147696,
+          "Sucre blanc": 0.0035329205,
+          "Autres étapes": 0.07308049000000001
+        }
+      },
+      "Changement climatique": {
+        "synthese": 1.8689845,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.0203258,
+          "Transformation": 0.34487873,
+          "Emballage": 0.28596322,
+          "Transport": 0.18873101,
+          "Supermarché et distribution": 0.029120657,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.069126758,
+          "Sel": 0.0031102054,
+          "Huile de tournesol": 0.91924228,
+          "Farine de blé": 0.29102736,
+          "Sucre blanc": 0.01679227,
+          "Autres étapes": 0.56968565
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.21886766000000002,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.065053897,
+          "Transformation": 0.088981376,
+          "Emballage": 0.0063188022,
+          "Transport": 0.042672991,
+          "Supermarché et distribution": 0.01584915,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.0059613604,
+          "Sel": 0.00023653628000000002,
+          "Huile de tournesol": 0.08629774000000001,
+          "Farine de blé": 0.026524534000000002,
+          "Sucre blanc": 0.0013060438999999999,
+          "Autres étapes": 0.09854144100000001
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.78783704,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.026290799,
+          "Transformation": 0.55196468,
+          "Emballage": 0.023669289,
+          "Transport": 0.014297729,
+          "Supermarché et distribution": 0.1716454,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.010428393,
+          "Sel": 0.00035445475,
+          "Huile de tournesol": 0.053940734,
+          "Farine de blé": 0.048365278,
+          "Sucre blanc": 0.0010630533,
+          "Autres étapes": 0.67368514
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 6.1593401,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 3.5305253000000003,
+          "Transformation": 0.97017077,
+          "Emballage": 0.74891699,
+          "Transport": 0.83641341,
+          "Supermarché et distribution": 0.07329388099999999,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.20544125,
+          "Sel": 0.011878444,
+          "Huile de tournesol": 3.1773601,
+          "Farine de blé": 1.278579,
+          "Sucre blanc": 0.063876872,
+          "Autres étapes": 1.4222044999999999
+        }
+      },
+      "Particules": {
+        "synthese": 0.12949374,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0.092867753,
+          "Transformation": 0.014697606,
+          "Emballage": 0.007917370699999999,
+          "Transport": 0.012599046999999999,
+          "Supermarché et distribution": 0.0014106608,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.0047035482,
+          "Sel": 0.00018702182,
+          "Huile de tournesol": 0.053749469,
+          "Farine de blé": 0.042180357,
+          "Sucre blanc": 0.0034654363000000002,
+          "Autres étapes": 0.0252079073
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.018900844,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.014578247,
+          "Transformation": 0.0021704752,
+          "Emballage": 0.00098013225,
+          "Transport": 0.0010140653,
+          "Supermarché et distribution": 0.00015813469,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.00070151629,
+          "Sel": 0.00002266511,
+          "Huile de tournesol": 0.0084795676,
+          "Farine de blé": 0.006547153,
+          "Sucre blanc": 0.00050137593,
+          "Autres étapes": 0.0026485659999999998
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.074799147,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.063429479,
+          "Transformation": 0.006304123,
+          "Emballage": 0.0019477267,
+          "Transport": 0.002768008,
+          "Supermarché et distribution": 0.00035001351,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.0024960108,
+          "Sel": 0.000046807316,
+          "Huile de tournesol": 0.034000527,
+          "Farine de blé": 0.02876386,
+          "Sucre blanc": 0.002128211,
+          "Autres étapes": 0.0073637302
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.45512571,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.25613064999999996,
+          "Transformation": 0.12112443,
+          "Emballage": 0.047173189000000004,
+          "Transport": 0.016879433,
+          "Supermarché et distribution": 0.013823075,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.035850521,
+          "Sel": 0.0022262677,
+          "Huile de tournesol": 0.20505586999999997,
+          "Farine de blé": 0.10320291,
+          "Sucre blanc": 0.0050398715,
+          "Autres étapes": 0.10375026100000001
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 16.707072,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 15.146092,
+          "Transformation": 1.1007551,
+          "Emballage": 0.17479875,
+          "Transport": 0.24978737,
+          "Supermarché et distribution": 0.035633074,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.65500041,
+          "Sel": 0.0051977920000000006,
+          "Huile de tournesol": 10.115103,
+          "Farine de blé": 4.583235500000001,
+          "Sucre blanc": 0.15840993,
+          "Autres étapes": 1.19012525
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 170.65952,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 163.35209,
+          "Transformation": 4.1212518,
+          "Emballage": 1.1674343,
+          "Transport": 1.9172516,
+          "Supermarché et distribution": 0.10125032,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 4.6741187,
+          "Sel": 0.020757989,
+          "Huile de tournesol": 99.392924,
+          "Farine de blé": 60.281606,
+          "Sucre blanc": 0.96014055,
+          "Autres étapes": 5.3299751
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 61.320673,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 50.387431,
+          "Transformation": 6.9568874,
+          "Emballage": 0.84517043,
+          "Transport": 2.0449182,
+          "Supermarché et distribution": 1.086366,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 1.1857998,
+          "Sel": 0.10375018,
+          "Huile de tournesol": 36.969281,
+          "Farine de blé": 16.092388,
+          "Sucre blanc": 0.73709926,
+          "Autres étapes": 6.232354600000001
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 0.84384286,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 0.33718484,
+          "Transformation": 0.20033107,
+          "Emballage": 0.19747464,
+          "Transport": 0.0198805,
+          "Supermarché et distribution": 0.088994323,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.055450655,
+          "Sel": 0.0016778454,
+          "Huile de tournesol": 0.10561869,
+          "Farine de blé": 0.17030498,
+          "Sucre blanc": 0.066130665,
+          "Autres étapes": 0.44466002
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 31.320827,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 4.2981451,
+          "Transformation": 14.973249,
+          "Emballage": 5.4296822,
+          "Transport": 2.8656989,
+          "Supermarché et distribution": 3.7549895,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.86215089,
+          "Sel": 0.037948567,
+          "Huile de tournesol": 5.7976425,
+          "Farine de blé": 2.5694791,
+          "Sucre blanc": 0.16942459,
+          "Autres étapes": 21.884182
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 5.5140606,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 2.0464797999999997,
+          "Transformation": 2.6503477,
+          "Emballage": 0.12019126999999999,
+          "Transport": 0.53821828,
+          "Supermarché et distribution": 0.15865937000000002,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.5774583,
+          "Sel": 0.051941322,
+          "Huile de tournesol": 3.3868586,
+          "Farine de blé": 0.56791308,
+          "Sucre blanc": 0.039287254,
+          "Autres étapes": 0.89060202
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Biscuit apéritif à base de pomme de terre, type tuile salée",
+    "LCI_name": "Salty snacks, made from potato",
+    "ciqual_AGB": "38405",
+    "ciqual_code": "38405",
+    "groupe": "produits céréaliers",
+    "sous_groupe": "céréales de petit-déjeuner et biscuits",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "LPDE",
+    "Livraison": "Ambiant (long)",
+    "Preparation": "Pas de préparation ",
+    "DQR": {
+      "overall": "2.68",
+      "P": "2.92",
+      "TiR": "1.78",
+      "GR": "3.26",
+      "TeR": "2.75"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.25847155,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0.15602536,
+          "Transformation": 0.054753277,
+          "Emballage": 0.021572323,
+          "Transport": 0.016224129,
+          "Supermarché et distribution": 0.0098990521,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.009409744500000001,
+          "Sel": 0.00039106465,
+          "Huile de tournesol": 0.11490964,
+          "Farine de blé": 0.057147696,
+          "Sucre blanc": 0.0035329205,
+          "Autres étapes": 0.07308049000000001
+        }
+      },
+      "Changement climatique": {
+        "synthese": 1.8689845,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.0203258,
+          "Transformation": 0.34487873,
+          "Emballage": 0.28596322,
+          "Transport": 0.18873101,
+          "Supermarché et distribution": 0.029120657,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.069126758,
+          "Sel": 0.0031102054,
+          "Huile de tournesol": 0.91924228,
+          "Farine de blé": 0.29102736,
+          "Sucre blanc": 0.01679227,
+          "Autres étapes": 0.56968565
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.21886766000000002,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.065053897,
+          "Transformation": 0.088981376,
+          "Emballage": 0.0063188022,
+          "Transport": 0.042672991,
+          "Supermarché et distribution": 0.01584915,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.0059613604,
+          "Sel": 0.00023653628000000002,
+          "Huile de tournesol": 0.08629774000000001,
+          "Farine de blé": 0.026524534000000002,
+          "Sucre blanc": 0.0013060438999999999,
+          "Autres étapes": 0.09854144100000001
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.78783704,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.026290799,
+          "Transformation": 0.55196468,
+          "Emballage": 0.023669289,
+          "Transport": 0.014297729,
+          "Supermarché et distribution": 0.1716454,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.010428393,
+          "Sel": 0.00035445475,
+          "Huile de tournesol": 0.053940734,
+          "Farine de blé": 0.048365278,
+          "Sucre blanc": 0.0010630533,
+          "Autres étapes": 0.67368514
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 6.1593401,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 3.5305253000000003,
+          "Transformation": 0.97017077,
+          "Emballage": 0.74891699,
+          "Transport": 0.83641341,
+          "Supermarché et distribution": 0.07329388099999999,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.20544125,
+          "Sel": 0.011878444,
+          "Huile de tournesol": 3.1773601,
+          "Farine de blé": 1.278579,
+          "Sucre blanc": 0.063876872,
+          "Autres étapes": 1.4222044999999999
+        }
+      },
+      "Particules": {
+        "synthese": 0.12949374,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0.092867753,
+          "Transformation": 0.014697606,
+          "Emballage": 0.007917370699999999,
+          "Transport": 0.012599046999999999,
+          "Supermarché et distribution": 0.0014106608,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.0047035482,
+          "Sel": 0.00018702182,
+          "Huile de tournesol": 0.053749469,
+          "Farine de blé": 0.042180357,
+          "Sucre blanc": 0.0034654363000000002,
+          "Autres étapes": 0.0252079073
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.018900844,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.014578247,
+          "Transformation": 0.0021704752,
+          "Emballage": 0.00098013225,
+          "Transport": 0.0010140653,
+          "Supermarché et distribution": 0.00015813469,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.00070151629,
+          "Sel": 0.00002266511,
+          "Huile de tournesol": 0.0084795676,
+          "Farine de blé": 0.006547153,
+          "Sucre blanc": 0.00050137593,
+          "Autres étapes": 0.0026485659999999998
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.074799147,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.063429479,
+          "Transformation": 0.006304123,
+          "Emballage": 0.0019477267,
+          "Transport": 0.002768008,
+          "Supermarché et distribution": 0.00035001351,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.0024960108,
+          "Sel": 0.000046807316,
+          "Huile de tournesol": 0.034000527,
+          "Farine de blé": 0.02876386,
+          "Sucre blanc": 0.002128211,
+          "Autres étapes": 0.0073637302
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.45512571,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.25613064999999996,
+          "Transformation": 0.12112443,
+          "Emballage": 0.047173189000000004,
+          "Transport": 0.016879433,
+          "Supermarché et distribution": 0.013823075,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.035850521,
+          "Sel": 0.0022262677,
+          "Huile de tournesol": 0.20505586999999997,
+          "Farine de blé": 0.10320291,
+          "Sucre blanc": 0.0050398715,
+          "Autres étapes": 0.10375026100000001
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 16.707072,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 15.146092,
+          "Transformation": 1.1007551,
+          "Emballage": 0.17479875,
+          "Transport": 0.24978737,
+          "Supermarché et distribution": 0.035633074,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.65500041,
+          "Sel": 0.0051977920000000006,
+          "Huile de tournesol": 10.115103,
+          "Farine de blé": 4.583235500000001,
+          "Sucre blanc": 0.15840993,
+          "Autres étapes": 1.19012525
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 170.65952,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 163.35209,
+          "Transformation": 4.1212518,
+          "Emballage": 1.1674343,
+          "Transport": 1.9172516,
+          "Supermarché et distribution": 0.10125032,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 4.6741187,
+          "Sel": 0.020757989,
+          "Huile de tournesol": 99.392924,
+          "Farine de blé": 60.281606,
+          "Sucre blanc": 0.96014055,
+          "Autres étapes": 5.3299751
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 61.320673,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 50.387431,
+          "Transformation": 6.9568874,
+          "Emballage": 0.84517043,
+          "Transport": 2.0449182,
+          "Supermarché et distribution": 1.086366,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 1.1857998,
+          "Sel": 0.10375018,
+          "Huile de tournesol": 36.969281,
+          "Farine de blé": 16.092388,
+          "Sucre blanc": 0.73709926,
+          "Autres étapes": 6.232354600000001
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 0.84384286,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 0.33718484,
+          "Transformation": 0.20033107,
+          "Emballage": 0.19747464,
+          "Transport": 0.0198805,
+          "Supermarché et distribution": 0.088994323,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.055450655,
+          "Sel": 0.0016778454,
+          "Huile de tournesol": 0.10561869,
+          "Farine de blé": 0.17030498,
+          "Sucre blanc": 0.066130665,
+          "Autres étapes": 0.44466002
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 31.320827,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 4.2981451,
+          "Transformation": 14.973249,
+          "Emballage": 5.4296822,
+          "Transport": 2.8656989,
+          "Supermarché et distribution": 3.7549895,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.86215089,
+          "Sel": 0.037948567,
+          "Huile de tournesol": 5.7976425,
+          "Farine de blé": 2.5694791,
+          "Sucre blanc": 0.16942459,
+          "Autres étapes": 21.884182
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 5.5140606,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 2.0464797999999997,
+          "Transformation": 2.6503477,
+          "Emballage": 0.12019126999999999,
+          "Transport": 0.53821828,
+          "Supermarché et distribution": 0.15865937000000002,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.5774583,
+          "Sel": 0.051941322,
+          "Huile de tournesol": 3.3868586,
+          "Farine de blé": 0.56791308,
+          "Sucre blanc": 0.039287254,
+          "Autres étapes": 0.89060202
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Cacahuètes (arachide) enrobées d'un biscuit, pour apéritif",
+    "LCI_name": "Coated peanuts",
+    "ciqual_AGB": "38406",
+    "ciqual_code": "38406",
+    "groupe": "produits céréaliers",
+    "sous_groupe": "céréales de petit-déjeuner et biscuits",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "LPDE",
+    "Livraison": "Ambiant (long)",
+    "Preparation": "Pas de préparation ",
+    "DQR": {
+      "overall": "2.97",
+      "P": "2.38",
+      "TiR": "3.28",
+      "GR": "3.25",
+      "TeR": "2.97"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.46555924,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0.35775321000000004,
+          "Transformation": 0.064102524,
+          "Emballage": 0.021563151,
+          "Transport": 0.01224155,
+          "Supermarché et distribution": 0.0098990521,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.0038399361000000004,
+          "Cacahuète": 0.33513746,
+          "Purée de pomme de terre": 0.020741664,
+          "Sel": 0.00079792989,
+          "Huile de tournesol": 0.008821345900000001,
+          "Farine de blé": 0.019544017,
+          "Sucre blanc": 0.0036042927,
+          "Autres étapes": 0.073072592
+        }
+      },
+      "Changement climatique": {
+        "synthese": 3.3358037,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 2.5219986,
+          "Transformation": 0.34376909,
+          "Emballage": 0.28586873,
+          "Transport": 0.15504866,
+          "Supermarché et distribution": 0.029120657,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.028209303,
+          "Cacahuète": 2.4203844,
+          "Purée de pomme de terre": 0.1239578,
+          "Sel": 0.0063460757,
+          "Huile de tournesol": 0.070568095,
+          "Farine de blé": 0.099528839,
+          "Sucre blanc": 0.017131508,
+          "Autres étapes": 0.56967777
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.24557927000000002,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.11597972,
+          "Transformation": 0.072097101,
+          "Emballage": 0.0063159529,
+          "Transport": 0.035338073000000005,
+          "Supermarché et distribution": 0.01584915,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.0024327168,
+          "Cacahuète": 0.11500309,
+          "Purée de pomme de terre": 0.012091595,
+          "Sel": 0.00048262957,
+          "Huile de tournesol": 0.006624877,
+          "Farine de blé": 0.0090711609,
+          "Sucre blanc": 0.0013324286,
+          "Autres étapes": 0.098540767
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.76436615,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.054762722,
+          "Transformation": 0.50262317,
+          "Emballage": 0.023662717,
+          "Transport": 0.011677436,
+          "Supermarché et distribution": 0.1716454,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.0042556269,
+          "Cacahuète": 0.052421631,
+          "Purée de pomme de terre": 0.011517395,
+          "Sel": 0.00072323091,
+          "Huile de tournesol": 0.0041409048,
+          "Farine de blé": 0.016540506,
+          "Sucre blanc": 0.0010845292,
+          "Autres étapes": 0.67368233
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 9.2565167,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 6.8877368,
+          "Transformation": 1.1303044999999998,
+          "Emballage": 0.7485464000000001,
+          "Transport": 0.41663182000000004,
+          "Supermarché et distribution": 0.07329388099999999,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.083836632,
+          "Cacahuète": 6.4606693,
+          "Purée de pomme de terre": 0.5192473,
+          "Sel": 0.024236825,
+          "Huile de tournesol": 0.24391855,
+          "Farine de blé": 0.43726295,
+          "Sucre blanc": 0.065167314,
+          "Autres étapes": 1.42217775
+        }
+      },
+      "Particules": {
+        "synthese": 0.32628567,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0.27896192,
+          "Transformation": 0.028036439,
+          "Emballage": 0.0079125121,
+          "Transport": 0.0099639815,
+          "Supermarché et distribution": 0.0014106608,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.0019194278,
+          "Cacahuète": 0.26376143,
+          "Purée de pomme de terre": 0.012928763,
+          "Sel": 0.00038160007,
+          "Huile de tournesol": 0.004126221899999999,
+          "Farine de blé": 0.014425317,
+          "Sucre blanc": 0.0035354451,
+          "Autres étapes": 0.0252074656
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.046373579,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.040755739,
+          "Transformation": 0.0039765023,
+          "Emballage": 0.00097968923,
+          "Transport": 0.0005035234,
+          "Supermarché et distribution": 0.00015813469,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.00028627534,
+          "Cacahuète": 0.038194458,
+          "Purée de pomme de terre": 0.0017965581,
+          "Sel": 0.000046245983,
+          "Huile de tournesol": 0.00065095671,
+          "Farine de blé": 0.0022390697,
+          "Sucre blanc": 0.00051150474,
+          "Autres étapes": 0.0026485107
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.19266627,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.17399559,
+          "Transformation": 0.015194667,
+          "Emballage": 0.0019468444,
+          "Transport": 0.001179166,
+          "Supermarché et distribution": 0.00035001351,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.0010185741,
+          "Cacahuète": 0.16261724,
+          "Purée de pomme de terre": 0.0069530046,
+          "Sel": 0.000095505837,
+          "Huile de tournesol": 0.0026101415,
+          "Farine de blé": 0.0098369912,
+          "Sucre blanc": 0.0021712052,
+          "Autres étapes": 0.0073636074
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 1.0601282,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.85924908,
+          "Transformation": 0.12648626,
+          "Emballage": 0.047156395999999996,
+          "Transport": 0.013413847000000001,
+          "Supermarché et distribution": 0.013823075,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.01462991,
+          "Cacahuète": 0.82278281,
+          "Purée de pomme de terre": 0.058250988000000004,
+          "Sel": 0.004542485600000001,
+          "Huile de tournesol": 0.015741663,
+          "Farine de blé": 0.035294503,
+          "Sucre blanc": 0.005141687,
+          "Autres étapes": 0.10374417600000001
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 28.217257,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 25.550952,
+          "Transformation": 2.3497878,
+          "Emballage": 0.17471954,
+          "Transport": 0.10616467,
+          "Supermarché et distribution": 0.035633074,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.2672931,
+          "Cacahuète": 22.943545,
+          "Purée de pomme de terre": 1.3001466000000002,
+          "Sel": 0.010605596,
+          "Huile de tournesol": 0.77651298,
+          "Farine de blé": 1.5674268,
+          "Sucre blanc": 0.16161013,
+          "Autres étapes": 1.19011628
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 352.94625,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 334.76953,
+          "Transformation": 15.307509,
+          "Emballage": 1.1656586,
+          "Transport": 1.6022831,
+          "Supermarché et distribution": 0.10125032,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 1.9074181,
+          "Cacahuète": 304.51013,
+          "Purée de pomme de terre": 11.930913,
+          "Sel": 0.042354685,
+          "Huile de tournesol": 7.6301638,
+          "Farine de blé": 20.615787,
+          "Sucre blanc": 0.97953733,
+          "Autres étapes": 5.3299387
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 55.553573,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 38.857776,
+          "Transformation": 13.077182,
+          "Emballage": 0.84464394,
+          "Transport": 1.6876169,
+          "Supermarché et distribution": 1.086366,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.48390213,
+          "Cacahuète": 33.525432,
+          "Purée de pomme de terre": 6.0068389,
+          "Sel": 0.21169229,
+          "Huile de tournesol": 2.8380458,
+          "Farine de blé": 5.5034572,
+          "Sucre blanc": 0.75199015,
+          "Autres étapes": 6.2322136
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 3.9578535,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 3.4716366,
+          "Transformation": 0.18344963,
+          "Emballage": 0.19740769,
+          "Transport": 0.016367494,
+          "Supermarché et distribution": 0.088994323,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.022628348,
+          "Cacahuète": 3.3439581,
+          "Purée de pomme de terre": 0.010312527,
+          "Sel": 0.0034234825,
+          "Huile de tournesol": 0.0081081018,
+          "Farine de blé": 0.058242828,
+          "Sucre blanc": 0.067466638,
+          "Autres étapes": 0.44371346
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 36.885819,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 11.908076,
+          "Transformation": 13.433238,
+          "Emballage": 5.4270801,
+          "Transport": 2.3625595,
+          "Supermarché et distribution": 3.7549895,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.35182723,
+          "Cacahuète": 11.756335,
+          "Purée de pomme de terre": 1.3195223,
+          "Sel": 0.077430409,
+          "Huile de tournesol": 0.44507154,
+          "Farine de blé": 0.8787396,
+          "Sucre blanc": 0.17284731,
+          "Autres étapes": 21.884045999999998
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 8.5130801,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 5.8931632,
+          "Transformation": 1.8705594,
+          "Emballage": 0.12013399,
+          "Transport": 0.47053096,
+          "Supermarché et distribution": 0.15865937000000002,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.23564965,
+          "Cacahuète": 5.5769265,
+          "Purée de pomme de terre": 1.2096399,
+          "Sel": 0.10598128,
+          "Huile de tournesol": 0.26000127,
+          "Farine de blé": 0.19422136,
+          "Sucre blanc": 0.040080936,
+          "Autres étapes": 0.89057914
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Biscuit apéritif feuilleté",
+    "LCI_name": "Salty snacks, puff pastry",
+    "ciqual_AGB": "38407",
+    "ciqual_code": "38407",
+    "groupe": "produits céréaliers",
+    "sous_groupe": "céréales de petit-déjeuner et biscuits",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "LPDE",
+    "Livraison": "Ambiant (long)",
+    "Preparation": "Pas de préparation ",
+    "DQR": {
+      "overall": "2.68",
+      "P": "2.92",
+      "TiR": "1.78",
+      "GR": "3.26",
+      "TeR": "2.75"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.25847155,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0.15602536,
+          "Transformation": 0.054753277,
+          "Emballage": 0.021572323,
+          "Transport": 0.016224129,
+          "Supermarché et distribution": 0.0098990521,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.009409744500000001,
+          "Sel": 0.00039106465,
+          "Huile de tournesol": 0.11490964,
+          "Farine de blé": 0.057147696,
+          "Sucre blanc": 0.0035329205,
+          "Autres étapes": 0.07308049000000001
+        }
+      },
+      "Changement climatique": {
+        "synthese": 1.8689845,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.0203258,
+          "Transformation": 0.34487873,
+          "Emballage": 0.28596322,
+          "Transport": 0.18873101,
+          "Supermarché et distribution": 0.029120657,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.069126758,
+          "Sel": 0.0031102054,
+          "Huile de tournesol": 0.91924228,
+          "Farine de blé": 0.29102736,
+          "Sucre blanc": 0.01679227,
+          "Autres étapes": 0.56968565
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.21886766000000002,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.065053897,
+          "Transformation": 0.088981376,
+          "Emballage": 0.0063188022,
+          "Transport": 0.042672991,
+          "Supermarché et distribution": 0.01584915,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.0059613604,
+          "Sel": 0.00023653628000000002,
+          "Huile de tournesol": 0.08629774000000001,
+          "Farine de blé": 0.026524534000000002,
+          "Sucre blanc": 0.0013060438999999999,
+          "Autres étapes": 0.09854144100000001
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.78783704,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.026290799,
+          "Transformation": 0.55196468,
+          "Emballage": 0.023669289,
+          "Transport": 0.014297729,
+          "Supermarché et distribution": 0.1716454,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.010428393,
+          "Sel": 0.00035445475,
+          "Huile de tournesol": 0.053940734,
+          "Farine de blé": 0.048365278,
+          "Sucre blanc": 0.0010630533,
+          "Autres étapes": 0.67368514
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 6.1593401,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 3.5305253000000003,
+          "Transformation": 0.97017077,
+          "Emballage": 0.74891699,
+          "Transport": 0.83641341,
+          "Supermarché et distribution": 0.07329388099999999,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.20544125,
+          "Sel": 0.011878444,
+          "Huile de tournesol": 3.1773601,
+          "Farine de blé": 1.278579,
+          "Sucre blanc": 0.063876872,
+          "Autres étapes": 1.4222044999999999
+        }
+      },
+      "Particules": {
+        "synthese": 0.12949374,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0.092867753,
+          "Transformation": 0.014697606,
+          "Emballage": 0.007917370699999999,
+          "Transport": 0.012599046999999999,
+          "Supermarché et distribution": 0.0014106608,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.0047035482,
+          "Sel": 0.00018702182,
+          "Huile de tournesol": 0.053749469,
+          "Farine de blé": 0.042180357,
+          "Sucre blanc": 0.0034654363000000002,
+          "Autres étapes": 0.0252079073
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.018900844,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.014578247,
+          "Transformation": 0.0021704752,
+          "Emballage": 0.00098013225,
+          "Transport": 0.0010140653,
+          "Supermarché et distribution": 0.00015813469,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.00070151629,
+          "Sel": 0.00002266511,
+          "Huile de tournesol": 0.0084795676,
+          "Farine de blé": 0.006547153,
+          "Sucre blanc": 0.00050137593,
+          "Autres étapes": 0.0026485659999999998
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.074799147,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.063429479,
+          "Transformation": 0.006304123,
+          "Emballage": 0.0019477267,
+          "Transport": 0.002768008,
+          "Supermarché et distribution": 0.00035001351,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.0024960108,
+          "Sel": 0.000046807316,
+          "Huile de tournesol": 0.034000527,
+          "Farine de blé": 0.02876386,
+          "Sucre blanc": 0.002128211,
+          "Autres étapes": 0.0073637302
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.45512571,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.25613064999999996,
+          "Transformation": 0.12112443,
+          "Emballage": 0.047173189000000004,
+          "Transport": 0.016879433,
+          "Supermarché et distribution": 0.013823075,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.035850521,
+          "Sel": 0.0022262677,
+          "Huile de tournesol": 0.20505586999999997,
+          "Farine de blé": 0.10320291,
+          "Sucre blanc": 0.0050398715,
+          "Autres étapes": 0.10375026100000001
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 16.707072,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 15.146092,
+          "Transformation": 1.1007551,
+          "Emballage": 0.17479875,
+          "Transport": 0.24978737,
+          "Supermarché et distribution": 0.035633074,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.65500041,
+          "Sel": 0.0051977920000000006,
+          "Huile de tournesol": 10.115103,
+          "Farine de blé": 4.583235500000001,
+          "Sucre blanc": 0.15840993,
+          "Autres étapes": 1.19012525
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 170.65952,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 163.35209,
+          "Transformation": 4.1212518,
+          "Emballage": 1.1674343,
+          "Transport": 1.9172516,
+          "Supermarché et distribution": 0.10125032,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 4.6741187,
+          "Sel": 0.020757989,
+          "Huile de tournesol": 99.392924,
+          "Farine de blé": 60.281606,
+          "Sucre blanc": 0.96014055,
+          "Autres étapes": 5.3299751
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 61.320673,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 50.387431,
+          "Transformation": 6.9568874,
+          "Emballage": 0.84517043,
+          "Transport": 2.0449182,
+          "Supermarché et distribution": 1.086366,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 1.1857998,
+          "Sel": 0.10375018,
+          "Huile de tournesol": 36.969281,
+          "Farine de blé": 16.092388,
+          "Sucre blanc": 0.73709926,
+          "Autres étapes": 6.232354600000001
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 0.84384286,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 0.33718484,
+          "Transformation": 0.20033107,
+          "Emballage": 0.19747464,
+          "Transport": 0.0198805,
+          "Supermarché et distribution": 0.088994323,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.055450655,
+          "Sel": 0.0016778454,
+          "Huile de tournesol": 0.10561869,
+          "Farine de blé": 0.17030498,
+          "Sucre blanc": 0.066130665,
+          "Autres étapes": 0.44466002
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 31.320827,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 4.2981451,
+          "Transformation": 14.973249,
+          "Emballage": 5.4296822,
+          "Transport": 2.8656989,
+          "Supermarché et distribution": 3.7549895,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.86215089,
+          "Sel": 0.037948567,
+          "Huile de tournesol": 5.7976425,
+          "Farine de blé": 2.5694791,
+          "Sucre blanc": 0.16942459,
+          "Autres étapes": 21.884182
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 5.5140606,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 2.0464797999999997,
+          "Transformation": 2.6503477,
+          "Emballage": 0.12019126999999999,
+          "Transport": 0.53821828,
+          "Supermarché et distribution": 0.15865937000000002,
+          "Consommation": 0
+        },
+        "ingredients": {
+          "Fructose": 0.5774583,
+          "Sel": 0.051941322,
+          "Huile de tournesol": 3.3868586,
+          "Farine de blé": 0.56791308,
+          "Sucre blanc": 0.039287254,
+          "Autres étapes": 0.89060202
+        }
+      }
+    }
+  }
+]
