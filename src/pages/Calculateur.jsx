@@ -41,9 +41,7 @@ console.log(syntheseFood);
 
   return (
     <div className="calculateurContent">
-      <div className="titleCalculateur">
-        Alors, quoi de prévu pour l'apéro ?
-      </div>
+      <h1 className="titleCalculateur">Alors, quoi de prévu pour l'apéro ?</h1>
       <div className="selectBottle">
         <img src={brewery} alt="brewery" className="breweryImg" />
         

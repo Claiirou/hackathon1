@@ -39,9 +39,9 @@
 
 .text1 {
   position: absolute;
-  width: 140px;
-  top: 245px;
-  left: 15px;
+  width: 36%;
+  top: 47%;
+  left: 05%;
   text-align: center;
   font-size: 12px;
 }
@@ -49,9 +49,9 @@
 .text2 {
   position: absolute;
   text-align: center;
-  width: 140px;
-  top: 260px;
-  right: 15px;
+  width: 38%;
+  top: 52%;
+  right: 05%;
   font-style: bold;
   font-size: 12px;
 }
@@ -64,14 +64,14 @@
   }
 
   .text1 {
-    top: 160px;
-    right: 700px;
-    width: 400px;
+    top: 50%;
+    left: 15%;
+    width: 30%;
   }
 
   .text2 {
-    top: 160px;
-    left: 700px;
-    width: 400px;
+    top: 50%;
+    right: 15%;
+    width: 30%;
   }
 }

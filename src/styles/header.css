@@ -1,17 +1,26 @@
-.header {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+.headerContainer {
   width: 100vw;
-  height: 100px;
-  text-transform: uppercase;
-  margin-bottom: 15px;
+  height: 110px;
+  padding-top: 10px;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  text-transform: uppercase;
+  margin-bottom: 15px;
+}
+
+.logoHeader {
+  height: 40px;
+  width: 40px;
+}
+
 .titleHeader {
-  font-size: 40px;
+  font-size: 2.4em;
   color: white;
   font-family: "Kodchasan", sans-serif;
 }
