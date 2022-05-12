@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 100px;
+  text-transform: uppercase;
+  margin-bottom: 15px;
+}
+
+.titleHeader {
+  font-size: 3rem;
+  color: white;
+  font-family: "Kodchasan", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
