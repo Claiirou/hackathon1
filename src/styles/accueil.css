@@ -64,14 +64,14 @@
   }
 
   .text1 {
-    top: 160px;
-    right: 700px;
-    width: 400px;
+    top: 50%;
+    left: 15%;
+    width: 30%;
   }
 
   .text2 {
-    top: 160px;
-    left: 700px;
-    width: 400px;
+    top: 50%;
+    right: 15%;
+    width: 30%;
   }
 }
