@@ -1,0 +1,202 @@
+.selectBottle {
+  background-color: rgba(196, 196, 196, 0.47);
+  width: 95%;
+  min-height: 50px;
+  margin: 2.5%;
+  margin-bottom: 20%;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px black;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  position: relative;
+}
+
+.selectAperitif {
+  background-color: rgba(196, 196, 196, 0.47);
+  width: 95%;
+  min-height: 50px;
+  margin: 2.5%;
+  margin-bottom: 10%;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px black;
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+.beer-input {
+  width: 90%;
+  margin: 0 auto;
+  margin-bottom: 2rem;
+  background-color: rgba(178, 216, 177, 0.49);
+  color: black;
+  border-radius: 20px;
+  font-weight: 900;
+  padding-left: 8px;
+}
+.drinks-added img {
+  height: 5rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+.food-added img {
+  height: 4rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+.food-added {
+  width: 25%;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.drinks-added {
+  margin: 8px;
+  display: flex;
+  flex-direction: column;
+  width: 20%;
+  text-align: center;
+}
+.breweryImg {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 50px;
+  position: absolute;
+  top: -80px;
+}
+
+.aperitifImg {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: -70px;
+}
+
+.calculBtn {
+  border-radius: 20px;
+  background-color: rgba(178, 216, 177, 0.49);
+  width: 50%;
+  height: 40px;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  color: white;
+  font-size: 2rem;
+  cursor: pointer;
+}
+
+.titleCalculateur {
+  color: white;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  display: flex;
+  justify-content: center;
+  font-size: 1.4rem;
+}
+
+.bottleContent {
+  margin: 20px;
+  color: white;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.aperitifContent {
+  margin: 20px;
+  color: white;
+  display: flex;
+  flex-wrap: wrap;
+}
+@media screen and (min-width: 780px) {
+  .selectContainer {
+    display: flex;
+    margin-bottom: 80px;
+    justify-content: space-around;
+  }
+  .selectBottle {
+    width: 40%;
+    margin-bottom: 10px;
+  }
+
+  .selectAperitif {
+    width: 40%;
+    margin-bottom: 10px;
+  }
+
+  .calculBtn {
+    width: 30%;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 80px;
+    height: 60px;
+  }
+
+  .beer-input {
+    height: min-content;
+  }
+
+  .food-added p {
+    overflow: visible;
+  }
+
+  .drinks-added p {
+    overflow: visible;
+  }
+  .affichResult {
+    width: 40%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
+
+.gifBeer {
+  width: 50%;
+  display: block;
+  margin: 0 auto;
+  animation: fadeout 4s;
+  -moz-animation: fadeout 4s;
+  -webkit-animation: fadeout 4s;
+  -o-animation: fadeout 4s;
+  animation: fadein 4s;
+  -moz-animation: fadein 4s;
+  -webkit-animation: fadein 4s;
+  -o-animation: fadein 4s;
+}
+@keyframes fadeout {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+.affichResult {
+  animation: fadein 4s;
+  -moz-animation: fadein 4s;
+  -webkit-animation: fadein 4s;
+  -o-animation: fadein 4s;
+  margin-top: 20px;
+}
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.finalMessage {
+  background-color: rgba(196, 196, 196, 0.47);
+  width: 95%;
+  min-height: 50px;
+  margin: 2.5%;
+  margin-bottom: 10%;
+  margin-top: 0;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px black;
+  color: white;
+  padding: 5%;
+}

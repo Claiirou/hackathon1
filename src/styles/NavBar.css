@@ -1,0 +1,12 @@
+.navbarList {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  justify-content: space-around;
+}
+
+@media screen and (min-width: 780px) {
+  .navbarList {
+    font-size: 22px;
+  }
+}

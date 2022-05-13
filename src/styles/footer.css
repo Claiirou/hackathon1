@@ -1,0 +1,21 @@
+.logoImageFooter {
+  width: 15px;
+  height: 40px;
+  padding-top: 15px;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  font-size: 8px;
+  background-image: url("../assets/feuille.jpg");
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.footerText {
+  padding-top: 20px;
+  color: white;
+  font-family: "Kodchasan", sans-serif;
+}

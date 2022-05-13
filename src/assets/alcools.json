@@ -1,0 +1,4807 @@
+[
+  {
+    "nom_francais": "Pastis",
+    "LCI_name": "Pastis (anise-flavoured spirit)",
+    "ciqual_AGB": "1000",
+    "ciqual_code": "1000",
+    "groupe": "boissons",
+    "sous_groupe": "boisson alcoolisées",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "Verre",
+    "Livraison": "Ambiant (moyenne)",
+    "Preparation": "Réfrigéré chez le consommateur",
+    "DQR": {
+      "overall": "3.29",
+      "P": "2.49",
+      "TiR": "2.73",
+      "GR": "4.41",
+      "TeR": "3.54"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.12303632999999999,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.050783404000000004,
+          "Emballage": 0.051649676000000005,
+          "Transport": 0.01375452,
+          "Supermarché et distribution": 0.0044194823,
+          "Consommation": 0.0024293397
+        }
+      },
+      "Changement climatique": {
+        "synthese": 1.1565882,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.4658128,
+          "Emballage": 0.49690685,
+          "Transport": 0.17690961,
+          "Supermarché et distribution": 0.012364537,
+          "Consommation": 0.0047993021
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.18307514,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.058563635,
+          "Emballage": 0.072623762,
+          "Transport": 0.040536261,
+          "Supermarché et distribution": 0.0072456904,
+          "Consommation": 0.0041383883
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.31848138,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.12508201,
+          "Emballage": 0.053489378,
+          "Transport": 0.013281877,
+          "Supermarché et distribution": 0.078789182,
+          "Consommation": 0.047839148
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 8.3989108,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 5.8903899,
+          "Emballage": 2.0425077000000003,
+          "Transport": 0.42364452,
+          "Supermarché et distribution": 0.028058467,
+          "Consommation": 0.014117292
+        }
+      },
+      "Particules": {
+        "synthese": 0.14163342,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.068069619,
+          "Emballage": 0.061298028000000004,
+          "Transport": 0.011337907000000001,
+          "Supermarché et distribution": 0.00056291189,
+          "Consommation": 0.0003222193
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.0072777644,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.0019775257,
+          "Emballage": 0.0046828017,
+          "Transport": 0.00051901142,
+          "Supermarché et distribution": 0.00006354403,
+          "Consommation": 0.000034793328
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.014841716,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.0056624946,
+          "Emballage": 0.0078500547,
+          "Transport": 0.0011344856,
+          "Supermarché et distribution": 0.00012579701,
+          "Consommation": 0.000068499657
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.16924558,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.049883325,
+          "Emballage": 0.095903725,
+          "Transport": 0.014808111,
+          "Supermarché et distribution": 0.0055021285999999996,
+          "Consommation": 0.0031349554
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 1.2144347,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.41523097999999997,
+          "Emballage": 0.6752250599999999,
+          "Transport": 0.10196678999999999,
+          "Supermarché et distribution": 0.014130594,
+          "Consommation": 0.0077991547
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 21.322845,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 13.898953,
+          "Emballage": 5.50476,
+          "Transport": 1.8447158,
+          "Supermarché et distribution": 0.04211235,
+          "Consommation": 0.023721083
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 17.415179,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 6.275886,
+          "Emballage": 8.5288162,
+          "Transport": 1.9167451,
+          "Supermarché et distribution": 0.44024315,
+          "Consommation": 0.25081812
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 0.27016888,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.078515905,
+          "Emballage": 0.12327471,
+          "Transport": 0.018608459,
+          "Supermarché et distribution": 0.039989272,
+          "Consommation": 0.0097571262
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 19.992829,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 7.2959482,
+          "Emballage": 7.2666296,
+          "Transport": 2.7018105,
+          "Supermarché et distribution": 1.7229013,
+          "Consommation": 1.0090332
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 2.2005789,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.33740524,
+          "Emballage": 1.2145978,
+          "Transport": 0.5335022700000001,
+          "Supermarché et distribution": 0.07225273,
+          "Consommation": 0.042713564
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Eau de vie",
+    "LCI_name": "Clear fruit brandy or eau-de-vie",
+    "ciqual_AGB": "1001",
+    "ciqual_code": "1001",
+    "groupe": "boissons",
+    "sous_groupe": "boisson alcoolisées",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "Verre",
+    "Livraison": "Ambiant (moyenne)",
+    "Preparation": "Pas de préparation",
+    "DQR": {
+      "overall": "3.3",
+      "P": "2.48",
+      "TiR": "2.72",
+      "GR": "4.43",
+      "TeR": "3.55"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.12053738,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.050783404000000004,
+          "Emballage": 0.051649676000000005,
+          "Transport": 0.01375452,
+          "Supermarché et distribution": 0.0043498741,
+          "Consommation": 0
+        }
+      },
+      "Changement climatique": {
+        "synthese": 1.1515943,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.4658128,
+          "Emballage": 0.49690685,
+          "Transport": 0.17690961,
+          "Supermarché et distribution": 0.012169911,
+          "Consommation": 0
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.17882265,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.058563635,
+          "Emballage": 0.072623762,
+          "Transport": 0.040536261,
+          "Supermarché et distribution": 0.0071315905,
+          "Consommation": 0
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.26940146,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.12508201,
+          "Emballage": 0.053489378,
+          "Transport": 0.013281877,
+          "Supermarché et distribution": 0.077548414,
+          "Consommation": 0
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 8.384352,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 5.8903899,
+          "Emballage": 2.0425077000000003,
+          "Transport": 0.42364452,
+          "Supermarché et distribution": 0.027617012,
+          "Consommation": 0
+        }
+      },
+      "Particules": {
+        "synthese": 0.14130235,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.068069619,
+          "Emballage": 0.061298028000000004,
+          "Transport": 0.011337907000000001,
+          "Supermarché et distribution": 0.00055405748,
+          "Consommation": 0
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.0072419712,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.0019775257,
+          "Emballage": 0.0046828017,
+          "Transport": 0.00051901142,
+          "Supermarché et distribution": 0.00006254419,
+          "Consommation": 0
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.014771237,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.0056624946,
+          "Emballage": 0.0078500547,
+          "Transport": 0.0011344856,
+          "Supermarché et distribution": 0.00012381817,
+          "Consommation": 0
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.16602416,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.049883325,
+          "Emballage": 0.095903725,
+          "Transport": 0.014808111,
+          "Supermarché et distribution": 0.0054156638,
+          "Consommation": 0
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 1.2064162999999999,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.41523097999999997,
+          "Emballage": 0.6752250599999999,
+          "Transport": 0.10196678999999999,
+          "Supermarché et distribution": 0.01391134,
+          "Consommation": 0
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 21.298461,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 13.898953,
+          "Emballage": 5.50476,
+          "Transport": 1.8447158,
+          "Supermarché et distribution": 0.041449587,
+          "Consommation": 0
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 17.157469,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 6.275886,
+          "Emballage": 8.5288162,
+          "Transport": 1.9167451,
+          "Supermarché et distribution": 0.43335116,
+          "Consommation": 0
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 0.25977589,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.078515905,
+          "Emballage": 0.12327471,
+          "Transport": 0.018608459,
+          "Supermarché et distribution": 0.039353404,
+          "Consommation": 0
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 18.956665,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 7.2959482,
+          "Emballage": 7.2666296,
+          "Transport": 2.7018105,
+          "Supermarché et distribution": 1.6957699,
+          "Consommation": 0
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 2.1567277000000002,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.33740524,
+          "Emballage": 1.2145978,
+          "Transport": 0.5335022700000001,
+          "Supermarché et distribution": 0.071115187,
+          "Consommation": 0
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Gin",
+    "LCI_name": "Gin",
+    "ciqual_AGB": "1002",
+    "ciqual_code": "1002",
+    "groupe": "boissons",
+    "sous_groupe": "boisson alcoolisées",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "Verre",
+    "Livraison": "Ambiant (moyenne)",
+    "Preparation": "Réfrigéré chez le consommateur",
+    "DQR": {
+      "overall": "3.29",
+      "P": "2.49",
+      "TiR": "2.73",
+      "GR": "4.41",
+      "TeR": "3.54"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.12296672000000002,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.050783404000000004,
+          "Emballage": 0.051649676000000005,
+          "Transport": 0.01375452,
+          "Supermarché et distribution": 0.0043498741,
+          "Consommation": 0.0024293397
+        }
+      },
+      "Changement climatique": {
+        "synthese": 1.1563936,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.4658128,
+          "Emballage": 0.49690685,
+          "Transport": 0.17690961,
+          "Supermarché et distribution": 0.012169911,
+          "Consommation": 0.0047993021
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.18296104000000002,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.058563635,
+          "Emballage": 0.072623762,
+          "Transport": 0.040536261,
+          "Supermarché et distribution": 0.0071315905,
+          "Consommation": 0.0041383883
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.31724061,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.12508201,
+          "Emballage": 0.053489378,
+          "Transport": 0.013281877,
+          "Supermarché et distribution": 0.077548414,
+          "Consommation": 0.047839148
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 8.398469299999999,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 5.8903899,
+          "Emballage": 2.0425077000000003,
+          "Transport": 0.42364452,
+          "Supermarché et distribution": 0.027617012,
+          "Consommation": 0.014117292
+        }
+      },
+      "Particules": {
+        "synthese": 0.14162457,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.068069619,
+          "Emballage": 0.061298028000000004,
+          "Transport": 0.011337907000000001,
+          "Supermarché et distribution": 0.00055405748,
+          "Consommation": 0.0003222193
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.0072767646,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.0019775257,
+          "Emballage": 0.0046828017,
+          "Transport": 0.00051901142,
+          "Supermarché et distribution": 0.00006254419,
+          "Consommation": 0.000034793328
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.014839737,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.0056624946,
+          "Emballage": 0.0078500547,
+          "Transport": 0.0011344856,
+          "Supermarché et distribution": 0.00012381817,
+          "Consommation": 0.000068499657
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.16915911,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.049883325,
+          "Emballage": 0.095903725,
+          "Transport": 0.014808111,
+          "Supermarché et distribution": 0.0054156638,
+          "Consommation": 0.0031349554
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 1.2142155,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.41523097999999997,
+          "Emballage": 0.6752250599999999,
+          "Transport": 0.10196678999999999,
+          "Supermarché et distribution": 0.01391134,
+          "Consommation": 0.0077991547
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 21.322182,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 13.898953,
+          "Emballage": 5.50476,
+          "Transport": 1.8447158,
+          "Supermarché et distribution": 0.041449587,
+          "Consommation": 0.023721083
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 17.408287,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 6.275886,
+          "Emballage": 8.5288162,
+          "Transport": 1.9167451,
+          "Supermarché et distribution": 0.43335116,
+          "Consommation": 0.25081812
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 0.26953301,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.078515905,
+          "Emballage": 0.12327471,
+          "Transport": 0.018608459,
+          "Supermarché et distribution": 0.039353404,
+          "Consommation": 0.0097571262
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 19.965698,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 7.2959482,
+          "Emballage": 7.2666296,
+          "Transport": 2.7018105,
+          "Supermarché et distribution": 1.6957699,
+          "Consommation": 1.0090332
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 2.1994413,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.33740524,
+          "Emballage": 1.2145978,
+          "Transport": 0.5335022700000001,
+          "Supermarché et distribution": 0.071115187,
+          "Consommation": 0.042713564
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Liqueur",
+    "LCI_name": "Liqueur",
+    "ciqual_AGB": "1003",
+    "ciqual_code": "1003",
+    "groupe": "boissons",
+    "sous_groupe": "boisson alcoolisées",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "Déjà emballé - Verre",
+    "Livraison": "Ambiant (moyenne)",
+    "Preparation": "Réfrigéré chez le consommateur",
+    "DQR": {
+      "overall": "3.68",
+      "P": "2.54",
+      "TiR": "3.69",
+      "GR": "3.97",
+      "TeR": "4.53"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.25146514999999997,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0.14429416,
+          "Transformation": 0.028303248000000003,
+          "Emballage": 0.051649676000000005,
+          "Transport": 0.020438892,
+          "Supermarché et distribution": 0.0043498741,
+          "Consommation": 0.0024293397
+        }
+      },
+      "Changement climatique": {
+        "synthese": 1.2532566,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.22140291,
+          "Transformation": 0.26797772,
+          "Emballage": 0.49690685,
+          "Transport": 0.2501032,
+          "Supermarché et distribution": 0.012169911,
+          "Consommation": 0.0047993021
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.7602101800000001,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.58849074,
+          "Transformation": 0.031991990000000005,
+          "Emballage": 0.072623762,
+          "Transport": 0.055850138,
+          "Supermarché et distribution": 0.0071315905,
+          "Consommation": 0.0041383883
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.27644571,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.011504542,
+          "Transformation": 0.066198688,
+          "Emballage": 0.053489378,
+          "Transport": 0.019865649,
+          "Supermarché et distribution": 0.077548414,
+          "Consommation": 0.047839148
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 6.9461117,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.96083883,
+          "Transformation": 3.0463497,
+          "Emballage": 2.0425077000000003,
+          "Transport": 0.85458389,
+          "Supermarché et distribution": 0.027617012,
+          "Consommation": 0.014117292
+        }
+      },
+      "Particules": {
+        "synthese": 0.17142132000000002,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0.058330798,
+          "Transformation": 0.035429287999999996,
+          "Emballage": 0.061298028000000004,
+          "Transport": 0.015465385,
+          "Supermarché et distribution": 0.00055405748,
+          "Consommation": 0.0003222193
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.010949668,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.0039126175,
+          "Transformation": 0.0011504273,
+          "Emballage": 0.0046828017,
+          "Transport": 0.0011064392,
+          "Supermarché et distribution": 0.00006254419,
+          "Consommation": 0.000034793328
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.029698661,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.015795963,
+          "Transformation": 0.0032117212,
+          "Emballage": 0.0078500547,
+          "Transport": 0.0026484106,
+          "Supermarché et distribution": 0.00012381817,
+          "Consommation": 0.000068499657
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.24243107,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.074739727,
+          "Transformation": 0.038444073,
+          "Emballage": 0.095903725,
+          "Transport": 0.02478621,
+          "Supermarché et distribution": 0.0054156638,
+          "Consommation": 0.0031349554
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 2.5705714,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.373515,
+          "Transformation": 0.26281412,
+          "Emballage": 0.6752250599999999,
+          "Transport": 0.23726531,
+          "Supermarché et distribution": 0.01391134,
+          "Consommation": 0.0077991547
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 25.354898,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 10.206445,
+          "Transformation": 7.0722643,
+          "Emballage": 5.50476,
+          "Transport": 2.5019322,
+          "Supermarché et distribution": 0.041449587,
+          "Consommation": 0.023721083
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 201.46327,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 185.47776,
+          "Transformation": 4.0383175,
+          "Emballage": 8.5288162,
+          "Transport": 2.7328702,
+          "Supermarché et distribution": 0.43335116,
+          "Consommation": 0.25081812
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 2.8720325,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 2.6427493,
+          "Transformation": 0.029955359,
+          "Emballage": 0.12327471,
+          "Transport": 0.026930859,
+          "Supermarché et distribution": 0.039353404,
+          "Consommation": 0.0097571262
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 20.56068,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 2.6673208,
+          "Transformation": 4.1322419,
+          "Emballage": 7.2666296,
+          "Transport": 3.791445,
+          "Supermarché et distribution": 1.6957699,
+          "Consommation": 1.0090332
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 7.4588280000000005,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 5.2264608,
+          "Transformation": 0.19597079,
+          "Emballage": 1.2145978,
+          "Transport": 0.70791578,
+          "Supermarché et distribution": 0.071115187,
+          "Consommation": 0.042713564
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Rhum",
+    "LCI_name": "Rum",
+    "ciqual_AGB": "1004",
+    "ciqual_code": "1004",
+    "groupe": "boissons",
+    "sous_groupe": "boisson alcoolisées",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "Verre",
+    "Livraison": "Ambiant (moyenne)",
+    "Preparation": "Réfrigéré chez le consommateur",
+    "DQR": {
+      "overall": "3.29",
+      "P": "2.49",
+      "TiR": "2.73",
+      "GR": "4.41",
+      "TeR": "3.54"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.12296672000000002,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.050783404000000004,
+          "Emballage": 0.051649676000000005,
+          "Transport": 0.01375452,
+          "Supermarché et distribution": 0.0043498741,
+          "Consommation": 0.0024293397
+        }
+      },
+      "Changement climatique": {
+        "synthese": 1.1563936,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.4658128,
+          "Emballage": 0.49690685,
+          "Transport": 0.17690961,
+          "Supermarché et distribution": 0.012169911,
+          "Consommation": 0.0047993021
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.18296104000000002,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.058563635,
+          "Emballage": 0.072623762,
+          "Transport": 0.040536261,
+          "Supermarché et distribution": 0.0071315905,
+          "Consommation": 0.0041383883
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.31724061,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.12508201,
+          "Emballage": 0.053489378,
+          "Transport": 0.013281877,
+          "Supermarché et distribution": 0.077548414,
+          "Consommation": 0.047839148
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 8.398469299999999,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 5.8903899,
+          "Emballage": 2.0425077000000003,
+          "Transport": 0.42364452,
+          "Supermarché et distribution": 0.027617012,
+          "Consommation": 0.014117292
+        }
+      },
+      "Particules": {
+        "synthese": 0.14162457,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.068069619,
+          "Emballage": 0.061298028000000004,
+          "Transport": 0.011337907000000001,
+          "Supermarché et distribution": 0.00055405748,
+          "Consommation": 0.0003222193
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.0072767646,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.0019775257,
+          "Emballage": 0.0046828017,
+          "Transport": 0.00051901142,
+          "Supermarché et distribution": 0.00006254419,
+          "Consommation": 0.000034793328
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.014839737,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.0056624946,
+          "Emballage": 0.0078500547,
+          "Transport": 0.0011344856,
+          "Supermarché et distribution": 0.00012381817,
+          "Consommation": 0.000068499657
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.16915911,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.049883325,
+          "Emballage": 0.095903725,
+          "Transport": 0.014808111,
+          "Supermarché et distribution": 0.0054156638,
+          "Consommation": 0.0031349554
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 1.2142155,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.41523097999999997,
+          "Emballage": 0.6752250599999999,
+          "Transport": 0.10196678999999999,
+          "Supermarché et distribution": 0.01391134,
+          "Consommation": 0.0077991547
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 21.322182,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 13.898953,
+          "Emballage": 5.50476,
+          "Transport": 1.8447158,
+          "Supermarché et distribution": 0.041449587,
+          "Consommation": 0.023721083
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 17.408287,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 6.275886,
+          "Emballage": 8.5288162,
+          "Transport": 1.9167451,
+          "Supermarché et distribution": 0.43335116,
+          "Consommation": 0.25081812
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 0.26953301,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.078515905,
+          "Emballage": 0.12327471,
+          "Transport": 0.018608459,
+          "Supermarché et distribution": 0.039353404,
+          "Consommation": 0.0097571262
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 19.965698,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 7.2959482,
+          "Emballage": 7.2666296,
+          "Transport": 2.7018105,
+          "Supermarché et distribution": 1.6957699,
+          "Consommation": 1.0090332
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 2.1994413,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.33740524,
+          "Emballage": 1.2145978,
+          "Transport": 0.5335022700000001,
+          "Supermarché et distribution": 0.071115187,
+          "Consommation": 0.042713564
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Whisky",
+    "LCI_name": "Whisky",
+    "ciqual_AGB": "1005",
+    "ciqual_code": "1005",
+    "groupe": "boissons",
+    "sous_groupe": "boisson alcoolisées",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "Verre",
+    "Livraison": "Ambiant (moyenne)",
+    "Preparation": "Réfrigéré chez le consommateur",
+    "DQR": {
+      "overall": "3.29",
+      "P": "2.49",
+      "TiR": "2.73",
+      "GR": "4.41",
+      "TeR": "3.54"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.12296672000000002,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.050783404000000004,
+          "Emballage": 0.051649676000000005,
+          "Transport": 0.01375452,
+          "Supermarché et distribution": 0.0043498741,
+          "Consommation": 0.0024293397
+        }
+      },
+      "Changement climatique": {
+        "synthese": 1.1563936,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.4658128,
+          "Emballage": 0.49690685,
+          "Transport": 0.17690961,
+          "Supermarché et distribution": 0.012169911,
+          "Consommation": 0.0047993021
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.18296104000000002,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.058563635,
+          "Emballage": 0.072623762,
+          "Transport": 0.040536261,
+          "Supermarché et distribution": 0.0071315905,
+          "Consommation": 0.0041383883
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.31724061,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.12508201,
+          "Emballage": 0.053489378,
+          "Transport": 0.013281877,
+          "Supermarché et distribution": 0.077548414,
+          "Consommation": 0.047839148
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 8.398469299999999,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 5.8903899,
+          "Emballage": 2.0425077000000003,
+          "Transport": 0.42364452,
+          "Supermarché et distribution": 0.027617012,
+          "Consommation": 0.014117292
+        }
+      },
+      "Particules": {
+        "synthese": 0.14162457,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.068069619,
+          "Emballage": 0.061298028000000004,
+          "Transport": 0.011337907000000001,
+          "Supermarché et distribution": 0.00055405748,
+          "Consommation": 0.0003222193
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.0072767646,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.0019775257,
+          "Emballage": 0.0046828017,
+          "Transport": 0.00051901142,
+          "Supermarché et distribution": 0.00006254419,
+          "Consommation": 0.000034793328
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.014839737,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.0056624946,
+          "Emballage": 0.0078500547,
+          "Transport": 0.0011344856,
+          "Supermarché et distribution": 0.00012381817,
+          "Consommation": 0.000068499657
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.16915911,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.049883325,
+          "Emballage": 0.095903725,
+          "Transport": 0.014808111,
+          "Supermarché et distribution": 0.0054156638,
+          "Consommation": 0.0031349554
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 1.2142155,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.41523097999999997,
+          "Emballage": 0.6752250599999999,
+          "Transport": 0.10196678999999999,
+          "Supermarché et distribution": 0.01391134,
+          "Consommation": 0.0077991547
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 21.322182,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 13.898953,
+          "Emballage": 5.50476,
+          "Transport": 1.8447158,
+          "Supermarché et distribution": 0.041449587,
+          "Consommation": 0.023721083
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 17.408287,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 6.275886,
+          "Emballage": 8.5288162,
+          "Transport": 1.9167451,
+          "Supermarché et distribution": 0.43335116,
+          "Consommation": 0.25081812
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 0.26953301,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.078515905,
+          "Emballage": 0.12327471,
+          "Transport": 0.018608459,
+          "Supermarché et distribution": 0.039353404,
+          "Consommation": 0.0097571262
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 19.965698,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 7.2959482,
+          "Emballage": 7.2666296,
+          "Transport": 2.7018105,
+          "Supermarché et distribution": 1.6957699,
+          "Consommation": 1.0090332
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 2.1994413,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.33740524,
+          "Emballage": 1.2145978,
+          "Transport": 0.5335022700000001,
+          "Supermarché et distribution": 0.071115187,
+          "Consommation": 0.042713564
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Vin doux",
+    "LCI_name": "Wine, white, sweet",
+    "ciqual_AGB": "1006",
+    "ciqual_code": "1006",
+    "groupe": "boissons",
+    "sous_groupe": "boisson alcoolisées",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "Verre",
+    "Livraison": "Ambiant (moyenne)",
+    "Preparation": "Réfrigéré chez le consommateur",
+    "DQR": {
+      "overall": "3.01",
+      "P": "2.49",
+      "TiR": "2.73",
+      "GR": "3.27",
+      "TeR": "3.54"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.17296703,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0.087003491,
+          "Transformation": 0.01220053,
+          "Emballage": 0.051649676000000005,
+          "Transport": 0.015250933,
+          "Supermarché et distribution": 0.004428340199999999,
+          "Consommation": 0.0024293397
+        }
+      },
+      "Changement climatique": {
+        "synthese": 1.0162479,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.27162412,
+          "Transformation": 0.035796377,
+          "Emballage": 0.49690685,
+          "Transport": 0.19473145,
+          "Supermarché et distribution": 0.012389304,
+          "Consommation": 0.0047993021
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.19998061,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.052355560999999995,
+          "Transformation": 0.018965353999999997,
+          "Emballage": 0.072623762,
+          "Transport": 0.04462499,
+          "Supermarché et distribution": 0.0072602101,
+          "Consommation": 0.0041383883
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.40582423,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.018310168,
+          "Transformation": 0.19248396,
+          "Emballage": 0.053489378,
+          "Transport": 0.014601125,
+          "Supermarché et distribution": 0.078947075,
+          "Consommation": 0.047839148
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 5.0221283,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 2.3306223000000004,
+          "Transformation": 0.11181118000000001,
+          "Emballage": 2.0425077000000003,
+          "Transport": 0.49497173,
+          "Supermarché et distribution": 0.028114644,
+          "Consommation": 0.014117292
+        }
+      },
+      "Particules": {
+        "synthese": 0.09365942099999999,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0.016259423999999998,
+          "Transformation": 0.0026302705,
+          "Emballage": 0.061298028000000004,
+          "Transport": 0.012585996,
+          "Supermarché et distribution": 0.00056403866,
+          "Consommation": 0.0003222193
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.0091701832,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.0035338786,
+          "Transformation": 0.0002631124,
+          "Emballage": 0.0046828017,
+          "Transport": 0.00059197013,
+          "Supermarché et distribution": 0.000063671265,
+          "Consommation": 0.000034793328
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.025315191,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.015339069,
+          "Transformation": 0.00056214955,
+          "Emballage": 0.0078500547,
+          "Transport": 0.0013696423,
+          "Supermarché et distribution": 0.00012604883,
+          "Consommation": 0.000068499657
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.26227675,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.12683893,
+          "Transformation": 0.014647181,
+          "Emballage": 0.095903725,
+          "Transport": 0.016236588,
+          "Supermarché et distribution": 0.0055131317,
+          "Consommation": 0.0031349554
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 7.052419899999999,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 6.1836873,
+          "Transformation": 0.048257529,
+          "Emballage": 0.6752250599999999,
+          "Transport": 0.12329183999999999,
+          "Supermarché et distribution": 0.014158495,
+          "Consommation": 0.0077991547
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 9.1703432,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 0.78538716,
+          "Transformation": 0.7872818,
+          "Emballage": 5.50476,
+          "Transport": 2.0275317,
+          "Supermarché et distribution": 0.042196689,
+          "Consommation": 0.023721083
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 113.92858,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 100.99975,
+          "Transformation": 1.6002925,
+          "Emballage": 8.5288162,
+          "Transport": 2.1080265,
+          "Supermarché et distribution": 0.44112019,
+          "Consommation": 0.25081812
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 0.3532141,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 0.046275881,
+          "Transformation": 0.11334674,
+          "Emballage": 0.12327471,
+          "Transport": 0.020456687,
+          "Supermarché et distribution": 0.040070189,
+          "Consommation": 0.0097571262
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 20.295228,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 3.0552625,
+          "Transformation": 4.2615087,
+          "Emballage": 7.2666296,
+          "Transport": 2.9733357,
+          "Supermarché et distribution": 1.7263539,
+          "Consommation": 1.0090332
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 4.0407272999999995,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.7078149999999999,
+          "Transformation": 0.417611,
+          "Emballage": 1.2145978,
+          "Transport": 0.58641164,
+          "Supermarché et distribution": 0.07239748800000001,
+          "Consommation": 0.042713564
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Apéritif à base de vin ou vermouth",
+    "LCI_name": "Wine-based aperitif",
+    "ciqual_AGB": "1007",
+    "ciqual_code": "1007",
+    "groupe": "boissons",
+    "sous_groupe": "boisson alcoolisées",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "Verre",
+    "Livraison": "Ambiant (moyenne)",
+    "Preparation": "Réfrigéré chez le consommateur",
+    "DQR": {
+      "overall": "2.48",
+      "P": "1.73",
+      "TiR": "2.78",
+      "GR": "2.94",
+      "TeR": "2.47"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.16769963,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0.07728684,
+          "Transformation": 0.017051784,
+          "Emballage": 0.051649676000000005,
+          "Transport": 0.014858871999999999,
+          "Supermarché et distribution": 0.0044194823,
+          "Consommation": 0.0024293397
+        },
+        "ingredients": {
+          "Eau de Vie": 0.0061976903,
+          "Sucre blanc": 0.012003495,
+          "Vin blanc": 0.079433822,
+          "Autres étapes": 0.07006462000000001
+        }
+      },
+      "Changement climatique": {
+        "synthese": 1.050523,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.24370999,
+          "Transformation": 0.10332162,
+          "Emballage": 0.49690685,
+          "Transport": 0.18944429,
+          "Supermarché et distribution": 0.012364537,
+          "Consommation": 0.0047993021
+        },
+        "ingredients": {
+          "Eau de Vie": 0.057716827,
+          "Sucre blanc": 0.057053626,
+          "Vin blanc": 0.27247055,
+          "Autres étapes": 0.66328197
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.19336092000000002,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.04303892,
+          "Transformation": 0.02306362,
+          "Emballage": 0.072623762,
+          "Transport": 0.043244824,
+          "Supermarché et distribution": 0.0072456904,
+          "Consommation": 0.0041383883
+        },
+        "ingredients": {
+          "Eau de Vie": 0.007580191700000001,
+          "Sucre blanc": 0.004437431,
+          "Vin blanc": 0.06305612099999999,
+          "Autres étapes": 0.11828717999999999
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.37527155,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.015594651,
+          "Transformation": 0.1652739,
+          "Emballage": 0.053489378,
+          "Transport": 0.01416691,
+          "Supermarché et distribution": 0.078789182,
+          "Consommation": 0.047839148
+        },
+        "ingredients": {
+          "Eau de Vie": 0.014892164,
+          "Sucre blanc": 0.0036118433,
+          "Vin blanc": 0.16556962,
+          "Autres étapes": 0.19119792
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 5.3469905,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.9531864,
+          "Transformation": 0.82398333,
+          "Emballage": 2.0425077000000003,
+          "Transport": 0.48512745,
+          "Supermarché et distribution": 0.028058467,
+          "Consommation": 0.014117292
+        },
+        "ingredients": {
+          "Eau de Vie": 0.6978151,
+          "Sucre blanc": 0.21702886,
+          "Vin blanc": 1.9974674,
+          "Autres étapes": 2.4346792
+        }
+      },
+      "Particules": {
+        "synthese": 0.10861307999999999,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0.023570151,
+          "Transformation": 0.01066193,
+          "Emballage": 0.061298028000000004,
+          "Transport": 0.012193272,
+          "Supermarché et distribution": 0.00056291189,
+          "Consommation": 0.0003222193
+        },
+        "ingredients": {
+          "Eau de Vie": 0.0081770879,
+          "Sucre blanc": 0.011774209999999998,
+          "Vin blanc": 0.016918003,
+          "Autres étapes": 0.071743783
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.010212819,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.0043272385,
+          "Transformation": 0.00052475512,
+          "Emballage": 0.0046828017,
+          "Transport": 0.00057971034,
+          "Supermarché et distribution": 0.00006354403,
+          "Consommation": 0.000034793328
+        },
+        "ingredients": {
+          "Eau de Vie": 0.00024166872,
+          "Sucre blanc": 0.0017034811,
+          "Vin blanc": 0.0030554495,
+          "Autres étapes": 0.0052122198
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.029506048,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.018834023,
+          "Transformation": 0.0012862859,
+          "Emballage": 0.0078500547,
+          "Transport": 0.0013415535,
+          "Supermarché et distribution": 0.00012579701,
+          "Consommation": 0.000068499657
+        },
+        "ingredients": {
+          "Eau de Vie": 0.00068706656,
+          "Sucre blanc": 0.0072308364,
+          "Vin blanc": 0.012618793,
+          "Autres étapes": 0.008969352
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.25234702000000003,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.10603478999999999,
+          "Transformation": 0.025633807,
+          "Emballage": 0.095903725,
+          "Transport": 0.016134331000000002,
+          "Supermarché et distribution": 0.0055021285999999996,
+          "Consommation": 0.0031349554
+        },
+        "ingredients": {
+          "Eau de Vie": 0.0061489862,
+          "Sucre blanc": 0.017123529999999998,
+          "Vin blanc": 0.11238437,
+          "Autres étapes": 0.11669014000000001
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 6.2113719000000005,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 5.273628899999999,
+          "Transformation": 0.11974296000000001,
+          "Emballage": 0.6752250599999999,
+          "Transport": 0.12083513,
+          "Supermarché et distribution": 0.014130594,
+          "Consommation": 0.0077991547
+        },
+        "ingredients": {
+          "Eau de Vie": 0.050785842,
+          "Sucre blanc": 0.53821557,
+          "Vin blanc": 4.8420028,
+          "Autres étapes": 0.78036769
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 13.627521,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 3.8026688,
+          "Transformation": 2.2752458,
+          "Emballage": 5.50476,
+          "Transport": 1.9784217,
+          "Supermarché et distribution": 0.04211235,
+          "Consommation": 0.023721083
+        },
+        "ingredients": {
+          "Eau de Vie": 1.660887,
+          "Sucre blanc": 3.2621855,
+          "Vin blanc": 1.5772187,
+          "Autres étapes": 7.1272295
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 93.696684,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 79.91072,
+          "Transformation": 2.5008026,
+          "Emballage": 8.5288162,
+          "Transport": 2.0651603,
+          "Supermarché et distribution": 0.44024315,
+          "Consommation": 0.25081812
+        },
+        "ingredients": {
+          "Eau de Vie": 0.77002886,
+          "Sucre blanc": 2.5043776,
+          "Vin blanc": 79.588542,
+          "Autres étapes": 10.833736
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 0.54985266,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 0.26649929,
+          "Transformation": 0.09033146,
+          "Emballage": 0.12327471,
+          "Transport": 0.019972762,
+          "Supermarché et distribution": 0.039989272,
+          "Consommation": 0.0097571262
+        },
+        "ingredients": {
+          "Eau de Vie": 0.0095402795,
+          "Sucre blanc": 0.22468637,
+          "Vin blanc": 0.12699798,
+          "Autres étapes": 0.18862803
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 19.942886,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 2.6177444,
+          "Transformation": 4.4369739,
+          "Emballage": 7.2666296,
+          "Transport": 2.887615,
+          "Supermarché et distribution": 1.7229013,
+          "Consommation": 1.0090332
+        },
+        "ingredients": {
+          "Eau de Vie": 0.90265969,
+          "Sucre blanc": 0.57563911,
+          "Vin blanc": 6.1867975,
+          "Autres étapes": 12.277789
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 3.7079947,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.4243238999999999,
+          "Transformation": 0.37844384,
+          "Emballage": 1.2145978,
+          "Transport": 0.5762828,
+          "Supermarché et distribution": 0.07225273,
+          "Consommation": 0.042713564
+        },
+        "ingredients": {
+          "Eau de Vie": 0.049066076,
+          "Sucre blanc": 0.13348286,
+          "Vin blanc": 1.7442351,
+          "Autres étapes": 1.7812107000000001
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Vodka",
+    "LCI_name": "Vodka",
+    "ciqual_AGB": "1008",
+    "ciqual_code": "1008",
+    "groupe": "boissons",
+    "sous_groupe": "boisson alcoolisées",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "Verre",
+    "Livraison": "Ambiant (moyenne)",
+    "Preparation": "Réfrigéré chez le consommateur",
+    "DQR": {
+      "overall": "3.29",
+      "P": "2.49",
+      "TiR": "2.73",
+      "GR": "4.41",
+      "TeR": "3.54"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.12296672000000002,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.050783404000000004,
+          "Emballage": 0.051649676000000005,
+          "Transport": 0.01375452,
+          "Supermarché et distribution": 0.0043498741,
+          "Consommation": 0.0024293397
+        }
+      },
+      "Changement climatique": {
+        "synthese": 1.1563936,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.4658128,
+          "Emballage": 0.49690685,
+          "Transport": 0.17690961,
+          "Supermarché et distribution": 0.012169911,
+          "Consommation": 0.0047993021
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.18296104000000002,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.058563635,
+          "Emballage": 0.072623762,
+          "Transport": 0.040536261,
+          "Supermarché et distribution": 0.0071315905,
+          "Consommation": 0.0041383883
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.31724061,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.12508201,
+          "Emballage": 0.053489378,
+          "Transport": 0.013281877,
+          "Supermarché et distribution": 0.077548414,
+          "Consommation": 0.047839148
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 8.398469299999999,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 5.8903899,
+          "Emballage": 2.0425077000000003,
+          "Transport": 0.42364452,
+          "Supermarché et distribution": 0.027617012,
+          "Consommation": 0.014117292
+        }
+      },
+      "Particules": {
+        "synthese": 0.14162457,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.068069619,
+          "Emballage": 0.061298028000000004,
+          "Transport": 0.011337907000000001,
+          "Supermarché et distribution": 0.00055405748,
+          "Consommation": 0.0003222193
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.0072767646,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.0019775257,
+          "Emballage": 0.0046828017,
+          "Transport": 0.00051901142,
+          "Supermarché et distribution": 0.00006254419,
+          "Consommation": 0.000034793328
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.014839737,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.0056624946,
+          "Emballage": 0.0078500547,
+          "Transport": 0.0011344856,
+          "Supermarché et distribution": 0.00012381817,
+          "Consommation": 0.000068499657
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.16915911,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.049883325,
+          "Emballage": 0.095903725,
+          "Transport": 0.014808111,
+          "Supermarché et distribution": 0.0054156638,
+          "Consommation": 0.0031349554
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 1.2142155,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.41523097999999997,
+          "Emballage": 0.6752250599999999,
+          "Transport": 0.10196678999999999,
+          "Supermarché et distribution": 0.01391134,
+          "Consommation": 0.0077991547
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 21.322182,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 13.898953,
+          "Emballage": 5.50476,
+          "Transport": 1.8447158,
+          "Supermarché et distribution": 0.041449587,
+          "Consommation": 0.023721083
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 17.408287,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 6.275886,
+          "Emballage": 8.5288162,
+          "Transport": 1.9167451,
+          "Supermarché et distribution": 0.43335116,
+          "Consommation": 0.25081812
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 0.26953301,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.078515905,
+          "Emballage": 0.12327471,
+          "Transport": 0.018608459,
+          "Supermarché et distribution": 0.039353404,
+          "Consommation": 0.0097571262
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 19.965698,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 7.2959482,
+          "Emballage": 7.2666296,
+          "Transport": 2.7018105,
+          "Supermarché et distribution": 1.6957699,
+          "Consommation": 1.0090332
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 2.1994413,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.33740524,
+          "Emballage": 1.2145978,
+          "Transport": 0.5335022700000001,
+          "Supermarché et distribution": 0.071115187,
+          "Consommation": 0.042713564
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Cocktail à base de rhum",
+    "LCI_name": "Rum-based cocktail",
+    "ciqual_AGB": "1012",
+    "ciqual_code": "1012",
+    "groupe": "boissons",
+    "sous_groupe": "boisson alcoolisées",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "Verre",
+    "Livraison": "Ambiant (moyenne)",
+    "Preparation": "Réfrigéré chez le consommateur",
+    "DQR": {
+      "overall": "2.65",
+      "P": "2.02",
+      "TiR": "2.78",
+      "GR": "3.32",
+      "TeR": "2.47"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.13545328,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0.042873078999999994,
+          "Transformation": 0.018639706,
+          "Emballage": 0.051649676000000005,
+          "Transport": 0.015442023,
+          "Supermarché et distribution": 0.0044194823,
+          "Consommation": 0.0024293397
+        },
+        "ingredients": {
+          "Eau de Vie": 0.014885051,
+          "Jus de citron": 0.037117234,
+          "Menthe": 0.0075707594,
+          "Sucre blanc": 0.0056557007,
+          "Autres étapes": 0.07022453523000001
+        }
+      },
+      "Changement climatique": {
+        "synthese": 0.97567709,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.10893277,
+          "Transformation": 0.1595887,
+          "Emballage": 0.49690685,
+          "Transport": 0.19314251,
+          "Supermarché et distribution": 0.012364537,
+          "Consommation": 0.0047993021
+        },
+        "ingredients": {
+          "Eau de Vie": 0.13861905,
+          "Jus de citron": 0.11729949,
+          "Menthe": 0.029434973,
+          "Sucre blanc": 0.026882024,
+          "Autres étapes": 0.66344155272
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.15597575000000002,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.0083998038,
+          "Transformation": 0.019666148,
+          "Emballage": 0.072623762,
+          "Transport": 0.043911119,
+          "Supermarché et distribution": 0.0072456904,
+          "Consommation": 0.0041383883
+        },
+        "ingredients": {
+          "Eau de Vie": 0.018205418,
+          "Jus de citron": 0.015022873,
+          "Menthe": 0.0023558438,
+          "Sucre blanc": 0.0020907894999999998,
+          "Autres étapes": 0.118300829655
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.24771096,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.0073371171,
+          "Transformation": 0.045698888,
+          "Emballage": 0.053489378,
+          "Transport": 0.014557311,
+          "Supermarché et distribution": 0.078789182,
+          "Consommation": 0.047839148
+        },
+        "ingredients": {
+          "Eau de Vie": 0.03576665,
+          "Jus de citron": 0.017371095,
+          "Menthe": 0.0016166323,
+          "Sucre blanc": 0.0017017964,
+          "Autres étapes": 0.191254786105
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 4.9815700000000005,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.56474577,
+          "Transformation": 1.7563091,
+          "Emballage": 2.0425077000000003,
+          "Transport": 0.57577748,
+          "Supermarché et distribution": 0.028058467,
+          "Consommation": 0.014117292
+        },
+        "ingredients": {
+          "Eau de Vie": 1.6759491,
+          "Jus de citron": 0.6404328499999999,
+          "Menthe": 0.12770954999999998,
+          "Sucre blanc": 0.10225774,
+          "Autres étapes": 2.4352208095
+        }
+      },
+      "Particules": {
+        "synthese": 0.11332719,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0.01739131,
+          "Transformation": 0.021685245000000002,
+          "Emballage": 0.061298028000000004,
+          "Transport": 0.012055465,
+          "Supermarché et distribution": 0.00056291189,
+          "Consommation": 0.0003222193
+        },
+        "ingredients": {
+          "Eau de Vie": 0.019638989000000003,
+          "Jus de citron": 0.012193595,
+          "Menthe": 0.0041942105,
+          "Sucre blanc": 0.0055476681,
+          "Autres étapes": 0.07175272736230001
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.0090005305,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.0025081692,
+          "Transformation": 0.00093944023,
+          "Emballage": 0.0046828017,
+          "Transport": 0.00077175727,
+          "Supermarché et distribution": 0.00006354403,
+          "Consommation": 0.000034793328
+        },
+        "ingredients": {
+          "Eau de Vie": 0.00058041803,
+          "Jus de citron": 0.0018215735,
+          "Menthe": 0.00058256788,
+          "Sucre blanc": 0.00080263119,
+          "Autres étapes": 0.0052133398847
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.023277604,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.010419677,
+          "Transformation": 0.0031232331,
+          "Emballage": 0.0078500547,
+          "Transport": 0.0016902345,
+          "Supermarché et distribution": 0.00012579701,
+          "Consommation": 0.000068499657
+        },
+        "ingredients": {
+          "Eau de Vie": 0.0016501342,
+          "Jus de citron": 0.0068453064,
+          "Menthe": 0.0024033626,
+          "Sucre blanc": 0.0034069616,
+          "Autres étapes": 0.0089718388736
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.18338172,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.036822289,
+          "Transformation": 0.025368757999999998,
+          "Emballage": 0.095903725,
+          "Transport": 0.016646117,
+          "Supermarché et distribution": 0.0055021285999999996,
+          "Consommation": 0.0031349554
+        },
+        "ingredients": {
+          "Eau de Vie": 0.014768078,
+          "Jus de citron": 0.032410311,
+          "Menthe": 0.01132188,
+          "Sucre blanc": 0.0080681138,
+          "Autres étapes": 0.11681333658000001
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 1.8603921,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.8419832899999999,
+          "Transformation": 0.16953865,
+          "Emballage": 0.6752250599999999,
+          "Transport": 0.15169225,
+          "Supermarché et distribution": 0.014130594,
+          "Consommation": 0.0077991547
+        },
+        "ingredients": {
+          "Eau de Vie": 0.12197282999999999,
+          "Jus de citron": 0.40942681999999997,
+          "Menthe": 0.29485147,
+          "Sucre blanc": 0.25359166,
+          "Autres étapes": 0.78054930518
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 22.463678,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 10.931561,
+          "Transformation": 4.0171951,
+          "Emballage": 5.50476,
+          "Transport": 1.9419163,
+          "Supermarché et distribution": 0.04211235,
+          "Consommation": 0.023721083
+        },
+        "ingredients": {
+          "Eau de Vie": 3.988968,
+          "Jus de citron": 7.1019968,
+          "Menthe": 2.7076995,
+          "Sucre blanc": 1.5370478,
+          "Autres étapes": 7.12796562125
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 19.766377,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 4.9107624,
+          "Transformation": 3.5479067,
+          "Emballage": 8.5288162,
+          "Transport": 2.0870799,
+          "Supermarché et distribution": 0.44024315,
+          "Consommation": 0.25081812
+        },
+        "ingredients": {
+          "Eau de Vie": 1.8493856,
+          "Jus de citron": 5.0288179,
+          "Menthe": 0.8715927,
+          "Sucre blanc": 1.1799905,
+          "Autres étapes": 10.8365904265
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 3.5112412,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 3.237832,
+          "Transformation": 0.080184415,
+          "Emballage": 0.12327471,
+          "Transport": 0.020197149,
+          "Supermarché et distribution": 0.039989272,
+          "Consommation": 0.0097571262
+        },
+        "ingredients": {
+          "Eau de Vie": 0.022912979,
+          "Jus de citron": 2.7700733,
+          "Menthe": 0.40459528,
+          "Sucre blanc": 0.10586574,
+          "Autres étapes": 0.207793898
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 16.530641,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 1.0752063,
+          "Transformation": 2.5194271,
+          "Emballage": 7.2666296,
+          "Transport": 2.9384253,
+          "Supermarché et distribution": 1.7229013,
+          "Consommation": 1.0090332
+        },
+        "ingredients": {
+          "Eau de Vie": 2.1679263,
+          "Jus de citron": 1.5208134,
+          "Menthe": 0.29014905,
+          "Sucre blanc": 0.27122455,
+          "Autres étapes": 12.280527461
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 2.4572479,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.44499252,
+          "Transformation": 0.12228591999999999,
+          "Emballage": 1.2145978,
+          "Transport": 0.56037524,
+          "Supermarché et distribution": 0.07225273,
+          "Consommation": 0.042713564
+        },
+        "ingredients": {
+          "Eau de Vie": 0.11784246000000001,
+          "Jus de citron": 0.39072639,
+          "Menthe": 0.10411179000000001,
+          "Sucre blanc": 0.062893278,
+          "Autres étapes": 1.7816739883100001
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Cocktail à base de whisky",
+    "LCI_name": "Whiskey-based cocktail",
+    "ciqual_AGB": "1013",
+    "ciqual_code": "1013",
+    "groupe": "boissons",
+    "sous_groupe": "boisson alcoolisées",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "Verre",
+    "Livraison": "Ambiant (moyenne)",
+    "Preparation": "Réfrigéré chez le consommateur",
+    "DQR": {
+      "overall": "2.68",
+      "P": "2.17",
+      "TiR": "2.78",
+      "GR": "3.32",
+      "TeR": "2.47"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.097027221,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.025848753000000002,
+          "Emballage": 0.051649676000000005,
+          "Transport": 0.012680015999999999,
+          "Supermarché et distribution": 0.0044194823,
+          "Consommation": 0.0024293397
+        },
+        "ingredients": {
+          "Eau de Vie": 0.026962601000000003,
+          "Autres étapes": 0.07006462000000001
+        }
+      },
+      "Changement climatique": {
+        "synthese": 0.91437484,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.23709872,
+          "Emballage": 0.49690685,
+          "Transport": 0.16330973,
+          "Supermarché et distribution": 0.012364537,
+          "Consommation": 0.0047993021
+        },
+        "ingredients": {
+          "Eau de Vie": 0.25109286,
+          "Autres étapes": 0.66328197
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.15126425000000002,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.029808889999999998,
+          "Emballage": 0.072623762,
+          "Transport": 0.037464112,
+          "Supermarché et distribution": 0.0072456904,
+          "Consommation": 0.0041383883
+        },
+        "ingredients": {
+          "Eau de Vie": 0.032977072999999996,
+          "Autres étapes": 0.11828717999999999
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.2559852,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.063666741,
+          "Emballage": 0.053489378,
+          "Transport": 0.012200862,
+          "Supermarché et distribution": 0.078789182,
+          "Consommation": 0.047839148
+        },
+        "ingredients": {
+          "Eau de Vie": 0.064787278,
+          "Autres étapes": 0.19119792
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 5.4704730999999995,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 2.9982085,
+          "Emballage": 2.0425077000000003,
+          "Transport": 0.38748297,
+          "Supermarché et distribution": 0.028058467,
+          "Consommation": 0.014117292
+        },
+        "ingredients": {
+          "Eau de Vie": 3.0357939,
+          "Autres étapes": 2.4346792
+        }
+      },
+      "Particules": {
+        "synthese": 0.10731761,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.034647436,
+          "Emballage": 0.061298028000000004,
+          "Transport": 0.010465261,
+          "Supermarché et distribution": 0.00056291189,
+          "Consommation": 0.0003222193
+        },
+        "ingredients": {
+          "Eau de Vie": 0.035573827,
+          "Autres étapes": 0.071743783
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.006263582,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.0010065606,
+          "Emballage": 0.0046828017,
+          "Transport": 0.00047583748,
+          "Supermarché et distribution": 0.00006354403,
+          "Consommation": 0.000034793328
+        },
+        "ingredients": {
+          "Eau de Vie": 0.0010513622,
+          "Autres étapes": 0.0052122198
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.011958385,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.0028822098,
+          "Emballage": 0.0078500547,
+          "Transport": 0.0010316285,
+          "Supermarché et distribution": 0.00012579701,
+          "Consommation": 0.000068499657
+        },
+        "ingredients": {
+          "Eau de Vie": 0.0029890332,
+          "Autres étapes": 0.008969352
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.14344086,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.025390613,
+          "Emballage": 0.095903725,
+          "Transport": 0.01350265,
+          "Supermarché et distribution": 0.0055021285999999996,
+          "Consommation": 0.0031349554
+        },
+        "ingredients": {
+          "Eau de Vie": 0.026750718,
+          "Autres étapes": 0.11669014000000001
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 1.0013078,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.21135257,
+          "Emballage": 0.6752250599999999,
+          "Transport": 0.092758621,
+          "Supermarché et distribution": 0.014130594,
+          "Consommation": 0.0077991547
+        },
+        "ingredients": {
+          "Eau de Vie": 0.22094012,
+          "Autres étapes": 0.78036769
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 14.352798,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 7.0745671,
+          "Emballage": 5.50476,
+          "Transport": 1.7032687,
+          "Supermarché et distribution": 0.04211235,
+          "Consommation": 0.023721083
+        },
+        "ingredients": {
+          "Eau de Vie": 7.2255684,
+          "Autres étapes": 7.1272295
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 14.18369,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 3.194426,
+          "Emballage": 8.5288162,
+          "Transport": 1.7680276,
+          "Supermarché et distribution": 0.44024315,
+          "Consommation": 0.25081812
+        },
+        "ingredients": {
+          "Eau de Vie": 3.3499546,
+          "Autres étapes": 10.833736
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 0.23013232,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.039964595,
+          "Emballage": 0.12327471,
+          "Transport": 0.017134704,
+          "Supermarché et distribution": 0.039989272,
+          "Consommation": 0.0097571262
+        },
+        "ingredients": {
+          "Eau de Vie": 0.041504293,
+          "Autres étapes": 0.18862803
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 16.204745,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 3.7136376,
+          "Emballage": 7.2666296,
+          "Transport": 2.4943211,
+          "Supermarché et distribution": 1.7229013,
+          "Consommation": 1.0090332
+        },
+        "ingredients": {
+          "Eau de Vie": 3.9269554,
+          "Autres étapes": 12.277789
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 1.9946690999999999,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.17173927,
+          "Emballage": 1.2145978,
+          "Transport": 0.49331115000000003,
+          "Supermarché et distribution": 0.07225273,
+          "Consommation": 0.042713564
+        },
+        "ingredients": {
+          "Eau de Vie": 0.2134584,
+          "Autres étapes": 1.7812107000000001
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Alcool pur",
+    "LCI_name": "Pure alcohol",
+    "ciqual_AGB": "1014",
+    "ciqual_code": "1014",
+    "groupe": "boissons",
+    "sous_groupe": "boisson alcoolisées",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "Verre",
+    "Livraison": "Ambiant (moyenne)",
+    "Preparation": "Réfrigéré chez le consommateur",
+    "DQR": {
+      "overall": "3.29",
+      "P": "2.49",
+      "TiR": "2.73",
+      "GR": "4.41",
+      "TeR": "3.54"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.12296672000000002,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.050783404000000004,
+          "Emballage": 0.051649676000000005,
+          "Transport": 0.01375452,
+          "Supermarché et distribution": 0.0043498741,
+          "Consommation": 0.0024293397
+        }
+      },
+      "Changement climatique": {
+        "synthese": 1.1563936,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.4658128,
+          "Emballage": 0.49690685,
+          "Transport": 0.17690961,
+          "Supermarché et distribution": 0.012169911,
+          "Consommation": 0.0047993021
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.18296104000000002,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.058563635,
+          "Emballage": 0.072623762,
+          "Transport": 0.040536261,
+          "Supermarché et distribution": 0.0071315905,
+          "Consommation": 0.0041383883
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.31724061,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.12508201,
+          "Emballage": 0.053489378,
+          "Transport": 0.013281877,
+          "Supermarché et distribution": 0.077548414,
+          "Consommation": 0.047839148
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 8.398469299999999,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 5.8903899,
+          "Emballage": 2.0425077000000003,
+          "Transport": 0.42364452,
+          "Supermarché et distribution": 0.027617012,
+          "Consommation": 0.014117292
+        }
+      },
+      "Particules": {
+        "synthese": 0.14162457,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.068069619,
+          "Emballage": 0.061298028000000004,
+          "Transport": 0.011337907000000001,
+          "Supermarché et distribution": 0.00055405748,
+          "Consommation": 0.0003222193
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.0072767646,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.0019775257,
+          "Emballage": 0.0046828017,
+          "Transport": 0.00051901142,
+          "Supermarché et distribution": 0.00006254419,
+          "Consommation": 0.000034793328
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.014839737,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.0056624946,
+          "Emballage": 0.0078500547,
+          "Transport": 0.0011344856,
+          "Supermarché et distribution": 0.00012381817,
+          "Consommation": 0.000068499657
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.16915911,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.049883325,
+          "Emballage": 0.095903725,
+          "Transport": 0.014808111,
+          "Supermarché et distribution": 0.0054156638,
+          "Consommation": 0.0031349554
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 1.2142155,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.41523097999999997,
+          "Emballage": 0.6752250599999999,
+          "Transport": 0.10196678999999999,
+          "Supermarché et distribution": 0.01391134,
+          "Consommation": 0.0077991547
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 21.322182,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 13.898953,
+          "Emballage": 5.50476,
+          "Transport": 1.8447158,
+          "Supermarché et distribution": 0.041449587,
+          "Consommation": 0.023721083
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 17.408287,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 6.275886,
+          "Emballage": 8.5288162,
+          "Transport": 1.9167451,
+          "Supermarché et distribution": 0.43335116,
+          "Consommation": 0.25081812
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 0.26953301,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.078515905,
+          "Emballage": 0.12327471,
+          "Transport": 0.018608459,
+          "Supermarché et distribution": 0.039353404,
+          "Consommation": 0.0097571262
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 19.965698,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 7.2959482,
+          "Emballage": 7.2666296,
+          "Transport": 2.7018105,
+          "Supermarché et distribution": 1.6957699,
+          "Consommation": 1.0090332
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 2.1994413,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.33740524,
+          "Emballage": 1.2145978,
+          "Transport": 0.5335022700000001,
+          "Supermarché et distribution": 0.071115187,
+          "Consommation": 0.042713564
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Marsala",
+    "LCI_name": "Marsala wine",
+    "ciqual_AGB": "1015",
+    "ciqual_code": "1015",
+    "groupe": "boissons",
+    "sous_groupe": "boisson alcoolisées",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "Déjà emballé - Verre",
+    "Livraison": "Ambiant (moyenne)",
+    "Preparation": "Réfrigéré chez le consommateur",
+    "DQR": {
+      "overall": "3.41",
+      "P": "2.96",
+      "TiR": "2.73",
+      "GR": "3.96",
+      "TeR": "4"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.18423856,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0.071670529,
+          "Transformation": 0.029900296,
+          "Emballage": 0.060893761000000005,
+          "Transport": 0.014986883000000001,
+          "Supermarché et distribution": 0.0043498741,
+          "Consommation": 0.0024293397
+        }
+      },
+      "Changement climatique": {
+        "synthese": 1.1262759,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.22376566,
+          "Transformation": 0.10399603,
+          "Emballage": 0.58993207,
+          "Transport": 0.1915867,
+          "Supermarché et distribution": 0.012169911,
+          "Consommation": 0.0047993021
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.19260947,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.0431278,
+          "Transformation": 0.021268766999999997,
+          "Emballage": 0.073027812,
+          "Transport": 0.043903509,
+          "Supermarché et distribution": 0.0071315905,
+          "Consommation": 0.0041383883
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.39757832,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.015083046,
+          "Transformation": 0.198333,
+          "Emballage": 0.044292376,
+          "Transport": 0.014368336,
+          "Supermarché et distribution": 0.077548414,
+          "Consommation": 0.047839148
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 5.3097062,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.9198553999999999,
+          "Transformation": 0.36817106,
+          "Emballage": 2.4974655,
+          "Transport": 0.48238559000000003,
+          "Supermarché et distribution": 0.027617012,
+          "Consommation": 0.014117292
+        }
+      },
+      "Particules": {
+        "synthese": 0.098514736,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0.013394158,
+          "Transformation": 0.0071420803,
+          "Emballage": 0.064734352,
+          "Transport": 0.01236576,
+          "Supermarché et distribution": 0.00055405748,
+          "Consommation": 0.0003222193
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.0093722604,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.002911092,
+          "Transformation": 0.00075729522,
+          "Emballage": 0.0050272515,
+          "Transport": 0.00057909616,
+          "Supermarché et distribution": 0.00006254419,
+          "Consommation": 0.000034793328
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.024878527,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.012635798,
+          "Transformation": 0.0014929421,
+          "Emballage": 0.0092287642,
+          "Transport": 0.0013281474,
+          "Supermarché et distribution": 0.00012381817,
+          "Consommation": 0.000068499657
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.33884102,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.10449172,
+          "Transformation": 0.077179118,
+          "Emballage": 0.13262691,
+          "Transport": 0.015984533,
+          "Supermarché et distribution": 0.0054156638,
+          "Consommation": 0.0031349554
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 6.1682704,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 5.0939714,
+          "Transformation": 0.13403747000000002,
+          "Emballage": 0.79898497,
+          "Transport": 0.1195289,
+          "Supermarché et distribution": 0.01391134,
+          "Consommation": 0.0077991547
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 15.159066,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 0.6510893,
+          "Transformation": 0.77522764,
+          "Emballage": 11.672282,
+          "Transport": 1.9952721,
+          "Supermarché et distribution": 0.041449587,
+          "Consommation": 0.023721083
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 104.3635,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 83.198457,
+          "Transformation": 5.9788403,
+          "Emballage": 12.426567,
+          "Transport": 2.0742741,
+          "Supermarché et distribution": 0.43335116,
+          "Consommation": 0.25081812
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 0.36015193,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 0.038124072,
+          "Transformation": 0.095115608,
+          "Emballage": 0.15764513,
+          "Transport": 0.020130558,
+          "Supermarché et distribution": 0.039353404,
+          "Consommation": 0.0097571262
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 21.561379,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 2.5167765,
+          "Transformation": 5.0525994,
+          "Emballage": 8.3592016,
+          "Transport": 2.9254236,
+          "Supermarché et distribution": 1.6957699,
+          "Consommation": 1.0090332
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 12.130308999999999,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.4068191,
+          "Transformation": 8.648407800000001,
+          "Emballage": 1.3835277000000001,
+          "Transport": 0.57707602,
+          "Supermarché et distribution": 0.071115187,
+          "Consommation": 0.042713564
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Sangria",
+    "LCI_name": "Sangria",
+    "ciqual_AGB": "1017",
+    "ciqual_code": "1017",
+    "groupe": "boissons",
+    "sous_groupe": "boisson alcoolisées",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "Verre",
+    "Livraison": "Glacé",
+    "Preparation": "Réfrigéré chez le consommateur",
+    "DQR": {
+      "overall": "2.63",
+      "P": "2.03",
+      "TiR": "2.78",
+      "GR": "2.94",
+      "TeR": "2.77"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.21578169,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0.079266589,
+          "Transformation": 0.021772589,
+          "Emballage": 0.078481043,
+          "Transport": 0.025015313,
+          "Supermarché et distribution": 0.0088128735,
+          "Consommation": 0.0024293397
+        },
+        "ingredients": {
+          "Eau de Vie": 0.0049687466,
+          "citron": 0.0068978098,
+          "Orange": 0.031863366,
+          "Vin rouge": 0.07313613100000001,
+          "Sucre blanc": 0.0059044218,
+          "Vin blanc": 0.010289355,
+          "Autres étapes": 0.082721855957
+        }
+      },
+      "Changement climatique": {
+        "synthese": 1.4403113,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.2148166,
+          "Transformation": 0.11475505,
+          "Emballage": 0.75692415,
+          "Transport": 0.32009139,
+          "Supermarché et distribution": 0.028932423,
+          "Consommation": 0.0047993021
+        },
+        "ingredients": {
+          "Eau de Vie": 0.046272123,
+          "citron": 0.018258784,
+          "Orange": 0.099041558,
+          "Vin rouge": 0.42325934,
+          "Sucre blanc": 0.028064216,
+          "Vin blanc": 0.035294113,
+          "Autres étapes": 0.790121186559
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.25196497,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.031393986,
+          "Transformation": 0.018584374,
+          "Emballage": 0.10475825999999999,
+          "Transport": 0.078694889,
+          "Supermarché et distribution": 0.014391775,
+          "Consommation": 0.0041383883
+        },
+        "ingredients": {
+          "Eau de Vie": 0.0060771110000000005,
+          "citron": 0.0021013795999999998,
+          "Orange": 0.012247674,
+          "Vin rouge": 0.06478276200000001,
+          "Sucre blanc": 0.0021827363,
+          "Vin blanc": 0.008167891299999999,
+          "Autres étapes": 0.15640541515999998
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.44201226,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.014886714,
+          "Transformation": 0.11991042,
+          "Emballage": 0.072997878,
+          "Transport": 0.020904452,
+          "Supermarché et distribution": 0.16540805,
+          "Consommation": 0.047839148
+        },
+        "ingredients": {
+          "Eau de Vie": 0.011939188,
+          "citron": 0.0013706625,
+          "Orange": 0.0074518863,
+          "Vin rouge": 0.11512531,
+          "Sucre blanc": 0.0017766364,
+          "Vin blanc": 0.021446842,
+          "Autres étapes": 0.28290173480799996
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 6.6978552,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.5501174999999998,
+          "Transformation": 0.79895067,
+          "Emballage": 3.1422737,
+          "Transport": 1.1424793,
+          "Supermarché et distribution": 0.04985858,
+          "Consommation": 0.014117292
+        },
+        "ingredients": {
+          "Eau de Vie": 0.55944493,
+          "citron": 0.083044546,
+          "Orange": 0.5506423699999999,
+          "Vin rouge": 2.1672113,
+          "Sucre blanc": 0.10675474,
+          "Vin blanc": 0.2587393,
+          "Autres étapes": 2.97201811395
+        }
+      },
+      "Particules": {
+        "synthese": 0.14133624,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0.021784055,
+          "Transformation": 0.011601657,
+          "Emballage": 0.089816204,
+          "Transport": 0.016684524,
+          "Supermarché et distribution": 0.0011227005,
+          "Consommation": 0.0003222193
+        },
+        "ingredients": {
+          "Eau de Vie": 0.0065556482,
+          "citron": 0.0018674805,
+          "Orange": 0.010314697999999999,
+          "Vin rouge": 0.038812652,
+          "Sucre blanc": 0.0057916383000000005,
+          "Vin blanc": 0.0021914510999999997,
+          "Autres étapes": 0.07580267520009999
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.012898211,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.0037025919,
+          "Transformation": 0.00081832116,
+          "Emballage": 0.0068984148,
+          "Transport": 0.0013222324,
+          "Supermarché et distribution": 0.00012177022,
+          "Consommation": 0.000034793328
+        },
+        "ingredients": {
+          "Eau de Vie": 0.00019374808,
+          "citron": 0.00026137511,
+          "Orange": 0.0015424506,
+          "Vin rouge": 0.0038987296,
+          "Sucre blanc": 0.00083792855,
+          "Vin blanc": 0.00039578362,
+          "Autres étapes": 0.005768194987470001
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.0340284,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.015682775,
+          "Transformation": 0.0023259561,
+          "Emballage": 0.011914251,
+          "Transport": 0.0037967042,
+          "Supermarché et distribution": 0.00023996011,
+          "Consommation": 0.000068499657
+        },
+        "ingredients": {
+          "Eau de Vie": 0.00055082772,
+          "citron": 0.0010058596,
+          "Orange": 0.0057725106,
+          "Vin rouge": 0.010473004,
+          "Sucre blanc": 0.0035567898,
+          "Vin blanc": 0.0016345587,
+          "Autres étapes": 0.011034849916920001
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.33105629999999997,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.086520816,
+          "Transformation": 0.048796583,
+          "Emballage": 0.15438143000000001,
+          "Transport": 0.027276822,
+          "Supermarché et distribution": 0.010940642,
+          "Consommation": 0.0031349554
+        },
+        "ingredients": {
+          "Eau de Vie": 0.0049297,
+          "citron": 0.0048016793,
+          "Orange": 0.026723107,
+          "Vin rouge": 0.14028945,
+          "Sucre blanc": 0.0084229257,
+          "Vin blanc": 0.014557561,
+          "Autres étapes": 0.131331885733
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 4.9914587,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 3.4397472000000002,
+          "Transformation": 0.14324397,
+          "Emballage": 1.0270656,
+          "Transport": 0.34616152,
+          "Supermarché et distribution": 0.027417063000000002,
+          "Consommation": 0.0077991547
+        },
+        "ingredients": {
+          "Eau de Vie": 0.040715486999999995,
+          "citron": 0.05474807499999999,
+          "Orange": 0.3565341,
+          "Vin rouge": 2.6734242,
+          "Sucre blanc": 0.26474387,
+          "Vin blanc": 0.62720243,
+          "Autres étapes": 0.9740904925810001
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 23.919643,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 9.0390117,
+          "Transformation": 1.8029666,
+          "Emballage": 10.642172,
+          "Transport": 2.3282317,
+          "Supermarché et distribution": 0.08277785,
+          "Consommation": 0.023721083
+        },
+        "ingredients": {
+          "Eau de Vie": 1.3315488,
+          "citron": 1.0960921,
+          "Orange": 6.3443942,
+          "Vin rouge": 5.9598671,
+          "Sucre blanc": 1.6046426,
+          "Vin blanc": 0.20430294,
+          "Autres étapes": 7.37879562092
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 74.888592,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 51.957834,
+          "Transformation": 4.5561447,
+          "Emballage": 14.006508,
+          "Transport": 3.2415036,
+          "Supermarché et distribution": 0.8750349,
+          "Consommation": 0.25081812
+        },
+        "ingredients": {
+          "Eau de Vie": 0.61733938,
+          "citron": 1.4911439,
+          "Orange": 3.9885387,
+          "Vin rouge": 45.008447,
+          "Sucre blanc": 1.2318831,
+          "Vin blanc": 10.309397,
+          "Autres étapes": 12.24184426225
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 3.4812183,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 3.1425034,
+          "Transformation": 0.063651502,
+          "Emballage": 0.19277632,
+          "Transport": 0.030069592,
+          "Supermarché et distribution": 0.042443419,
+          "Consommation": 0.0097571262
+        },
+        "ingredients": {
+          "Eau de Vie": 0.0076485318,
+          "citron": 0.56344155,
+          "Orange": 2.4493654,
+          "Vin rouge": 0.13026671,
+          "Sucre blanc": 0.1105214,
+          "Vin blanc": 0.016450515,
+          "Autres étapes": 0.2035242019
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 25.677606,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 2.2969369,
+          "Transformation": 3.5664596,
+          "Emballage": 10.948321,
+          "Transport": 4.35506,
+          "Supermarché et distribution": 3.5006774,
+          "Consommation": 1.0090332
+        },
+        "ingredients": {
+          "Eau de Vie": 0.72367076,
+          "citron": 0.19830969,
+          "Orange": 1.1474371,
+          "Vin rouge": 7.3058948,
+          "Sucre blanc": 0.28315221,
+          "Vin blanc": 0.80139865,
+          "Autres étapes": 15.21774296622
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 8.2071321,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 1.1686905,
+          "Transformation": 3.9035227,
+          "Emballage": 1.8245810999999998,
+          "Transport": 1.1192541999999999,
+          "Supermarché et distribution": 0.14815562,
+          "Consommation": 0.042713564
+        },
+        "ingredients": {
+          "Eau de Vie": 0.039336735000000005,
+          "citron": 0.070056093,
+          "Orange": 0.34073395,
+          "Vin rouge": 5.099939,
+          "Sucre blanc": 0.06565913899999999,
+          "Vin blanc": 0.22593718999999998,
+          "Autres étapes": 2.36546995404
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Kir (au vin blanc)",
+    "LCI_name": "Kir (Cocktail of white wine with red fruit liqueur)",
+    "ciqual_AGB": "1018",
+    "ciqual_code": "1018",
+    "groupe": "boissons",
+    "sous_groupe": "boisson alcoolisées",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "Verre",
+    "Livraison": "Glacé",
+    "Preparation": "Réfrigéré chez le consommateur",
+    "DQR": {
+      "overall": "2.97",
+      "P": "1.9",
+      "TiR": "3.97",
+      "GR": "2.32",
+      "TeR": "3.68"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.19662984,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0.098588468,
+          "Transformation": 0.011823822000000001,
+          "Emballage": 0.051649676000000005,
+          "Transport": 0.023321563,
+          "Supermarché et distribution": 0.0088128735,
+          "Consommation": 0.0024293397
+        },
+        "ingredients": {
+          "Groseille": 0.017334271,
+          "Sucre blanc": 0.0072777946,
+          "Vin blanc": 0.089332181,
+          "Autres étapes": 0.082685594
+        }
+      },
+      "Changement climatique": {
+        "synthese": 1.2370671,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.35840363,
+          "Transformation": 0.045248646,
+          "Emballage": 0.49690685,
+          "Transport": 0.30277589,
+          "Supermarché et distribution": 0.028932423,
+          "Consommation": 0.0047993021
+        },
+        "ingredients": {
+          "Groseille": 0.10596668,
+          "Sucre blanc": 0.034591973,
+          "Vin blanc": 0.30642349,
+          "Autres étapes": 0.790085
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.24416378,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.060470988999999996,
+          "Transformation": 0.017541229000000002,
+          "Emballage": 0.072623762,
+          "Transport": 0.074986914,
+          "Supermarché et distribution": 0.014391775,
+          "Consommation": 0.0041383883
+        },
+        "ingredients": {
+          "Groseille": 0.014157383,
+          "Sucre blanc": 0.0026904424,
+          "Vin blanc": 0.070913632,
+          "Autres étapes": 0.15640231999999998
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.4921817,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.037416466,
+          "Transformation": 0.16840554,
+          "Emballage": 0.053489378,
+          "Transport": 0.019489951,
+          "Supermarché et distribution": 0.16540805,
+          "Consommation": 0.047839148
+        },
+        "ingredients": {
+          "Groseille": 0.020901496,
+          "Sucre blanc": 0.0021898834,
+          "Vin blanc": 0.18620148,
+          "Autres étapes": 0.28288884
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 5.647061099999999,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 2.4010415999999997,
+          "Transformation": 0.13227835000000002,
+          "Emballage": 2.0425077000000003,
+          "Transport": 1.0072718,
+          "Supermarché et distribution": 0.04985858,
+          "Consommation": 0.014117292
+        },
+        "ingredients": {
+          "Groseille": 0.29720525999999997,
+          "Sucre blanc": 0.13158596,
+          "Vin blanc": 2.2463745999999998,
+          "Autres étapes": 2.9718953
+        }
+      },
+      "Particules": {
+        "synthese": 0.10816138,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0.026645128,
+          "Transformation": 0.0028630322000000002,
+          "Emballage": 0.061298028000000004,
+          "Transport": 0.015910758,
+          "Supermarché et distribution": 0.0011227005,
+          "Consommation": 0.0003222193
+        },
+        "ingredients": {
+          "Groseille": 0.0061957793,
+          "Sucre blanc": 0.0071387776,
+          "Vin blanc": 0.019026178999999997,
+          "Autres étapes": 0.075800647
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.010878217,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.004643326,
+          "Transformation": 0.00031020462,
+          "Emballage": 0.0046828017,
+          "Transport": 0.0010853594,
+          "Supermarché et distribution": 0.00012177022,
+          "Consommation": 0.000034793328
+        },
+        "ingredients": {
+          "Groseille": 0.00064125121,
+          "Sucre blanc": 0.0010328313,
+          "Vin blanc": 0.0034361934,
+          "Autres étapes": 0.005767941
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.03165755,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.019467395,
+          "Transformation": 0.00072017259,
+          "Emballage": 0.0078500547,
+          "Transport": 0.0033117048,
+          "Supermarché et distribution": 0.00023996011,
+          "Consommation": 0.000068499657
+        },
+        "ingredients": {
+          "Groseille": 0.0020479237,
+          "Sucre blanc": 0.0043841017,
+          "Vin blanc": 0.014191239,
+          "Autres étapes": 0.011034286
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.32596302,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.17214848000000002,
+          "Transformation": 0.01838778,
+          "Emballage": 0.095903725,
+          "Transport": 0.025445488,
+          "Supermarché et distribution": 0.010940642,
+          "Consommation": 0.0031349554
+        },
+        "ingredients": {
+          "Groseille": 0.057888225,
+          "Sucre blanc": 0.010382104,
+          "Vin blanc": 0.12638874,
+          "Autres étapes": 0.13130395
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 7.0359285,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 5.9572825,
+          "Transformation": 0.065259951,
+          "Emballage": 0.6752250599999999,
+          "Transport": 0.30294426,
+          "Supermarché et distribution": 0.027417063000000002,
+          "Consommation": 0.0077991547
+        },
+        "ingredients": {
+          "Groseille": 0.29018415000000003,
+          "Sucre blanc": 0.32632349,
+          "Vin blanc": 5.445371499999999,
+          "Autres étapes": 0.9740493100000001
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 9.2736524,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 0.72837604,
+          "Transformation": 0.71545288,
+          "Emballage": 5.50476,
+          "Transport": 2.2190292,
+          "Supermarché et distribution": 0.08277785,
+          "Consommation": 0.023721083
+        },
+        "ingredients": {
+          "Groseille": -1.8566181,
+          "Sucre blanc": 1.9778837,
+          "Vin blanc": 1.7737581,
+          "Autres étapes": 7.3786287
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 107.46661,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 92.92714,
+          "Transformation": 1.8192367,
+          "Emballage": 8.5288162,
+          "Transport": 3.065781,
+          "Supermarché et distribution": 0.8750349,
+          "Consommation": 0.25081812
+        },
+        "ingredients": {
+          "Groseille": 4.2008166,
+          "Sucre blanc": 1.51842,
+          "Vin blanc": 89.506181,
+          "Autres étapes": 12.241197
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 0.8731653,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 0.5745283,
+          "Transformation": 0.094764542,
+          "Emballage": 0.12327471,
+          "Transport": 0.028368755,
+          "Supermarché et distribution": 0.042443419,
+          "Consommation": 0.0097571262
+        },
+        "ingredients": {
+          "Groseille": 0.39493496,
+          "Sucre blanc": 0.13622876,
+          "Vin blanc": 0.14282337,
+          "Autres étapes": 0.1991782
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 24.616007,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 4.8509764,
+          "Transformation": 3.8875937,
+          "Emballage": 7.2666296,
+          "Transport": 4.0984013,
+          "Supermarché et distribution": 3.5006774,
+          "Consommation": 1.0090332
+        },
+        "ingredients": {
+          "Groseille": 2.0921286,
+          "Sucre blanc": 0.34901362,
+          "Vin blanc": 6.957743,
+          "Autres étapes": 15.217122
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 6.7132016000000005,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 3.8433672999999997,
+          "Transformation": 0.37355591,
+          "Emballage": 1.2145978,
+          "Transport": 1.0915227,
+          "Supermarché et distribution": 0.14815562,
+          "Consommation": 0.042713564
+        },
+        "ingredients": {
+          "Groseille": 2.3053185,
+          "Sucre blanc": 0.080931503,
+          "Vin blanc": 1.9615867,
+          "Autres étapes": 2.3653649
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Kir royal (au champagne)",
+    "LCI_name": "Champagne kir (Cocktail of champagne with red fruit liqueur)",
+    "ciqual_AGB": "1019",
+    "ciqual_code": "1019",
+    "groupe": "boissons",
+    "sous_groupe": "boisson alcoolisées",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "Verre",
+    "Livraison": "Glacé",
+    "Preparation": "Réfrigéré chez le consommateur",
+    "DQR": {
+      "overall": "2.97",
+      "P": "1.9",
+      "TiR": "3.97",
+      "GR": "2.32",
+      "TeR": "3.68"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.19818055,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0.10023181,
+          "Transformation": 0.011757507,
+          "Emballage": 0.051649676000000005,
+          "Transport": 0.023295346999999998,
+          "Supermarché et distribution": 0.0088128735,
+          "Consommation": 0.0024293397
+        },
+        "ingredients": {
+          "Groseille": 0.019903138,
+          "Sucre blanc": 0.0083483766,
+          "Vin blanc": 0.087243442,
+          "Autres étapes": 0.082685594
+        }
+      },
+      "Changement climatique": {
+        "synthese": 1.2506948,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.3710329,
+          "Transformation": 0.046607905,
+          "Emballage": 0.49690685,
+          "Transport": 0.30241506,
+          "Supermarché et distribution": 0.028932423,
+          "Consommation": 0.0047993021
+        },
+        "ingredients": {
+          "Groseille": 0.1216705,
+          "Sucre blanc": 0.03968054,
+          "Vin blanc": 0.29925878,
+          "Autres étapes": 0.790085
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.24499953000000002,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.061631728,
+          "Transformation": 0.017314577,
+          "Emballage": 0.072623762,
+          "Transport": 0.074888833,
+          "Supermarché et distribution": 0.014391775,
+          "Consommation": 0.0041383883
+        },
+        "ingredients": {
+          "Groseille": 0.016255448999999998,
+          "Sucre blanc": 0.0030862133,
+          "Vin blanc": 0.06925555,
+          "Autres étapes": 0.15640231999999998
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.49124764,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.040232915,
+          "Transformation": 0.16468808,
+          "Emballage": 0.053489378,
+          "Transport": 0.019460021,
+          "Supermarché et distribution": 0.16540805,
+          "Consommation": 0.047839148
+        },
+        "ingredients": {
+          "Groseille": 0.023999012,
+          "Sucre blanc": 0.0025120208,
+          "Vin blanc": 0.18184777,
+          "Autres étapes": 0.28288884
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 5.657938199999999,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 2.409586,
+          "Transformation": 0.13519351,
+          "Emballage": 2.0425077000000003,
+          "Transport": 1.0066891,
+          "Supermarché et distribution": 0.04985858,
+          "Consommation": 0.014117292
+        },
+        "ingredients": {
+          "Groseille": 0.34124984999999997,
+          "Sucre blanc": 0.15094259,
+          "Vin blanc": 2.1938505,
+          "Autres étapes": 2.9718953
+        }
+      },
+      "Particules": {
+        "synthese": 0.10968483999999999,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0.028164459,
+          "Transformation": 0.0028950647,
+          "Emballage": 0.061298028000000004,
+          "Transport": 0.015882839,
+          "Supermarché et distribution": 0.0011227005,
+          "Consommation": 0.0003222193
+        },
+        "ingredients": {
+          "Groseille": 0.0071139682,
+          "Sucre blanc": 0.008188909800000001,
+          "Vin blanc": 0.018581314,
+          "Autres étapes": 0.075800647
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.011044836,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.0048039683,
+          "Transformation": 0.00031692165,
+          "Emballage": 0.0046828017,
+          "Transport": 0.0010846181,
+          "Supermarché et distribution": 0.00012177022,
+          "Consommation": 0.000034793328
+        },
+        "ingredients": {
+          "Groseille": 0.00073628199,
+          "Sucre blanc": 0.0011847634,
+          "Vin blanc": 0.0033558493,
+          "Autres étapes": 0.005767941
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.032274141,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.020062784,
+          "Transformation": 0.00074303352,
+          "Emballage": 0.0078500547,
+          "Transport": 0.0033100405,
+          "Supermarché et distribution": 0.00023996011,
+          "Consommation": 0.000068499657
+        },
+        "ingredients": {
+          "Groseille": 0.0023514175,
+          "Sucre blanc": 0.0050290141,
+          "Vin blanc": 0.013859423,
+          "Autres étapes": 0.011034286
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.33311386,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.17876040999999998,
+          "Transformation": 0.018925247000000003,
+          "Emballage": 0.095903725,
+          "Transport": 0.025446987,
+          "Supermarché et distribution": 0.010940642,
+          "Consommation": 0.0031349554
+        },
+        "ingredients": {
+          "Groseille": 0.066467022,
+          "Sucre blanc": 0.011909338,
+          "Vin blanc": 0.12343356000000001,
+          "Autres étapes": 0.13130395
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 6.9996135,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 5.918651199999999,
+          "Transformation": 0.067720112,
+          "Emballage": 0.6752250599999999,
+          "Transport": 0.30280045,
+          "Supermarché et distribution": 0.027417063000000002,
+          "Consommation": 0.0077991547
+        },
+        "ingredients": {
+          "Groseille": 0.33318824,
+          "Sucre blanc": 0.37432649999999995,
+          "Vin blanc": 5.3180494000000005,
+          "Autres étapes": 0.9740493100000001
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 9.2479875,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 0.71720534,
+          "Transformation": 0.7041763,
+          "Emballage": 5.50476,
+          "Transport": 2.2158007,
+          "Supermarché et distribution": 0.08277785,
+          "Consommation": 0.023721083
+        },
+        "ingredients": {
+          "Groseille": -2.1317612,
+          "Sucre blanc": 2.2688353,
+          "Vin blanc": 1.7322846,
+          "Autres étapes": 7.3786287
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 106.21971,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 91.651982,
+          "Transformation": 1.8501026,
+          "Emballage": 8.5288162,
+          "Transport": 3.0631685,
+          "Supermarché et distribution": 0.8750349,
+          "Consommation": 0.25081812
+        },
+        "ingredients": {
+          "Groseille": 4.8233603,
+          "Sucre blanc": 1.7417834,
+          "Vin blanc": 87.413374,
+          "Autres étapes": 12.241197
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 0.94839318,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 0.65262462,
+          "Transformation": 0.091927926,
+          "Emballage": 0.12327471,
+          "Transport": 0.02833759,
+          "Supermarché et distribution": 0.042443419,
+          "Consommation": 0.0097571262
+        },
+        "ingredients": {
+          "Groseille": 0.45346269,
+          "Sucre blanc": 0.15626836,
+          "Vin blanc": 0.13948392,
+          "Autres étapes": 0.1991782
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 24.814709,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 5.1145763,
+          "Transformation": 3.8287146,
+          "Emballage": 7.2666296,
+          "Transport": 4.0924452,
+          "Supermarché et distribution": 3.5006774,
+          "Consommation": 1.0090332
+        },
+        "ingredients": {
+          "Groseille": 2.4021735,
+          "Sucre blanc": 0.40035441,
+          "Vin blanc": 6.7950591,
+          "Autres étapes": 15.217122
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 7.0208803,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 4.1584658999999995,
+          "Transformation": 0.3666955,
+          "Emballage": 1.2145978,
+          "Transport": 1.0909466,
+          "Supermarché et distribution": 0.14815562,
+          "Consommation": 0.042713564
+        },
+        "ingredients": {
+          "Groseille": 2.6469572,
+          "Sucre blanc": 0.092836731,
+          "Vin blanc": 1.9157213999999998,
+          "Autres étapes": 2.3653649
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Crème de cassis",
+    "LCI_name": "Blackcurrant liqueur",
+    "ciqual_AGB": "1021",
+    "ciqual_code": "1021",
+    "groupe": "boissons",
+    "sous_groupe": "boisson alcoolisées",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "Verre",
+    "Livraison": "Ambiant (moyenne)",
+    "Preparation": "Réfrigéré chez le consommateur",
+    "DQR": {
+      "overall": "2.97",
+      "P": "1.9",
+      "TiR": "3.97",
+      "GR": "2.32",
+      "TeR": "3.68"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.22575608,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0.14253437,
+          "Transformation": 0.010265063999999999,
+          "Emballage": 0.051649676000000005,
+          "Transport": 0.014456493,
+          "Supermarché et distribution": 0.0044194823,
+          "Consommation": 0.0024293397
+        },
+        "ingredients": {
+          "Groseille": 0.084214177,
+          "Sucre blanc": 0.035361646999999996,
+          "Vin blanc": 0.036115636,
+          "Autres étapes": 0.07006462000000001
+        }
+      },
+      "Changement climatique": {
+        "synthese": 1.4700535,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.69087418,
+          "Transformation": 0.081414646,
+          "Emballage": 0.49690685,
+          "Transport": 0.18369387,
+          "Supermarché et distribution": 0.012364537,
+          "Consommation": 0.0047993021
+        },
+        "ingredients": {
+          "Groseille": 0.51481234,
+          "Sucre blanc": 0.1680769,
+          "Vin blanc": 0.12388234,
+          "Autres étapes": 0.66328197
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.22880898,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.091328659,
+          "Transformation": 0.011882489000000001,
+          "Emballage": 0.072623762,
+          "Transport": 0.041585656000000006,
+          "Supermarché et distribution": 0.0072456904,
+          "Consommation": 0.0041383883
+        },
+        "ingredients": {
+          "Groseille": 0.068780069,
+          "Sucre blanc": 0.013072432,
+          "Vin blanc": 0.028669298,
+          "Autres étapes": 0.11828717999999999
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.37866127,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.11097483,
+          "Transformation": 0.07383444,
+          "Emballage": 0.053489378,
+          "Transport": 0.013680463,
+          "Supermarché et distribution": 0.078789182,
+          "Consommation": 0.047839148
+        },
+        "ingredients": {
+          "Groseille": 0.10154464,
+          "Sucre blanc": 0.010640295,
+          "Vin blanc": 0.075278414,
+          "Autres étapes": 0.19119792
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 5.426106,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 2.6525555,
+          "Transformation": 0.21029238,
+          "Emballage": 2.0425077000000003,
+          "Transport": 0.47858048000000003,
+          "Supermarché et distribution": 0.028058467,
+          "Consommation": 0.014117292
+        },
+        "ingredients": {
+          "Groseille": 1.4438967,
+          "Sucre blanc": 0.6393552800000001,
+          "Vin blanc": 0.90817494,
+          "Autres étapes": 2.4346792
+        }
+      },
+      "Particules": {
+        "synthese": 0.14422259,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0.066578526,
+          "Transformation": 0.0037384858000000004,
+          "Emballage": 0.061298028000000004,
+          "Transport": 0.011722614,
+          "Supermarché et distribution": 0.00056291189,
+          "Consommation": 0.0003222193
+        },
+        "ingredients": {
+          "Groseille": 0.030100628999999997,
+          "Sucre blanc": 0.034686185,
+          "Vin blanc": 0.0076919935,
+          "Autres étapes": 0.071743783
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.014735141,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.0088937397,
+          "Transformation": 0.00048964594,
+          "Emballage": 0.0046828017,
+          "Transport": 0.00057063149,
+          "Supermarché et distribution": 0.00006354403,
+          "Consommation": 0.000034793328
+        },
+        "ingredients": {
+          "Groseille": 0.003115357,
+          "Sucre blanc": 0.0050183633,
+          "Vin blanc": 0.0013892005,
+          "Autres étapes": 0.0052122198
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.045957626,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.035264827,
+          "Transformation": 0.0013250517,
+          "Emballage": 0.0078500547,
+          "Transport": 0.001323492,
+          "Supermarché et distribution": 0.00012579701,
+          "Consommation": 0.000068499657
+        },
+        "ingredients": {
+          "Groseille": 0.00994932,
+          "Sucre blanc": 0.021301653,
+          "Vin blanc": 0.0057373011,
+          "Autres étapes": 0.008969352
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.49946748999999996,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.34586553,
+          "Transformation": 0.032695809,
+          "Emballage": 0.095903725,
+          "Transport": 0.016364559,
+          "Supermarché et distribution": 0.0055021285999999996,
+          "Consommation": 0.0031349554
+        },
+        "ingredients": {
+          "Groseille": 0.28123531999999996,
+          "Sucre blanc": 0.050444994,
+          "Vin blanc": 0.051097038,
+          "Autres étapes": 0.11669014000000001
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 5.9771886,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 5.0302438,
+          "Transformation": 0.13045268,
+          "Emballage": 0.6752250599999999,
+          "Transport": 0.11933709,
+          "Supermarché et distribution": 0.014130594,
+          "Consommation": 0.0077991547
+        },
+        "ingredients": {
+          "Groseille": 1.4097864,
+          "Sucre blanc": 1.5855540000000001,
+          "Vin blanc": 2.2014805,
+          "Autres étapes": 0.78036769
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 8.4346452,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 0.50274389,
+          "Transformation": 0.43149803,
+          "Emballage": 5.50476,
+          "Transport": 1.9299977,
+          "Supermarché et distribution": 0.04211235,
+          "Consommation": 0.023721083
+        },
+        "ingredients": {
+          "Groseille": -9.0199099,
+          "Sucre blanc": 9.6102222,
+          "Vin blanc": 0.71710332,
+          "Autres étapes": 7.1272295
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 74.806085,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 60.904732,
+          "Transformation": 2.6502732,
+          "Emballage": 8.5288162,
+          "Transport": 2.0312883,
+          "Supermarché et distribution": 0.44024315,
+          "Consommation": 0.25081812
+        },
+        "ingredients": {
+          "Groseille": 20.408606,
+          "Sucre blanc": 7.3777612,
+          "Vin blanc": 36.185982,
+          "Autres étapes": 10.833736
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 2.826975,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 2.6123381,
+          "Transformation": 0.022083352,
+          "Emballage": 0.12327471,
+          "Transport": 0.019520959,
+          "Supermarché et distribution": 0.039989272,
+          "Consommation": 0.0097571262
+        },
+        "ingredients": {
+          "Groseille": 1.9186918,
+          "Sucre blanc": 0.66191391,
+          "Vin blanc": 0.057741309,
+          "Autres étapes": 0.18862803
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 26.950579,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 11.752849,
+          "Transformation": 2.4080402,
+          "Emballage": 7.2666296,
+          "Transport": 2.7900351,
+          "Supermarché et distribution": 1.7229013,
+          "Consommation": 1.0090332
+        },
+        "ingredients": {
+          "Groseille": 10.164079,
+          "Sucre blanc": 1.6958017,
+          "Vin blanc": 2.8129092,
+          "Autres étapes": 12.277789
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 14.167290999999999,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 12.068064999999999,
+          "Transformation": 0.19996028999999998,
+          "Emballage": 1.2145978,
+          "Transport": 0.56998933,
+          "Supermarché et distribution": 0.07225273,
+          "Consommation": 0.042713564
+        },
+        "ingredients": {
+          "Groseille": 11.199807999999999,
+          "Sucre blanc": 0.3932333,
+          "Vin blanc": 0.79303953,
+          "Autres étapes": 1.7812107000000001
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Cocktail type punch, 16% alcool",
+    "LCI_name": "Cocktail, punch type, 16% alcohol",
+    "ciqual_AGB": "1022",
+    "ciqual_code": "1022",
+    "groupe": "boissons",
+    "sous_groupe": "boisson alcoolisées",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "Verre",
+    "Livraison": "Glacé",
+    "Preparation": "Réfrigéré chez le consommateur",
+    "DQR": {
+      "overall": "2.61",
+      "P": "1.88",
+      "TiR": "2.78",
+      "GR": "3.32",
+      "TeR": "2.47"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.13882653,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0.037124067999999996,
+          "Transformation": 0.016946931,
+          "Emballage": 0.051649676000000005,
+          "Transport": 0.02186367,
+          "Supermarché et distribution": 0.0088128735,
+          "Consommation": 0.0024293397
+        },
+        "ingredients": {
+          "Eau de Vie": 0.015255853,
+          "Cassonade": 0.018898283,
+          "Jus de citron": 0.017141414,
+          "Sucre blanc": 0.0046608165,
+          "Autres étapes": 0.08287016736
+        }
+      },
+      "Changement climatique": {
+        "synthese": 1.0772954,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.11302117,
+          "Transformation": 0.15051499,
+          "Emballage": 0.49690685,
+          "Transport": 0.28317968,
+          "Supermarché et distribution": 0.028932423,
+          "Consommation": 0.0047993021
+        },
+        "ingredients": {
+          "Eau de Vie": 0.14207219,
+          "Cassonade": 0.068629724,
+          "Jus de citron": 0.054171037,
+          "Sucre blanc": 0.022153255,
+          "Autres étapes": 0.79026918958
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.1864135,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.0062548843,
+          "Transformation": 0.018568613,
+          "Emballage": 0.072623762,
+          "Transport": 0.070445465,
+          "Supermarché et distribution": 0.014391775,
+          "Consommation": 0.0041383883
+        },
+        "ingredients": {
+          "Eau de Vie": 0.018658933,
+          "Cassonade": 0.0026756553,
+          "Jus de citron": 0.006937835799999999,
+          "Sucre blanc": 0.0017230025,
+          "Autres étapes": 0.156418074364
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.33099694,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.0049754172,
+          "Transformation": 0.041259297,
+          "Emballage": 0.053489378,
+          "Transport": 0.018025712,
+          "Supermarché et distribution": 0.16540805,
+          "Consommation": 0.047839148
+        },
+        "ingredients": {
+          "Eau de Vie": 0.036657635,
+          "Cassonade": 0.0019601089,
+          "Jus de citron": 0.0080222874,
+          "Sucre blanc": 0.0014024365,
+          "Autres étapes": 0.28295447457399997
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 5.3048474,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.46874525,
+          "Transformation": 1.7490701,
+          "Emballage": 2.0425077000000003,
+          "Transport": 0.9804929799999998,
+          "Supermarché et distribution": 0.04985858,
+          "Consommation": 0.014117292
+        },
+        "ingredients": {
+          "Eau de Vie": 1.7176987,
+          "Cassonade": 0.23459506,
+          "Jus de citron": 0.29576354,
+          "Sucre blanc": 0.084269763,
+          "Autres étapes": 2.9725204229799997
+        }
+      },
+      "Particules": {
+        "synthese": 0.12283757999999999,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0.024832754999999998,
+          "Transformation": 0.020823714,
+          "Emballage": 0.061298028000000004,
+          "Transport": 0.014425856,
+          "Supermarché et distribution": 0.0011227005,
+          "Consommation": 0.0003222193
+        },
+        "ingredients": {
+          "Eau de Vie": 0.020128216,
+          "Cassonade": 0.016695383,
+          "Jus de citron": 0.005631223800000001,
+          "Sucre blanc": 0.0045717877,
+          "Autres étapes": 0.075810970538
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.0087492595,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.0020612991,
+          "Transformation": 0.00075031702,
+          "Emballage": 0.0046828017,
+          "Transport": 0.0010982528,
+          "Supermarché et distribution": 0.00012177022,
+          "Consommation": 0.000034793328
+        },
+        "ingredients": {
+          "Eau de Vie": 0.00059487684,
+          "Cassonade": 0.00088247133,
+          "Jus de citron": 0.00084123577,
+          "Sucre blanc": 0.00066144177,
+          "Autres étapes": 0.0057692337962
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.022322289,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.0085846543,
+          "Transformation": 0.0023178469,
+          "Emballage": 0.0078500547,
+          "Transport": 0.0032611623,
+          "Supermarché et distribution": 0.00023996011,
+          "Consommation": 0.000068499657
+        },
+        "ingredients": {
+          "Eau de Vie": 0.0016912408,
+          "Cassonade": 0.0036249556,
+          "Jus de citron": 0.003161287,
+          "Sucre blanc": 0.0028076491,
+          "Autres étapes": 0.0110371563371
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.1835578,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.028885564000000002,
+          "Transformation": 0.020898872000000002,
+          "Emballage": 0.095903725,
+          "Transport": 0.023790201,
+          "Supermarché et distribution": 0.010940642,
+          "Consommation": 0.0031349554
+        },
+        "ingredients": {
+          "Eau de Vie": 0.015135966,
+          "Cassonade": 0.015359157,
+          "Jus de citron": 0.014967671,
+          "Sucre blanc": 0.0066488662,
+          "Autres étapes": 0.13144614288
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 1.8653665,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.70818189,
+          "Transformation": 0.14860205,
+          "Emballage": 0.6752250599999999,
+          "Transport": 0.29811761,
+          "Supermarché et distribution": 0.027417063000000002,
+          "Consommation": 0.0077991547
+        },
+        "ingredients": {
+          "Eau de Vie": 0.12501130000000002,
+          "Cassonade": 0.3680327,
+          "Jus de citron": 0.18908075000000002,
+          "Sucre blanc": 0.2089828,
+          "Autres étapes": 0.97425892934
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 21.461518,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 9.8069845,
+          "Transformation": 4.058769,
+          "Emballage": 5.50476,
+          "Transport": 1.9820342,
+          "Supermarché et distribution": 0.08277785,
+          "Consommation": 0.023721083
+        },
+        "ingredients": {
+          "Eau de Vie": 4.0883373,
+          "Cassonade": 5.4472031,
+          "Jus de citron": 3.2798312,
+          "Sucre blanc": 1.2666684,
+          "Autres étapes": 7.37947832747
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 22.737365,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 7.5629496,
+          "Transformation": 2.6738239,
+          "Emballage": 8.5288162,
+          "Transport": 2.8451533,
+          "Supermarché et distribution": 0.8750349,
+          "Consommation": 0.25081812
+        },
+        "ingredients": {
+          "Eau de Vie": 1.8954557,
+          "Cassonade": 5.3025981,
+          "Jus de citron": 2.3223995,
+          "Sucre blanc": 0.97242051,
+          "Autres étapes": 12.244491564899999
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 2.2597841,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 1.9965543,
+          "Transformation": 0.061539773,
+          "Emballage": 0.12327471,
+          "Transport": 0.026208081,
+          "Supermarché et distribution": 0.042443419,
+          "Consommation": 0.0097571262
+        },
+        "ingredients": {
+          "Eau de Vie": 0.023483765,
+          "Cassonade": 0.6484877,
+          "Jus de citron": 1.2792702,
+          "Sucre blanc": 0.087243087,
+          "Autres étapes": 0.22129935
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 18.738926,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 0.80134421,
+          "Transformation": 2.3653533,
+          "Emballage": 7.2666296,
+          "Transport": 3.7968941,
+          "Supermarché et distribution": 3.5006774,
+          "Consommation": 1.0090332
+        },
+        "ingredients": {
+          "Eau de Vie": 2.2219315,
+          "Cassonade": 0.37085835,
+          "Jus de citron": 0.70233928,
+          "Sucre blanc": 0.22351392,
+          "Autres étapes": 15.2202827181
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 2.8589468,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0.31963695000000003,
+          "Transformation": 0.11257275,
+          "Emballage": 1.2145978,
+          "Transport": 1.0212392,
+          "Supermarché et distribution": 0.14815562,
+          "Consommation": 0.042713564
+        },
+        "ingredients": {
+          "Eau de Vie": 0.12077803,
+          "Cassonade": 0.13999473,
+          "Jus de citron": 0.18044455,
+          "Sucre blanc": 0.051829833,
+          "Autres étapes": 2.36589962505
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Eau de vie de vin, type armagnac, cognac",
+    "LCI_name": "Spirit made from wine, armagnac or cognac type",
+    "ciqual_AGB": "1023",
+    "ciqual_code": "1023",
+    "groupe": "boissons",
+    "sous_groupe": "boisson alcoolisées",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "Verre",
+    "Livraison": "Ambiant (moyenne)",
+    "Preparation": "Réfrigéré chez le consommateur",
+    "DQR": {
+      "overall": "3.29",
+      "P": "2.49",
+      "TiR": "2.73",
+      "GR": "4.41",
+      "TeR": "3.54"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.12296672000000002,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.050783404000000004,
+          "Emballage": 0.051649676000000005,
+          "Transport": 0.01375452,
+          "Supermarché et distribution": 0.0043498741,
+          "Consommation": 0.0024293397
+        }
+      },
+      "Changement climatique": {
+        "synthese": 1.1563936,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.4658128,
+          "Emballage": 0.49690685,
+          "Transport": 0.17690961,
+          "Supermarché et distribution": 0.012169911,
+          "Consommation": 0.0047993021
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.18296104000000002,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.058563635,
+          "Emballage": 0.072623762,
+          "Transport": 0.040536261,
+          "Supermarché et distribution": 0.0071315905,
+          "Consommation": 0.0041383883
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.31724061,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.12508201,
+          "Emballage": 0.053489378,
+          "Transport": 0.013281877,
+          "Supermarché et distribution": 0.077548414,
+          "Consommation": 0.047839148
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 8.398469299999999,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 5.8903899,
+          "Emballage": 2.0425077000000003,
+          "Transport": 0.42364452,
+          "Supermarché et distribution": 0.027617012,
+          "Consommation": 0.014117292
+        }
+      },
+      "Particules": {
+        "synthese": 0.14162457,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.068069619,
+          "Emballage": 0.061298028000000004,
+          "Transport": 0.011337907000000001,
+          "Supermarché et distribution": 0.00055405748,
+          "Consommation": 0.0003222193
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.0072767646,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.0019775257,
+          "Emballage": 0.0046828017,
+          "Transport": 0.00051901142,
+          "Supermarché et distribution": 0.00006254419,
+          "Consommation": 0.000034793328
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.014839737,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.0056624946,
+          "Emballage": 0.0078500547,
+          "Transport": 0.0011344856,
+          "Supermarché et distribution": 0.00012381817,
+          "Consommation": 0.000068499657
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.16915911,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.049883325,
+          "Emballage": 0.095903725,
+          "Transport": 0.014808111,
+          "Supermarché et distribution": 0.0054156638,
+          "Consommation": 0.0031349554
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 1.2142155,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.41523097999999997,
+          "Emballage": 0.6752250599999999,
+          "Transport": 0.10196678999999999,
+          "Supermarché et distribution": 0.01391134,
+          "Consommation": 0.0077991547
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 21.322182,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 13.898953,
+          "Emballage": 5.50476,
+          "Transport": 1.8447158,
+          "Supermarché et distribution": 0.041449587,
+          "Consommation": 0.023721083
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 17.408287,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 6.275886,
+          "Emballage": 8.5288162,
+          "Transport": 1.9167451,
+          "Supermarché et distribution": 0.43335116,
+          "Consommation": 0.25081812
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 0.26953301,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.078515905,
+          "Emballage": 0.12327471,
+          "Transport": 0.018608459,
+          "Supermarché et distribution": 0.039353404,
+          "Consommation": 0.0097571262
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 19.965698,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 7.2959482,
+          "Emballage": 7.2666296,
+          "Transport": 2.7018105,
+          "Supermarché et distribution": 1.6957699,
+          "Consommation": 1.0090332
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 2.1994413,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.33740524,
+          "Emballage": 1.2145978,
+          "Transport": 0.5335022700000001,
+          "Supermarché et distribution": 0.071115187,
+          "Consommation": 0.042713564
+        }
+      }
+    }
+  },
+  {
+    "nom_francais": "Saké ou Alcool de riz",
+    "LCI_name": "Sake or rice wine",
+    "ciqual_AGB": "1026",
+    "ciqual_code": "1026",
+    "groupe": "boissons",
+    "sous_groupe": "boisson alcoolisées",
+    "saison": "mix de consommation FR",
+    "avion": false,
+    "materiau_emballage": "Verre",
+    "Livraison": "Ambiant (moyenne)",
+    "Preparation": "Réfrigéré chez le consommateur",
+    "DQR": {
+      "overall": "3.29",
+      "P": "2.49",
+      "TiR": "2.73",
+      "GR": "4.41",
+      "TeR": "3.54"
+    },
+    "impact_environnemental": {
+      "Score unique EF": {
+        "synthese": 0.12296672000000002,
+        "unite": "mPt/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.050783404000000004,
+          "Emballage": 0.051649676000000005,
+          "Transport": 0.01375452,
+          "Supermarché et distribution": 0.0043498741,
+          "Consommation": 0.0024293397
+        }
+      },
+      "Changement climatique": {
+        "synthese": 1.1563936,
+        "unite": "kg CO2 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.4658128,
+          "Emballage": 0.49690685,
+          "Transport": 0.17690961,
+          "Supermarché et distribution": 0.012169911,
+          "Consommation": 0.0047993021
+        }
+      },
+      "Appauvrissement de la couche d'ozone": {
+        "synthese": 0.18296104000000002,
+        "unite": "E-06 kg CVC11 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.058563635,
+          "Emballage": 0.072623762,
+          "Transport": 0.040536261,
+          "Supermarché et distribution": 0.0071315905,
+          "Consommation": 0.0041383883
+        }
+      },
+      "Rayonnements ionisants": {
+        "synthese": 0.31724061,
+        "unite": "kBq U-235 eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.12508201,
+          "Emballage": 0.053489378,
+          "Transport": 0.013281877,
+          "Supermarché et distribution": 0.077548414,
+          "Consommation": 0.047839148
+        }
+      },
+      "Formation photochimique d'ozone": {
+        "synthese": 8.398469299999999,
+        "unite": "E-03 kg NMVOC eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 5.8903899,
+          "Emballage": 2.0425077000000003,
+          "Transport": 0.42364452,
+          "Supermarché et distribution": 0.027617012,
+          "Consommation": 0.014117292
+        }
+      },
+      "Particules": {
+        "synthese": 0.14162457,
+        "unite": "E-06 disease inc./kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.068069619,
+          "Emballage": 0.061298028000000004,
+          "Transport": 0.011337907000000001,
+          "Supermarché et distribution": 0.00055405748,
+          "Consommation": 0.0003222193
+        }
+      },
+      "Acidification terrestre et eaux douces": {
+        "synthese": 0.0072767646,
+        "unite": "mol H+ eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.0019775257,
+          "Emballage": 0.0046828017,
+          "Transport": 0.00051901142,
+          "Supermarché et distribution": 0.00006254419,
+          "Consommation": 0.000034793328
+        }
+      },
+      "Eutrophisation terreste": {
+        "synthese": 0.014839737,
+        "unite": "mol N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.0056624946,
+          "Emballage": 0.0078500547,
+          "Transport": 0.0011344856,
+          "Supermarché et distribution": 0.00012381817,
+          "Consommation": 0.000068499657
+        }
+      },
+      "Eutrophisation eaux douces": {
+        "synthese": 0.16915911,
+        "unite": "E-03 kg P eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.049883325,
+          "Emballage": 0.095903725,
+          "Transport": 0.014808111,
+          "Supermarché et distribution": 0.0054156638,
+          "Consommation": 0.0031349554
+        }
+      },
+      "Eutrophisation marine": {
+        "synthese": 1.2142155,
+        "unite": "E-03 kg N eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.41523097999999997,
+          "Emballage": 0.6752250599999999,
+          "Transport": 0.10196678999999999,
+          "Supermarché et distribution": 0.01391134,
+          "Consommation": 0.0077991547
+        }
+      },
+      "Utilisation du sol": {
+        "synthese": 21.322182,
+        "unite": "Pt/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 13.898953,
+          "Emballage": 5.50476,
+          "Transport": 1.8447158,
+          "Supermarché et distribution": 0.041449587,
+          "Consommation": 0.023721083
+        }
+      },
+      "Écotoxicité pour écosystèmes aquatiques d'eau douce": {
+        "synthese": 17.408287,
+        "unite": "CTUe/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 6.275886,
+          "Emballage": 8.5288162,
+          "Transport": 1.9167451,
+          "Supermarché et distribution": 0.43335116,
+          "Consommation": 0.25081812
+        }
+      },
+      "Épuisement des ressources eau": {
+        "synthese": 0.26953301,
+        "unite": "m3 depriv./kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.078515905,
+          "Emballage": 0.12327471,
+          "Transport": 0.018608459,
+          "Supermarché et distribution": 0.039353404,
+          "Consommation": 0.0097571262
+        }
+      },
+      "Épuisement des ressources énergétiques": {
+        "synthese": 19.965698,
+        "unite": "MJ/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 7.2959482,
+          "Emballage": 7.2666296,
+          "Transport": 2.7018105,
+          "Supermarché et distribution": 1.6957699,
+          "Consommation": 1.0090332
+        }
+      },
+      "Épuisement des ressources minéraux": {
+        "synthese": 2.1994413,
+        "unite": "E-06 kg Sb eq/kg de produit",
+        "etapes": {
+          "Agriculture": 0,
+          "Transformation": 0.33740524,
+          "Emballage": 1.2145978,
+          "Transport": 0.5335022700000001,
+          "Supermarché et distribution": 0.071115187,
+          "Consommation": 0.042713564
+        }
+      }
+    }
+  }
+]
