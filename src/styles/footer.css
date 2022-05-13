@@ -7,9 +7,11 @@
 footer {
   display: flex;
   justify-content: center;
-  bottom: 0;
   font-size: 8px;
   background-image: url("../assets/feuille.jpg");
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
 
 .footerText {
