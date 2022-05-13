@@ -39,7 +39,7 @@
   margin-left: auto;
   margin-right: auto;
 }
-.food-added img{
+.food-added img {
   height: 3rem;
   width: 4rem;
   margin-left: auto;
@@ -103,7 +103,7 @@
   color: white;
   display: flex;
   flex-wrap: wrap;
-} 
+}
 
 .aperitifContent {
   margin: 20px;
@@ -117,7 +117,7 @@
 }
 
 .gifBeer {
-  width: 30%;
+  width: 40%;
   display: block;
   margin: 0 auto;
 }
