@@ -3,7 +3,9 @@ import React from "react";
 import "../styles/NavBar.css";
 
 const getActiveLinkStyle = ({ isActive }) => ({
-  color: isActive ? "orange" : "white",
+  textDecoration: isActive ? "underline" : "none",
+  color: isActive ? "white" : "white",
+  fontWeight: isActive ? "bold" : "initial",
 });
 
 export default function NavBar() {
