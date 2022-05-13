@@ -86,7 +86,7 @@ function Calculateur() {
               onChange={(e) => pickOneDrink(e.target.value)}
             >
               <option key={""} value={""}>
-                -- Boissons --
+                -- Boissons -- (portion : pour 50 cl environ)
               </option>
               {bieres.map((bot) => (
                 <option key={bot.ciqual_AGB} value={bot.nom_francais}>
@@ -122,7 +122,7 @@ function Calculateur() {
               onChange={(e) => pickOneFood(e.target.value)}
             >
               <option key={""} value={""}>
-                -- Le Solide --
+                -- Le Solide -- (portion : pour 100 g environ)
               </option>
               {saucisson.map((bot) => (
                 <option key={bot.ciqual_AGB} value={bot.nom_francais}>
