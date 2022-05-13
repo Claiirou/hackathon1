@@ -1,7 +1,3 @@
-.homeContainer {
-  margin-top: 50px;
-}
-
 .logoHome {
   width: 100%;
 }
@@ -25,7 +21,7 @@
 
 .titleHome {
   font-family: "Kodchasan", sans-serif;
-  font-size: 28px;
+  font-size: 22px;
   color: white;
   text-align: center;
   font-weight: bold;
@@ -77,5 +73,9 @@
     top: 50%;
     right: 15%;
     width: 30%;
+  }
+
+  .homeContainer {
+    margin-top: 50px;
   }
 }

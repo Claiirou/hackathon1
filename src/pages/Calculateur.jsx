@@ -2,14 +2,15 @@ import React, { useState } from "react";
 import brewery from "../assets/brewery.png";
 import aperitif from "../assets/aperitif.png";
 import "../styles/calculateur.css";
-import ice from "../assets/ice.mp3";
-import beer from "../assets/beer.gif";
+import Resultat from "../components/Resultat";
 import alcool from "../assets/alcools.json";
 import apero from "../assets/apero.json";
 import bieres from "../assets/bieres.json";
 import softs from "../assets/softs.json";
 import saucisson from "../assets/saucissonOlive.json";
 import bottle from "../assets/bottle.png";
+import ice from "../assets/ice.mp3";
+import beer from "../assets/beer.gif";
 import food from "../assets/assiette.png";
 
 function Calculateur() {
@@ -19,14 +20,14 @@ function Calculateur() {
   const [usersChoiceFood] = useState([]);
   const [toutLalcool] = useState([...alcool, ...bieres, ...softs]);
   const [touteLaBouffe] = useState([...saucisson, ...apero]);
-
   const sonIce = new Audio(ice);
+  const [endLoading, setEndLoading] = useState(false);
 
   const start = () => {
     sonIce.play();
   };
 
-  const [loading, setLoading] = React.useState(false);
+  const [loading, setLoading] = useState(false);
 
   function pickOneDrink(value) {
     setIsChosen(value);
@@ -42,10 +43,6 @@ function Calculateur() {
     );
   }
   function addItAllUp() {
-    // start();
-    setLoading(true);
-    setTimeout(() => setLoading(false), 4000);
-    setTimeout(() => start(), 2000);
     const syntheseAlcool = [];
     usersChoice.forEach((ouestcequonva) =>
       syntheseAlcool.push(
@@ -53,6 +50,7 @@ function Calculateur() {
           2
       )
     );
+
     const syntheseFood = [];
     usersChoiceFood.forEach((ouestcequonva) =>
       syntheseFood.push(
@@ -67,11 +65,18 @@ function Calculateur() {
         0
       ) /
       (250 / 52);
-    console.log(totalScore);
-    console.log(syntheseAlcool);
-    console.log(syntheseFood);
+    return totalScore;
   }
-
+  const bruitGif = () => {
+    setLoading(true);
+    setTimeout(() => setLoading(false), 4000);
+    setTimeout(() => start(), 2000);
+    setTimeout(() => setEndLoading(true), 4500);
+  };
+  function handleClick() {
+    addItAllUp();
+    bruitGif();
+  }
   return (
     <div className="calculateurContent">
       <h1 className="titleCalculateur">Alors, quoi de prévu pour l'apéro ?</h1>
@@ -144,10 +149,18 @@ function Calculateur() {
           </div>
         </div>
       </div>
-      <button type="submit" className="calculBtn" onClick={addItAllUp}>
+      <button type="submit" className="calculBtn" onClick={handleClick}>
         Calcul
       </button>
       {loading && <img className="gifBeer" src={beer} alt="beergif"></img>}
+      <div
+        className="affichResult"
+        style={
+          endLoading ? { visibility: "initial" } : { visibility: "hidden" }
+        }
+      >
+        <Resultat resultat={addItAllUp()} />
+      </div>
     </div>
   );
 }
