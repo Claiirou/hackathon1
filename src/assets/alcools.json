@@ -1,4 +1,5 @@
-[{
+[
+  {
     "nom_francais": "Pastis",
     "LCI_name": "Pastis (anise-flavoured spirit)",
     "ciqual_AGB": "1000",
@@ -4802,4 +4803,5 @@
         }
       }
     }
-  }]
+  }
+]

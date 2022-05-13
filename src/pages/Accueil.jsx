@@ -16,7 +16,7 @@ const Accueil = () => {
   };
 
   return (
-    <div>
+    <div className="homeContainer">
       {" "}
       <div className="textImgHome">
         <img src={logo2} alt="logo" className="logoHome"></img>

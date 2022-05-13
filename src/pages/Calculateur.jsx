@@ -9,9 +9,9 @@ import bieres from "../assets/bieres.json";
 import softs from "../assets/softs.json";
 import saucisson from "../assets/saucissonOlive.json";
 import bottle from "../assets/bottle.png";
-import nuts from "../assets/nuts.png";
 import ice from "../assets/ice.mp3";
 import beer from "../assets/beer.gif";
+import food from "../assets/assiette.png";
 
 function Calculateur() {
   const [isChosen, setIsChosen] = useState("");
@@ -80,71 +80,73 @@ function Calculateur() {
   return (
     <div className="calculateurContent">
       <h1 className="titleCalculateur">Alors, quoi de prévu pour l'apéro ?</h1>
-      <div className="selectBottle">
-        <img src={brewery} alt="brewery" className="breweryImg" />
+      <div className="selectContainer">
+        <div className="selectBottle">
+          <img src={brewery} alt="brewery" className="breweryImg" />
 
-        <div className="bottleContent">
-          <select
-            className="beer-input"
-            value={isChosen}
-            onChange={(e) => pickOneDrink(e.target.value)}
-          >
-            <option key={""} value={""}>
-              -- Boissons (pour 50cL) --
-            </option>
-            {bieres.map((bot) => (
-              <option key={bot.ciqual_AGB} value={bot.nom_francais}>
-                {bot.nom_francais}
+          <div className="bottleContent">
+            <select
+              className="beer-input"
+              value={isChosen}
+              onChange={(e) => pickOneDrink(e.target.value)}
+            >
+              <option key={""} value={""}>
+                -- Boissons -- (portion : pour 50 cl environ)
               </option>
-            ))}
-            {alcool.map((bot) => (
-              <option key={bot.ciqual_AGB} value={bot.nom_francais}>
-                {bot.nom_francais}
-              </option>
-            ))}
-            {softs.map((bot) => (
-              <option key={bot.ciqual_AGB} value={bot.nom_francais}>
-                {bot.nom_francais}
-              </option>
-            ))}
-          </select>
+              {bieres.map((bot) => (
+                <option key={bot.ciqual_AGB} value={bot.nom_francais}>
+                  {bot.nom_francais}
+                </option>
+              ))}
+              {alcool.map((bot) => (
+                <option key={bot.ciqual_AGB} value={bot.nom_francais}>
+                  {bot.nom_francais}
+                </option>
+              ))}
+              {softs.map((bot) => (
+                <option key={bot.ciqual_AGB} value={bot.nom_francais}>
+                  {bot.nom_francais}
+                </option>
+              ))}
+            </select>
 
-          {usersChoice.map((u) => (
-            <div key={u.ciqual_AGB} className="drinks-added">
-              <img src={bottle} alt={u.nom_francais} />
-              <p>{u.nom_francais}</p>
-            </div>
-          ))}
+            {usersChoice.map((u) => (
+              <div className="drinks-added">
+                <img src={bottle} alt={u.nom_francais} />
+                <p>{u.nom_francais}</p>
+              </div>
+            ))}
+          </div>
         </div>
-      </div>
-      <div className="selectAperitif">
-        <img src={aperitif} alt="aperitif" className="aperitifImg" />
-        <div className="aperitifContent">
-          <select
-            className="beer-input"
-            value={isChosenFood}
-            onChange={(e) => pickOneFood(e.target.value)}
-          >
-            <option key={""} value={""}>
-              -- Le Solide (pour 100g) --
-            </option>
-            {saucisson.map((bot) => (
-              <option key={bot.ciqual_AGB} value={bot.nom_francais}>
-                {bot.nom_francais}
+        <div className="selectAperitif">
+          <img src={aperitif} alt="aperitif" className="aperitifImg" />
+          <div className="aperitifContent">
+            <select
+              className="beer-input"
+              value={isChosenFood}
+              onChange={(e) => pickOneFood(e.target.value)}
+            >
+              <option key={""} value={""}>
+                -- Le Solide -- (portion : pour 100 g environ)
               </option>
+              {saucisson.map((bot) => (
+                <option key={bot.ciqual_AGB} value={bot.nom_francais}>
+                  {bot.nom_francais}
+                </option>
+              ))}
+              {apero.map((bot) => (
+                <option key={bot.ciqual_AGB} value={bot.nom_francais}>
+                  {bot.nom_francais}
+                </option>
+              ))}
+            </select>
+            {usersChoiceFood.map((u) => (
+              <div className="food-added">
+                <img src={food} alt={u.nom_francais} />
+                <p>{u.nom_francais}</p>
+              </div>
             ))}
-            {apero.map((bot) => (
-              <option key={bot.ciqual_AGB} value={bot.nom_francais}>
-                {bot.nom_francais}
-              </option>
-            ))}
-          </select>
-          {usersChoiceFood.map((u) => (
-            <div className="food-added" key={u.ciqual_AGB}>
-              <img src={nuts} alt={u.nom_francais} />
-              <p>{u.nom_francais}</p>
-            </div>
-          ))}
+          </div>
         </div>
       </div>
       <button type="submit" className="calculBtn" onClick={handleClick}>
