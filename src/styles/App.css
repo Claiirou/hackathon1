@@ -12,6 +12,10 @@ body {
   background-size: cover;
 }
 
+.appContainer {
+  position: relative;
+}
+
 main {
-  min-height: 80vh;
+  margin-bottom: 80px;
 }
