@@ -2,6 +2,8 @@ import React, { useState } from "react";
 import brewery from "../assets/brewery.png";
 import aperitif from "../assets/aperitif.png";
 import "../styles/calculateur.css";
+import ice from "../assets/ice.mp3";
+import beer from "../assets/beer.gif";
 import alcool from "../assets/alcools.json";
 import apero from "../assets/apero.json";
 import bieres from "../assets/bieres.json";
@@ -18,6 +20,14 @@ function Calculateur() {
   const [toutLalcool] = useState([...alcool, ...bieres, ...softs]);
   const [touteLaBouffe] = useState([...saucisson, ...apero]);
 
+  const sonIce = new Audio(ice);
+
+  const start = () => {
+    sonIce.play();
+  };
+
+  const [loading, setLoading] = React.useState(false);
+
   function pickOneDrink(value) {
     setIsChosen(value);
     usersChoice.push(
@@ -32,6 +42,10 @@ function Calculateur() {
     );
   }
   function addItAllUp() {
+    // start();
+    setLoading(true);
+    setTimeout(() => setLoading(false), 4000);
+    setTimeout(() => start(), 2000);
     const syntheseAlcool = [];
     usersChoice.forEach((ouestcequonva) =>
       syntheseAlcool.push(
@@ -61,78 +75,77 @@ function Calculateur() {
   return (
     <div className="calculateurContent">
       <h1 className="titleCalculateur">Alors, quoi de prévu pour l'apéro ?</h1>
-      <div className="selectContainer">
-        <div className="selectBottle">
-          <img src={brewery} alt="brewery" className="breweryImg" />
+      <div className="selectBottle">
+        <img src={brewery} alt="brewery" className="breweryImg" />
 
-          <div className="bottleContent">
-            <select
-              className="beer-input"
-              value={isChosen}
-              onChange={(e) => pickOneDrink(e.target.value)}
-            >
-              <option key={""} value={""}>
-                -- Boissons -- (portion: pour 50 cl environ)
+        <div className="bottleContent">
+          <select
+            className="beer-input"
+            value={isChosen}
+            onChange={(e) => pickOneDrink(e.target.value)}
+          >
+            <option key={""} value={""}>
+              -- Boissons --
+            </option>
+            {bieres.map((bot) => (
+              <option key={bot.ciqual_AGB} value={bot.nom_francais}>
+                {bot.nom_francais}
               </option>
-              {bieres.map((bot) => (
-                <option key={bot.ciqual_AGB} value={bot.nom_francais}>
-                  {bot.nom_francais}
-                </option>
-              ))}
-              {alcool.map((bot) => (
-                <option key={bot.ciqual_AGB} value={bot.nom_francais}>
-                  {bot.nom_francais}
-                </option>
-              ))}
-              {softs.map((bot) => (
-                <option key={bot.ciqual_AGB} value={bot.nom_francais}>
-                  {bot.nom_francais}
-                </option>
-              ))}
-            </select>
-
-            {usersChoice.map((u) => (
-              <div className="drinks-added">
-                <img src={bottle} alt={u.nom_francais} />
-                <p>{u.nom_francais}</p>
-              </div>
             ))}
-          </div>
+            {alcool.map((bot) => (
+              <option key={bot.ciqual_AGB} value={bot.nom_francais}>
+                {bot.nom_francais}
+              </option>
+            ))}
+            {softs.map((bot) => (
+              <option key={bot.ciqual_AGB} value={bot.nom_francais}>
+                {bot.nom_francais}
+              </option>
+            ))}
+          </select>
+
+          {usersChoice.map((u) => (
+            <div className="drinks-added">
+              <img src={bottle} alt={u.nom_francais} />
+              <p>{u.nom_francais}</p>
+            </div>
+          ))}
         </div>
-        <div className="selectAperitif">
-          <img src={aperitif} alt="aperitif" className="aperitifImg" />
-          <div className="aperitifContent">
-            <select
-              className="beer-input"
-              value={isChosenFood}
-              onChange={(e) => pickOneFood(e.target.value)}
-            >
-              <option key={""} value={""}>
-                -- Le Solide -- (portion: pour 100 g environ)
+      </div>
+      <div className="selectAperitif">
+        <img src={aperitif} alt="aperitif" className="aperitifImg" />
+        <div className="aperitifContent">
+          <select
+            className="beer-input"
+            value={isChosenFood}
+            onChange={(e) => pickOneFood(e.target.value)}
+          >
+            <option key={""} value={""}>
+              -- Le Solide --
+            </option>
+            {saucisson.map((bot) => (
+              <option key={bot.ciqual_AGB} value={bot.nom_francais}>
+                {bot.nom_francais}
               </option>
-              {saucisson.map((bot) => (
-                <option key={bot.ciqual_AGB} value={bot.nom_francais}>
-                  {bot.nom_francais}
-                </option>
-              ))}
-              {apero.map((bot) => (
-                <option key={bot.ciqual_AGB} value={bot.nom_francais}>
-                  {bot.nom_francais}
-                </option>
-              ))}
-            </select>
-            {usersChoiceFood.map((u) => (
-              <div className="food-added">
-                <img src={food} alt={u.nom_francais} />
-                <p>{u.nom_francais}</p>
-              </div>
             ))}
-          </div>
+            {apero.map((bot) => (
+              <option key={bot.ciqual_AGB} value={bot.nom_francais}>
+                {bot.nom_francais}
+              </option>
+            ))}
+          </select>
+          {usersChoiceFood.map((u) => (
+            <div className="food-added">
+              <img src={food} alt={u.nom_francais} />
+              <p>{u.nom_francais}</p>
+            </div>
+          ))}
         </div>
       </div>
       <button type="submit" className="calculBtn" onClick={addItAllUp}>
         Calcul
       </button>
+      {loading && <img className="gifBeer" src={beer} alt="beergif"></img>}
     </div>
   );
 }
