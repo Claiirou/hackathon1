@@ -17,7 +17,7 @@
   width: 95%;
   min-height: 50px;
   margin: 2.5%;
-  margin-bottom: 20%;
+  margin-bottom: 10%;
   border-radius: 10px;
   box-shadow: 2px 2px 2px black;
   display: flex;
@@ -80,6 +80,8 @@
   height: 40px;
   margin-left: 25%;
   margin-right: 25%;
+  margin-top: 10%;
+  margin-bottom: 10%;
   color: white;
   font-size: 2rem;
   cursor: pointer;
@@ -185,6 +187,7 @@
   min-height: 50px;
   margin: 2.5%;
   margin-bottom: 10%;
+  margin-top: 0;
   border-radius: 10px;
   box-shadow: 2px 2px 2px black;
   color: white;
