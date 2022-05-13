@@ -42,9 +42,10 @@ function Calculateur() {
     );
   }
   function addItAllUp() {
-    start();
+    // start();
     setLoading(true);
     setTimeout(() => setLoading(false), 4000);
+    setTimeout(() => start(), 2000);
     const syntheseAlcool = [];
     usersChoice.forEach((ouestcequonva) =>
       syntheseAlcool.push(
