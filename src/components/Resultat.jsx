@@ -9,7 +9,6 @@ function Resultat({ resultat }) {
         resultat * 100
       )}% de l'émission hebdomadaire moyenne de CO2 en France liée à l'alcool`}</div>
       <GaugeChart id="gauge-chart2" nrOfLevels={4} percent={resultat} />
-      <div className="reference">De la consommation annuelle française !</div>
     </div>
   );
 }

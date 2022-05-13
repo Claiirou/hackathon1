@@ -67,12 +67,14 @@
     top: 50%;
     left: 15%;
     width: 30%;
+    font-size: 20px;
   }
 
   .text2 {
     top: 50%;
     right: 15%;
     width: 30%;
+    font-size: 20px;
   }
 
   .homeContainer {

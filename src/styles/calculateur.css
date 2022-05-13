@@ -129,6 +129,8 @@
     width: 30%;
     display: block;
     margin: 0 auto;
+    margin-bottom: 80px;
+    height: 60px;
   }
 
   .beer-input {
@@ -141,6 +143,11 @@
 
   .drinks-added p {
     overflow: visible;
+  }
+  .affichResult {
+    width: 40%;
+    margin-right: auto;
+    margin-left: auto;
   }
 }
 
